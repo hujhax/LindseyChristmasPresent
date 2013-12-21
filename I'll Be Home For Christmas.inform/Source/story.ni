@@ -4,16 +4,16 @@ Book 1 - First Floor
 
 Section 1 - Rooms
 
-There is a room called PetersBedroom. The printed name of it is "Peter[']s Bedroom".
+There is a room called Peter's Bedroom. The printed name of it is "Peter[']s Bedroom".
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
 
-There is a room called MomsBedroom. The printed name of it is "Mom[']s Bedroom".
+There is a room called Mom's Bedroom. The printed name of it is "Mom[']s Bedroom".
 "You never really spend much time in here.  A queen-sized bed dominates the room, with a small nightstand beside it.  Along the east wall, there's a dresser with a mirror above it.  To the northeast, you can go into the master bathroom."
 
-There is a room called MomsBathroom. The printed name of it is "Mom[']s Bathroom".
+There is a room called Mom's Bathroom. The printed name of it is "Mom[']s Bathroom".
 "The bathroom has the usual accouterments: shower, toilet, sink, mirror.  It's all fairly compact, with more space taken up by the kitty litter for Samson Cat.  A small window box, like a tiny greenhouse, pokes out of the south wall."
 
-There is a room called PetersCloset. The printed name of it is "Peter[']s Closet".
+There is a room called Peter's Closet. The printed name of it is "Peter[']s Closet".
 "It's kind of amazing that you can fit in your closet, cramped and small as it is.  Sweaters and long-sleeved shirts hang from the bar that runs the length of it, and giant storage boxes line the floor.  A shelf above the bar provides additional storage."
 
 There is a room called Hallway.
@@ -55,15 +55,15 @@ There is a room called Dining Room.
 
 There is a room called Back Stoop.
 
-North of PetersBedroom is PetersCloset.
-Northwest of PetersBedroom is Hallway.  Southeast of Hallway is nowhere.
+North of Peter's Bedroom is Peter's Closet.
+Northwest of Peter's Bedroom is Hallway.  Southeast of Hallway is nowhere.
 North of Hallway is Foyer.
-South of Hallway is PetersBedroom.
+South of Hallway is Peter's Bedroom.
 East of Hallway is Spare Bedroom.
 West of Hallway is Bathroom.
-Southwest of Hallway is MomsBedroom.
-Northwest of MomsBedroom is MomsBathroom.  Southeast of MomsBathroom is nowhere.
-South of MomsBathroom is MomsBedroom.  North of MomsBedroom is nowhere.
+Southwest of Hallway is Mom's Bedroom.
+Northwest of Mom's Bedroom is Mom's Bathroom.  Southeast of Mom's Bathroom is nowhere.
+South of Mom's Bathroom is Mom's Bedroom.  North of Mom's Bedroom is nowhere.
 North of Foyer is Backyard Overlook.
 East of Foyer is Front Stoop.
 West of Foyer is Front Closets.
