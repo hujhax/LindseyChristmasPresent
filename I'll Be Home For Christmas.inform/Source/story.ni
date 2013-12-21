@@ -34,7 +34,7 @@ Northwest of MomsBedroom is MomsBathroom.  Southeast of MomsBathroom is nowhere.
 South of MomsBathroom is MomsBedroom.  North of MomsBedroom is nowhere.
 North of Foyer is Backyard Overlook.
 East of Foyer is Front Stoop.
-East of Foyer is Front Closets.
+West of Foyer is Front Closets.
 North of Front Closets is Backyard Overlook.
 North of Backyard Overlook is Couches.
 East of Backyard Overlook is Living Room.
