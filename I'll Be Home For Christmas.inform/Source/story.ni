@@ -5,22 +5,54 @@ Book 1 - First Floor
 Section 1 - Rooms
 
 There is a room called PetersBedroom. The printed name of it is "Peter[']s Bedroom".
+"Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
+
 There is a room called MomsBedroom. The printed name of it is "Mom[']s Bedroom".
+"You never really spend much time in here.  A queen-sized bed dominates the room, with a small nightstand beside it.  Along the east wall, there's a dresser with a mirror above it.  To the northeast, you can go into the master bathroom."
+
 There is a room called MomsBathroom. The printed name of it is "Mom[']s Bathroom".
+"The bathroom has the usual accouterments: shower, toilet, sink, mirror.  It's all fairly compact, with more space taken up by the kitty litter for Samson Cat.  A small window box, like a tiny greenhouse, pokes out of the south wall."
+
 There is a room called PetersCloset. The printed name of it is "Peter[']s Closet".
+"It's kind of amazing that you can fit in your closet, cramped and small as it is.  Sweaters and long-sleeved shirts hang from the bar that runs the length of it, and giant storage boxes line the floor.  A shelf above the bar provides additional storage."
+
 There is a room called Hallway.
+"This narrow hallway leads from the open areas (dining room, living room, kitchen) to the bedrooms.  There are four doors: to the west is the bathroom; to the southwest is your mother's bedroom, to the south is your bedroom, and to the east is the spare bedroom.  To the north, the hallway opens out to the rest of the house.  A single light fixture hangs from the ceiling."
+
 There is a room called Spare Bedroom.
+"Storage dominates this room.  You see a couch along the east wall, next to the windows, but it's inaccessible under boxes and laundry hampers filled with bric-a-brac.  A wooden display case takes up even more space along the east wall.  All you can access is the computer desk and the chair."
+
 There is a room called Bathroom.
+"Nothing too fancy here: a shower/tub combo, a toilet, a medicine cabinet above the toilet, and a sink with a mirror."
+
 There is a room called Foyer.
+"The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
+
 There is a room called Front Stoop.
+
 There is a room called Front Closets.
+"An open corner near the front door has a couple of large closets built into adjacent walls."
+
 There is a room called Backyard Overlook.
+"To the south, a massive bookshelf is built into the wall.  Along the west wall, there's an ottoman, a credenza, and several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen."
+
 There is a room called Living Room.
+"Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway.  You can go west to some windows overlooking the backyard."
+
 There is a room called Kitchen.
+"The kitchen is dominated by counter space -- a large 'island' in the center of the room, and a smaller 'peninsula' to the west.  Along the walls are the usual kitchen appliances: the fridge, the microwave, the dishwasher, and the oven.  Cabinets and shelves occupy every other square foot of wall space.  To the west is a set of couches, or you can go north to the dining room or northeast to the laundry room."
+
 There is a room called Laundry Room.
+"This cramped, hot room contains the washer and dryer.  There is a locked door to the south.  To the southwest is the kitchen."
+
 There is a room called Basement.
+
 There is a room called Couches.
+"A couple of couches line the west wall of the house.  To the northeast is the dining room.  To the east is the kitchen."
+
 There is a room called Dining Room.
+"A large table dominates the room, with a half-dozen rolling chairs tucked into it.  Along the south and west walls, windows look out onto the backyard.  One small endtable supports a TV set.  A small rolling shelf supports a phone."
+
 There is a room called Back Stoop.
 
 North of PetersBedroom is PetersCloset.
