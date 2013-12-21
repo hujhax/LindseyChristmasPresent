@@ -4,16 +4,16 @@ Book 1 - First Floor
 
 Section 1 - Rooms
 
-There is a room called Peter's Bedroom. The printed name of it is "Peter[']s Bedroom".
+There is a room called Peter's Bedroom. 
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
 
-There is a room called Mom's Bedroom. The printed name of it is "Mom[']s Bedroom".
+There is a room called Mom's Bedroom. 
 "You never really spend much time in here.  A queen-sized bed dominates the room, with a small nightstand beside it.  Along the east wall, there's a dresser with a mirror above it.  To the northeast, you can go into the master bathroom."
 
-There is a room called Mom's Bathroom. The printed name of it is "Mom[']s Bathroom".
+There is a room called Mom's Bathroom. 
 "The bathroom has the usual accouterments: shower, toilet, sink, mirror.  It's all fairly compact, with more space taken up by the kitty litter for Samson Cat.  A small window box, like a tiny greenhouse, pokes out of the south wall."
 
-There is a room called Peter's Closet. The printed name of it is "Peter[']s Closet".
+There is a room called Peter's Closet. 
 "It's kind of amazing that you can fit in your closet, cramped and small as it is.  Sweaters and long-sleeved shirts hang from the bar that runs the length of it, and giant storage boxes line the floor.  A shelf above the bar provides additional storage."
 
 There is a room called Hallway.
