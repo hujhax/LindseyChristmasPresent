@@ -210,6 +210,32 @@ After examining the walls in the Hallway, say "There is a fancy photo-display fr
 
 The photo display frame is scenery in the Hallway.  "This is a very 70s-looking photo-display frame, with rough, dark-brown metal sticks crisscrossing vertically and horizontally and occasionally forming frames for 4'x6' glossy photos.  It has one photo of you, sitting in the backyard in your cream-colored sweater, staring off into the distance in a way that you think looks totally contemplative.  The other photos are of your siblings."
 
+Chapter 5 - The Spare Bedroom
+
+The computer desk is a supporter in the Spare Bedroom.  It is fixed in place.  The description of the computer desk is "This desk is not so much a desk as a couple of tables, one overlapping the other, crammed into the corner of the room at right angles."
+
+The home computer is a device on the desk.  The description of the home computer is "This is a pretty nice PC knockoff.  The main computer case is a big beige metal box that's about the size of two shoeboxes, with a brand-new, 3.5' floppy disk drive in front.  On top of that is the monitor, another beige metal box that serves as a twelve inch-green monochrome display.  Your mother has covered both units in post-its with your mother's scribbled notes of passwords and reminders about how to use the computer."
+
+The printer is a device on the desk.  The description of the printer is "Like the other computer components, this dot-matrix printer is a beige box covered in explanatory post-it notes.  In this case, the box is made of plastic and is open at the top, where the printer paper feeds through it."
+
+The printer paper is scenery in the Spare Bedroom.  "A long roll of printer paper feeds through the printer.  Its background is alternating rows of white and pale green, and its margins are lined with little holes that the printer's sprockets can poke through."
+
+The chair is scenery in the Spare Bedroom.  "A tall brown rolling chair.  The back is vinyl at the top and fabric at the bottom.  It has small armrests, and sits on a clear plastic sheet atop the carpet, so that it can roll around -- or rather, could roll around, if the storage bins and mounds of bric-a-brac made that impossible."
+
+The storage bins are scenery in the Spare Bedroom. "There are so many storage boxes in here you can scarcely move around. The cats are not allowed in this room because they immediately hide among the wonderland of bins and cannot be coaxed back out at mealtimes. 
+
+The bulk of the mountain consists of several large, bright, stylized, yellow-and-red floral patterned boxes.  But then on top of those, there are several smaller cuboid boxes -- storage boxes from some ice-cream company, if the printed logos are to be trusted.  All of the boxes contain lord-knows-what: you see old newspapers, sheafs of papers, a box of light bulbs, a small tin containing rubber bands, and miscellaneous items that must've been bought at yard sales, must date from the 1970s, and must have been intended as decorative." 
+
+Understand "bric-a-brac" and "mounds of bric-a-brac" as the storage bins.
+
+The display case is a supporter in the Spare Bedroom.  It is fixed in place.  "A tall display case that contains a few bits objet's d'art and a Pascal book."
+
+The Pascal book is scenery in the spare bedroom.  "It's Oh, Pascal!, the first programming book that you've ever bought.  You've been using it to learn Pascal, a new programming language that seems really different from BASIC."
+
+Understand "random smattering of books" and "smattering of books" as some books.
+
+The computer game is on the display shelf.  "This is a copy of Enchanter, one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
+
 
 Book 2 - Utilities
 
