@@ -2,7 +2,7 @@
 
 Book 1 - First Floor
 
-Section 1 - Rooms
+Section 1 - Rooms 
 
 There is a room called Peter's Bedroom. 
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
@@ -79,6 +79,111 @@ South of Laundry Room is Basement.
 Northeast of Couches is Dining Room.
 North of Dining Room is Back Stoop.
 Outside of Dining Room is Back Stoop.
+
+Section 2 - Objects
+
+The carpet is a backdrop.  It is everywhere.  "Throughout this floor of the house, the carpet is a little old, and probably needs to be replaced.  The carpet itself is fairly thin and rough-feeling, in muted, tasteful colors."
+
+The walls are a backdrop.  They are everywhere.  "The walls are a plain off-white color."
+
+The ceiling is a backdrop.  It is everywhere.  "Throughout this floor of the house, the ceilings are plain white with a faint stucco pattern."
+
+The desk is a supporter in Peter's Bedroom. The description of the desk is "You have no idea where your desk came from.  You know it's old, and massive, and made of wood.  The edges of the top of a pretty pattern of narrow inset rectangles, like a string of corrugated ribbon, and the desk itself has a number of drawers."
+
+The desk drawers are scenery in Peter's Bedroom.  "There are six desk drawers: a wide, narrow center drawer; two small drawers on the top left and middle left; and three large drawers on the bottom left, top right, and bottom right.  Each drawer has a neat-looking drawer-pull."
+
+The top left drawer, the middle left drawer, the bottom left drawer, the center drawer, the top right drawer, and the bottom right drawer are closed, openable containers in Peter's Bedroom. 
+
+The drawer pulls are scenery in Peter's Bedroom.  "Each drawer pull is made of metal -- something like copper or bronze, dingy with years of use and no cleaning -- worked into an ornate pattern against the wood, with a small hinged handle hanging on the front."
+
+Some photographs are in the top left drawer.  The description of some photographs is "These are several sleeves of 3'x5' color photographs you've taken over the last year or two with your Dad.  One of them is all architecture -- buildings around Louisville, including a nice one from the interior of the sphinxlike Humana building.  Another is nothing but fall leaves -- hillsides of red and orange poplars, individual dying leaves backlit by the sun.  A third seems to be photos you've taken around the backyard."
+
+Some pencils are in the center drawer.  The description of some pencils is "An old, cheap, plastic tray contains pencils and pens.  The pencils are most just your usual #2 Dixon Ticonderogas.  You have a few fancy new 'mechanical pencils'."
+
+A French curve is in the center drawer.  The description of a French curve is "This is a flat piece of hard plastic, starting to yellow a bit with age, which whorls around in whimsical, Dr.-Seuss-like curved shapes.  You have no idea what it's used for."
+
+A protractor is in the center drawer.  The description of a protractor is "A run-of-the-mill D-shaped piece of plastic used for measuring angles."
+
+A compass is in the center drawer.  The description of a compass is "This is a compass that draws circles, rather than a compass that points north.  Though presumably you could point it north, if you knew which direction north was."
+
+Some magnifying lenses are in the center drawer.  The description of some magnifying lenses is "This is a set of three magnifiying lenses of different magnifications.  Each lens is about half an inch in diameter, and is surrounded by a black plastic ring with a notch in it.  You use the notch to pull its lens out of a snug black plastic case, kind of like a Swiss Army Knife.  It's possible to arrange the lenses so it looks like a little bird, with one lens for the head and the other two for wings."
+
+A calculator is in the center drawer.  The description of a calculator is "This is a Radio Shack calculator, one of the new solar-powered ones, which comes in a neat black plastic case that you can clip shut."
+
+A camera is in the bottom left drawer.  The description of a camera is "This is a fairly nice Nikon 35mm camera -- a gift from your dad not long after the divorce.  You and he still go out to take photographs sometimes."
+
+A desk lamp is a device on the desk.  It is switched off.  It is fixed in place. The description of a desk lamp is "This old lamp probably came from a yard sale somewhere.  It has a black base, a dingy chrome gooseneck, and a rectangular plastic lampshade that shields a fluorescent tube light.  Two buttons on the base, one orange and one white, turn the lamp on and off respectively.  The desk lamp is currently [if switched off]off.[otherwise]on, shining a sickly, pallid light over the surface of the desk."
+
+The display shelf is scenery in Peter's Bedroom.  "This is a tall, cheap set of shelves next to your desk.  The construction -- maybe particle board with a plastic, wood-pattern laminate surface -- looks like it would fall apart if you punched it.  It has a top shelf, a middle shelf, and a bottom shelf.  There is a marathon poster and a comic attached to the side of the shelf."
+
+The top shelf is a supporter in Peter's Bedroom. The description of the top shelf is "The top shelf of the display shelf contains a set of games."
+
+The middle shelf is a supporter in Peter's Bedroom. The description of the middle shelf is "The middle shelf of the display shelf has a pile of tapes."
+
+The bottom shelf is scenery in Peter's Bedroom.  "The bottom shelf is blocked by the right side of the desk, so it's dark and inaccessible.  You're pretty sure there's nothing down there."
+
+The marathon posters is scenery in Peter's Bedroom.  "This is a tall, narrow poster from the Cleveland Marathon.  While you have no interest in marathons (or Cleveland), it's a pretty design, featuring a cat that's a dead ringer for Samson cat sitting proudly in front of an art-deco suspension bridge."
+
+The comic is scenery in Peter's Bedroom.  "This is the last Bloom County comic, clipped out of The Courier Journal and glued to a sheet of paper, and in turn hand-tacked to the side of the display shelf."
+
+The games are scenery on the top shelf.  "These are the only games you keep in your room any more.  You used to collect them like mad, but they took up lots of space and you hardly ever played them, so most of them are boxed up in storage in the basement.  You've held on to a dozen or so 'bookshelf games', well-designed games from the late seventies whose cardboard boxes are designed to look like luxurious, leather-bound books.  You see all the familiar titles: Acquire, Twixt, Quinto, Feudal, Foil, and so on."
+
+Some cassette tapes are scenery on the middle shelf.  "This is a pile of old cassette tapes that your brother left behind when he headed off to Northwestern.  A few tapes are set aside from the rest: an REM tape, a Sam Cooke tape, and Pink Floyd tape."
+
+The rolling table is a supporter in Peter's Bedroom. The description of the rolling table is "A small gray table with metal legs and wheels at the bottom.  Between the gummed-up bearings in the wheels and the caster-unfriendly carpeting, the table is pretty well rooted in place."
+
+The stereo is a container on the rolling table.  The description of the stereo is "This is a bookshelf-audio system that your dad bought you shortly after the divorce.  It's made of cheap black plastic, and it's some generic off brand ('Yorx'), and it's old enough to have a turntable at the top of it -- who uses those any more?  Fortunately, it has FM/AM radio and not one but two cassette bays, so it works fine for your purposes."
+
+The windows are scenery in Peter's Bedroom.  "The windows in the room are tall and narrow, and sit behind tall curtains.  A little gray metal crank beneath each window opens and shuts it -- the windows are hinged to tilt out sideways -- and little metal levers alongside the windowsill lock them in place.  But it's winter, and it's cold, so the windows are staying closed, and the screens are in storage in the basement."
+
+The curtains are scenery in Peter's Bedroom. "The curtains are heavy, with a white, light-blocking layer facing the window, and some cheap-feeling goldenrod fabric facing you.  A little string off to the side pulls the curtains (mostly) open and shut.  You figure you'll just leave them open for now."
+
+The bookshelf is a supporter in Peter's Bedroom.  The description of the bookshelf is "The long wooden bookshelf runs from the foot of your bed to the opposite wall.  On top of the bookshelf, you see trophies, a set of plastic letters, and a paperweight.  Below it are two rows of books."
+
+The rows of books are scenery in Peter's Bedroom. "The top row of books has a lot of math books -- most notably a giant, beaten up calculus textbook and a couple of 'recreational math' books by Martin Gardener -- between a couple of cat bookends.  The bottom row of books has a section of comic trade paperbacks (including a set of worn-out Bloom County trade paperbacks), and a whole bevvy of language-instruction books, including a 'teach yourself Pitman shorthand' manual and a set of tapes for learning Norwegian.  You are fluent in precisely zero foreign languages, but you find them fun to learn about.  Also on the bottom shelf is the single yearbook you've gotten from South Oldham."
+
+The cat bookends are scenery in Peter's Bedroom. "You have no idea where the cat bookends came from, especially since they look like the sort of precious porcelain curios that should belong to a 60-year-old female librarian.  Each one depicts an idealized white cat batting at a wall, its 'wall' and 'floor' forming a right angle that presumably holds the row of books at bay."
+
+The trophies are scenery on the bookshelf.  "Various academic-team trophies fill the shelf.  The biggest is for some meager local standing in the AHSME, or 'American High-School Math Exam' -- basically a participation trophy for its second round.  There are a few from the local academic-team circuit, and a placard from the 'Sweet 16' math competition.  Almost hidden beneath all of these is a tiny 'Volleyball' trophy, which came from the impromptu volleyball competition that happened at the math contest."
+
+A paperweight is scenery on the bookshelf.  "A plain, transparent acrylic cuboid.  You never actually have use for a paperweight, but you leave this around as decoration."
+
+The plastic letters are scenery on the bookshelf.  "The set of acrylic capital letters spell out 'PETER'.  You've taken some care to arrange them artistically, with the 'P' leaning against the first 'E', the 'T' resting its arms on the two 'E's, and the main ascender of the 'R' hitched up atop the base stroke of the second 'E'."
+
+Understand the command "play" as something new.
+Playing is an action applying to one carried thing.
+Understand "play [something]" as playing.
+
+A cheap keyboard is in Peter's Bedroom.  The description of the cheap keyboard is "This is a bottom-of-the-line Casio keyboard.  It features a few dozen non-weighted keys, a speaker the size of several quarters laid end-to-end, and a selection of rhythm buttons, including 'Rock 2' and 'Bossa Nova'.  Your mother bought this for you after relentless begging for *some* kind of piano for every birthday and Christmas.  Now, years later, it sits in the corner unused."
+
+Instead of playing the keyboard, say "You do what you always do: start up a simple, cheesy rhythm, and then play a slow, repetitive cycle of bass notes in your left hand while improvising a melody with your right.  You never got that good at this, but you could always peacefully lose yourself in this for a while.  You smile nostalgically and turn the keyboard back off."
+
+An electric guitar is in Peter's Bedroom.  The description of the guitar is "This is the guitar that's on indefinite loan from your brother.  It's a Stratocaster, one of the new cheapies from Mexico.  The faceplate and the body are white, though the paint is worn through in a big splotch on the back, where you can see through to the deep-brown wood.  It has a switch that lets you select different pickups, which would probably make a difference if you had an amp for it.  It's also got a little 'whammy bar' by the bridge that tightens and slackens all the strings at once.  As far as you can tell, its main purpose is to put the guitar out of tune."
+
+Instead of playing the guitar, say "You do the best you can, haltingly strumming the three chords (G major, C major, D major) that you've learned so far.  Pretty soon it makes your fingertips hurt, so you tuck the pick in between the strings and end your little practice session."
+
+The bed is scenery in Peter's Bedroom.  "This is a full-sized bed, with a mattress that's as old as... hmm.  You can't remember the mattress ever being bought.  The bedframe is pretty, with a decorative wooden pole sticking up at each corner of the bed, and a simple headboard at the head of it.  The sheets are plain, inoffensive monocolors."
+
+The sheets are scenery in Peter's Bedroom.  "As usual, the sheets are heaped into a ball.  You just sleep more comfortably that way."
+
+Instead of examining the walls in Peter's Bedroom, say "The walls in this room are an innocuous beige color.  You have an Escher print on the wall above your bed."
+
+The Escher print is scenery in Peter's Bedroom.  "Escher's infinite waterfall is nailed neatly to the wall above the head of your bed.  On and on goes the water, through impossible spacial distortions, forever."
+
+After examining the ceiling in Peter's Bedroom, say "In this room, there is a light fixture in the middle of the ceiling."
+
+The light fixutre is scenery in Peter's Bedroom.  "The ceiling light has four incandescent light bulbs and a five-bladed ceiling fan.  Whenever the fan spins, the fixture wobbles, and you can’t help playing out mental scenarios where you have to dodge out of its way with lightning-quick reflexes."
+
+After examining the carpet in Peter's Bedroom, say "In this room, the carpet is dark brown."
+
+The dresser is a closed, openable container in Peter's Bedroom.  It is fixed in place.  The description of the dresser is "Your dresser is another old, heavy, wooden piece of furniture.  It has five drawers, none of which slide quite right on their rails.  An alarm clock sits on top of the dresser."
+
+The alarm clock is scenery in Peter's Bedroom.  "This alarm clock is pretty much the bane of your existence.  It reminds you of the irritating insomnia you have every night, and it wakes you up bright and early at 6:30am on every school day.  It's a big plastic box, its top surface decorated to look like dark-brown wood.  Its front display is split between the AM/FM tuner (which you never use) and the small blue LED digits that display the current time.  (It's now 5:45pm.)"
+
+Some clothes are in the dresser.  They are fixed in place. oThe description of some clothes is "You see your usual clothes in the dresser: some ragged jeans, some khakis, and your random collection of T-shirts."
+
+The trash bin is in Peter's Bedroom.  "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
+
 
 Book 2 - Utilities
 
