@@ -178,7 +178,7 @@ The Escher print is scenery in Peter's Bedroom.  "Escher's infinite waterfall is
 
 After examining the ceiling in Peter's Bedroom, say "In this room, there is a light fixture in the middle of the ceiling."
 
-The light fixutre is scenery in Peter's Bedroom.  "The ceiling light has four incandescent light bulbs and a five-bladed ceiling fan.  Whenever the fan spins, the fixture wobbles, and you can’t help playing out mental scenarios where you have to dodge out of its way with lightning-quick reflexes."
+The light fixture is scenery in Peter's Bedroom.  "The ceiling light has four incandescent light bulbs and a five-bladed ceiling fan.  Whenever the fan spins, the fixture wobbles, and you can’t help playing out mental scenarios where you have to dodge out of its way with lightning-quick reflexes."
 
 After examining the carpet in Peter's Bedroom, say "In this room, the carpet is dark brown."
 
