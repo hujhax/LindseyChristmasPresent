@@ -190,6 +190,16 @@ Some clothes are in the dresser.  They are fixed in place.  The description of s
 
 The trash bin is in Peter's Bedroom.  "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
 
+Chapter 3 - Peter's Closet
+
+The tote bag is an open container in Peter's Closet.  The description of the tote bag is "This is a cream-colored canvas L. L. Bean tote bag with forest-green handles.  It's large enough to carry two to three severed heads.  When you have to put up with school, this is the bag you use to carry your school books around."
+
+The physics textbook is in the tote bag.  The description of the physics textbook is "Your physics textbook is a shiny and new edition of your school's advanced physics text.  It's probably nowhere near as good or as interesting as the books they have at the magnet school in Louisville proper, but it'll do.  As always, you have wrapped the textbook in a jury-rigged cover, made from a sheet of glossy white paper the school provided for that purpose.  So it's a minimalist-looking book, with a plain white cover and just the words 'PHYSICS II * PETER ROGERS' at the top in small, precise lettering."
+
+Some long-sleeved shirts are scenery in Peter's Closet.  Understand "sweaters" as some long-sleeved shirts.  "Some sweaters and long-sleeved shirts hang from coat hangers.  None of these are clothes you particularly like, though the blue long-sleeve with small, dark-blue polka-dots is okay.  Things with sleeves are kind of your enemy.  Most shirtsleeves end well shy of your wrists, and if a shirt has long enough sleeves, it's several sizes too big everywhere else, and you're essentially wearing a giant sack with sleeves."
+
+Some bins are scenery in Peter's Closet.  "This is a set of four cardboard boxes.  They're decorated in a bright, stylized, yellow-and-red floral pattern against a white background.  There are a few things of yours in the bins -- you see a poster from a play you did last year -- but most of this is mysterious Mom-stuff, the mounds of old papers and newspapers and inscrutable bric-a-brac that take up most of the house."
+
 
 Book 2 - Utilities
 
