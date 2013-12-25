@@ -200,6 +200,16 @@ Some long-sleeved shirts are scenery in Peter's Closet.  Understand "sweaters" a
 
 Some bins are scenery in Peter's Closet.  "This is a set of four cardboard boxes.  They're decorated in a bright, stylized, yellow-and-red floral pattern against a white background.  There are a few things of yours in the bins -- you see a poster from a play you did last year -- but most of this is mysterious Mom-stuff, the mounds of old papers and newspapers and inscrutable bric-a-brac that take up most of the house."
 
+Chapter 4 - The Hallway
+
+After examining the ceiling in the Hallway, say "There is a low-hanging light fixture in the middle of the hallway, hanging from the ceiling."
+
+The light fixture is scenery in the Hallway.  "A light fixture made of translucent white plastic occupies the middle of the hallway.  It hangs just low enough for you to smack your forehead right into it, so you've gotten good at instinctively dodging it as you walk around the house."
+
+After examining the walls in the Hallway, say "There is a fancy photo-display frame on the east wall."
+
+The photo display frame is scenery in the Hallway.  "This is a very 70s-looking photo-display frame, with rough, dark-brown metal sticks crisscrossing vertically and horizontally and occasionally forming frames for 4'x6' glossy photos.  It has one photo of you, sitting in the backyard in your cream-colored sweater, staring off into the distance in a way that you think looks totally contemplative.  The other photos are of your siblings."
+
 
 Book 2 - Utilities
 
