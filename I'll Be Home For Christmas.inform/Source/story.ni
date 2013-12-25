@@ -180,7 +180,7 @@ The dresser is a closed, openable container in Peter's Bedroom.  It is fixed in 
 
 The alarm clock is scenery in Peter's Bedroom.  "This alarm clock is pretty much the bane of your existence.  It reminds you of the irritating insomnia you have every night, and it wakes you up bright and early at 6:30am on every school day.  It's a big plastic box, its top surface decorated to look like dark-brown wood.  Its front display is split between the AM/FM tuner (which you never use) and the small blue LED digits that display the current time.  (It's now 5:45pm.)"
 
-Some clothes are in the dresser.  They are fixed in place. oThe description of some clothes is "You see your usual clothes in the dresser: some ragged jeans, some khakis, and your random collection of T-shirts."
+Some clothes are in the dresser.  They are fixed in place.  The description of some clothes is "You see your usual clothes in the dresser: some ragged jeans, some khakis, and your random collection of T-shirts."
 
 The trash bin is in Peter's Bedroom.  "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
 
