@@ -256,6 +256,28 @@ Understand "random smattering of books" and "smattering of books" as some books.
 
 The computer game is on the display shelf.  "This is a copy of Enchanter, one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
 
+Chapter 6 - The Bathroom
+
+The bathroom mirror is a mirror in the Bathroom.  "This is a plain rectangular mirror that occupies most of the wall above the sink.  You can see your reflection in the mirror."
+
+The bathroom sink is a supporter in the Bathroom.  It is fixed in place.
+
+Some allergy tablets are on the bathroom sink.  The description of some allergy tablets is "This is your allergy medication, a little box of blister packs of Walgreens generic brand Chlor-trimeton.  Fortunately, there have been a number of hard freezes, so whatever it is that you're allergic to has died back by now.  Honestly, the pills do little to make you stop sneezing, and the side effect is that they leave you floaty and exhausted all day."
+
+Instead of taking the tablets, say "You'd rather not.  The side effects are nearly incapacitating."
+
+The waste bin is a container in the Bathroom.  It is open and fixed in place. The description of the waste bin is "There's a small, round waste bin in the corner."
+
+The hair dryer is in the waste bin.  The description of the hair dryer is "A bulky, purple hair dryer."
+
+The toilet is scenery in the Bathroom.  "A plain white toilet."
+
+The medicine cabinet is a closed, openable container in the Bathroom.  It is fixed in place.  The description of the medicine cabinet is "This is a single large brown cabinet above the toilet."
+
+After opening the medicine cabinet: say "You try opening the cabinet, and it's crammed-to-bursting with washcloths, towels, toilet-paper rolls, bars of soap, and pill bottles.  You close it up again before anything can tumble out."; now the medicine cabinet is closed.
+
+The shower is scenery in the Bathroom.  "A plain shower with a tub and a translucent plastic shower curtain."
+
 
 Book 2 - Utilities
 
