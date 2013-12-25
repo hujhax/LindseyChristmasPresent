@@ -2,7 +2,7 @@
 
 Book 1 - First Floor
 
-Section 1 - Rooms 
+Part 1 - Rooms 
 
 There is a room called Peter's Bedroom. 
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
@@ -80,13 +80,17 @@ Northeast of Couches is Dining Room.
 North of Dining Room is Back Stoop.
 Outside of Dining Room is Back Stoop.
 
-Section 2 - Objects
+Part 2 - Objects
+
+Chapter 1 - General Objects 
 
 The carpet is a backdrop.  It is everywhere.  "Throughout this floor of the house, the carpet is a little old, and probably needs to be replaced.  The carpet itself is fairly thin and rough-feeling, in muted, tasteful colors."
 
 The walls are a backdrop.  They are everywhere.  "The walls are a plain off-white color."
 
 The ceiling is a backdrop.  It is everywhere.  "Throughout this floor of the house, the ceilings are plain white with a faint stucco pattern."
+
+Chapter 2 - Peter's Bedroom
 
 The desk is a supporter in Peter's Bedroom. The description of the desk is "You have no idea where your desk came from.  You know it's old, and massive, and made of wood.  The edges of the top of a pretty pattern of narrow inset rectangles, like a string of corrugated ribbon, and the desk itself has a number of drawers."
 
