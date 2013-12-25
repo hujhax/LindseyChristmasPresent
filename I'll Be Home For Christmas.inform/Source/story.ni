@@ -90,6 +90,26 @@ The walls are a backdrop.  They are everywhere.  "The walls are a plain off-whit
 
 The ceiling is a backdrop.  It is everywhere.  "Throughout this floor of the house, the ceilings are plain white with a faint stucco pattern."
 
+A mirror is a kind of thing.  A mirror is scenery.
+
+Instead of examining yourself, say "You can't really see yourself.  A mirror would help."
+Instead of examining yourself in the presence of a mirror, say "(looking in the mirror)
+
+As usual, when you see yourself, you only notice the flaws, like the tuft of hair at the top of your nose that knits your eyebrows into one neat monobrow, or the left side of your lower lip, which is still inflated to almost twice its proper size from some boyhood accident.  Your hair, as usual, has two spiky, unmanageable cowlicks in the back, where the short hair sticks up like little devil horns.  You're wearing your yellow-and-white striped sweater and a pair of jeans."
+
+The player wears a sweater.
+
+Instead of examining the sweater, say "You're wearing your yellow-and-white striped sweater.  You could probably get a better look at it in the mirror."
+Instead of examining the sweater in the presence of a mirror, say "(looking in the mirror)
+
+This is your yellow-and-white striped sweater.  It has broad, horizontal stripes that alternate between bright white and a warm goldenrod color.  It's one of the long-sleeved garments that actually fits in the sleeves, so that means the center of it billows loosely around you like a large bag."
+
+Instead of taking off the sweater, say "You'd rather just keep it on.  It's a bit chilly."
+
+The player wears jeans.  The description of the jeans is "Your jeans are fairly nondescript.  They're pale blue, they aren't quite long enough for your legs, and one of the knees is wearing through."
+
+Instead of taking off the jeans, say "Why?"
+
 Chapter 2 - Peter's Bedroom
 
 The desk is a supporter in Peter's Bedroom. The description of the desk is "You have no idea where your desk came from.  You know it's old, and massive, and made of wood.  The edges of the top of a pretty pattern of narrow inset rectangles, like a string of corrugated ribbon, and the desk itself has a number of drawers."
