@@ -213,6 +213,17 @@ The games are scenery on the top shelf.  "These are the only games you keep in y
 
 Some cassette tapes are scenery on the middle shelf.  "This is a pile of old cassette tapes that your brother left behind when he headed off to Northwestern.  A few tapes are set aside from the rest: an REM tape, a Sam Cooke tape, and Pink Floyd tape."
 
+A tape is a kind of thing.  It has some text called side A.  It has some text called side B.  The description of a tape is "Yet another old, ninety-minute Maxell tape -- black plastic with, on each side, gold-colored decorations and a rectangular white label.  The labels, written on in black ink in your brother's nearly-indecipherable scrawl, say that side A is [side A] and side B is [side B]."
+
+The side A of a tape is usually "side A".
+The side B of a tape is usually "blank".
+
+The REM tape is a tape on the middle shelf with side A "Murmur by REM" and side B "Treehouse by the Grapes of Wrath.  Or it's The Grapes of Wrath by Treehouse.  You've never really been sure".
+
+The Sam Cooke tape is a tape on the middle shelf with side A "Sam Cooke Live at the Apollo".
+
+The Pink Floyd tape is a tape on the middle shelf with side A "The Wall by Pink Floyd" and side B "the second side of that same album".
+
 The rolling table is a supporter in Peter's Bedroom. The description of the rolling table is "A small gray table with metal legs and wheels at the bottom.  Between the gummed-up bearings in the wheels and the caster-unfriendly carpeting, the table is pretty well rooted in place."
 
 The stereo is a container on the rolling table.  The description of the stereo is "This is a bookshelf-audio system that your dad bought you shortly after the divorce.  It's made of cheap black plastic, and it's some generic off brand ('Yorx'), and it's old enough to have a turntable at the top of it -- who uses those any more?  Fortunately, it has FM/AM radio and not one but two cassette bays, so it works fine for your purposes."
