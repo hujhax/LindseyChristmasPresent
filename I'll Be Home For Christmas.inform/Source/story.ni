@@ -455,9 +455,9 @@ Instead of opening the window unit, say "You'd rather not -- it's very cold outs
 
 The tiny potted plant is scenery in Mom's Bathroom.  "It looks like a little herb of some sort.  Maybe oregano."
 
-The sink is scenery in Mom's Bathroom.  "A plain white porcelain sink with nondescript gray metal fixtures."
+Mom's sink is scenery in Mom's Bathroom.  "A plain white porcelain sink with nondescript gray metal fixtures."
 
-The shower is scenery in Mom's Bathroom.  "There's a small shower tucked into the corner of the bathroom."
+Mom's shower is scenery in Mom's Bathroom.  "There's a small shower tucked into the corner of the bathroom."
 
 Mom's bathroom mirror is a mirror in Mom's Bathroom.  The description of it is "A small mirror sits above the sink."
 
