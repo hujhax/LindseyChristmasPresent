@@ -825,3 +825,11 @@ To say pick one of (Textlist - a list of texts):
 Chapter 3 - New Adjectives
 
 Definition: a container is empty if nothing is in it.
+
+Chapter 4 - Modifications to Core Behavior
+
+Before listing nondescript items:
+	repeat with hidden thing running through supporters which are fixed in place:
+		now the hidden thing is not marked for listing;
+	repeat with hidden thing running through containers which are fixed in place:
+		now the hidden thing is not marked for listing;
