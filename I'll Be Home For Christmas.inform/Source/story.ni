@@ -34,7 +34,9 @@ There is a room called Front Closets.
 "An open corner near the front door has a couple of large closets built into adjacent walls."
 
 There is a room called Backyard Overlook.
-"To the south, a massive bookshelf is built into the wall.  Along the west wall, there's an ottoman, a credenza, and several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen."
+"To the south, a massive bookshelf is built into the wall.  Along the west wall, there's an ottoman, a credenza, and several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen.
+
+The household Christmas tree is here!"
 
 There is a room called Living Room.
 "Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway.  You can go west to some windows overlooking the backyard."
@@ -293,6 +295,16 @@ Chapter 8 - The Front Closets
 The overstuffed closets are scenery in the Front Closets.
 
 Instead of opening the overstuffed closets, say "You pry open a closet door and see that the closets are crammed full of coats, only two or three of which you've ever seen anyone actually wear."
+
+Chapter 9 - The Backyard Overlook
+
+The built-in bookshelves are scenery in the Backyard Overlook.  They are fixed in place.  The description of the built-in bookshelves is "There are shelves and shelves and shelves of your mother's books.  There are fair number of mystery novels (Lilian Jackson Braun's 'The Cat Who...' books put in several appearances, a few airport-trashy thrillers (you see Flowers in the Attic by V. C. Andrews), and some Italian travel books.  Miniature placards of impressionist works of art sit in front of the books on some shelves."
+
+The Christmas tree is scenery in the Backyard Overlook.  The description of the Christmas tree is "You switched to an artificial tree a few years ago, so this is the same sizeable tree you've had for several years.  It has lots of lights and ornaments on it."
+
+The decorative lights are scenery in the Backyard Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
+
+The ornaments are scenery in the Backyard Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
 
 Book 2 - Utilities
 
