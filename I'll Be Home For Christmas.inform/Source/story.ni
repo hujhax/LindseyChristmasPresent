@@ -175,7 +175,7 @@ The desk is a supporter in Peter's Bedroom. The description of the desk is "You 
 
 The desk drawers are scenery in Peter's Bedroom.  "There are six desk drawers: a wide, narrow center drawer; two small drawers on the top left and middle left; and three large drawers on the bottom left, top right, and bottom right.  Each drawer has a neat-looking drawer-pull."
 
-The top left drawer, the middle left drawer, the bottom left drawer, the center drawer, the top right drawer, and the bottom right drawer are closed, openable containers in Peter's Bedroom. 
+The top left drawer, the middle left drawer, the bottom left drawer, the center drawer, the top right drawer, and the bottom right drawer are closed, openable, fixed in place containers in Peter's Bedroom. 
 
 The drawer pulls are scenery in Peter's Bedroom.  "Each drawer pull is made of metal -- something like copper or bronze, dingy with years of use and no cleaning -- worked into an ornate pattern against the wood, with a small hinged handle hanging on the front."
 
