@@ -267,6 +267,8 @@ Some clothes are in the dresser.  They are fixed in place.  The description of s
 
 The trash bin is in Peter's Bedroom.  The description of the trash bin is "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
 
+The yearbook is scenery in Peter's Bedroom. "This is the 1990-1991 edition of the 'Draconium', your high school's yearbook.  It's a big green book with a stylized dragon on the cover.  You got it last year for free because some cartoons you drew in chemistry class were included in the back of the book.  Since you never bother buying yearbooks, this is the only one you've got."
+
 Section 2 - The Puzzle Toy
 
 The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg."
