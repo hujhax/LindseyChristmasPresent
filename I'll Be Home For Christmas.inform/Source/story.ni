@@ -420,6 +420,17 @@ The big TV is in the entertainment center.  It is fixed in place.  The descripti
 
 The VCR is in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
 
+The VCR is a container in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
+
+Check inserting something that is not a VHS tape into the VCR:
+	say "The VCR can only accepts VHS tapes." instead;
+
+Check inserting something into the VCR when the VCR is not empty:
+	say "The VCR already has a tape in it." instead;
+	
+Report inserting something (called the tape) into the VCR:
+	say "You load [the tape] into the VCR and press play." instead;
+
 A captioner is a kind of thing.  It is fixed in place.  The description of a captioner is "This is an anonyous-looking gray box with a single LED display.  It's only the 'closed captioning' text etched into the corner of the display that tells you this is a captioning machine, designed to take a video signal, decade it's hidden 'caption' co-signal, and display that as text at the bottom of the screen."
 
 The captioning machine is a captioner in the entertainment center.
