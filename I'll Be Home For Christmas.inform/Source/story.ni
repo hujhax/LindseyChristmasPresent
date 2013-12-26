@@ -198,7 +198,7 @@ The Escher print is scenery in Peter's Bedroom.  "Escher's infinite waterfall is
 
 After examining the ceiling in Peter's Bedroom, say "In this room, there is a light fixture in the middle of the ceiling."
 
-The light fixture is scenery in Peter's Bedroom.  "The ceiling light has four incandescent light bulbs and a five-bladed ceiling fan.  Whenever the fan spins, the fixture wobbles, and you can’t help playing out mental scenarios where you have to dodge out of its way with lightning-quick reflexes."
+The bedroom light fixture is scenery in Peter's Bedroom.  "The ceiling light has four incandescent light bulbs and a five-bladed ceiling fan.  Whenever the fan spins, the fixture wobbles, and you can’t help playing out mental scenarios where you have to dodge out of its way with lightning-quick reflexes."
 
 After examining the carpet in Peter's Bedroom, say "In this room, the carpet is dark brown."
 
@@ -208,7 +208,7 @@ The alarm clock is scenery in Peter's Bedroom.  "This alarm clock is pretty much
 
 Some clothes are in the dresser.  They are fixed in place.  The description of some clothes is "You see your usual clothes in the dresser: some ragged jeans, some khakis, and your random collection of T-shirts."
 
-The trash bin is in Peter's Bedroom.  "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
+The trash bin is in Peter's Bedroom.  The description of the trash bin is "A small, plain, yellowish trash bin with a little star-like decoration on it that looks like it came from the 60s by way of the Jetsons."
 
 Chapter 3 - Peter's Closet
 
@@ -224,7 +224,7 @@ Chapter 4 - The Hallway
 
 After examining the ceiling in the Hallway, say "There is a low-hanging light fixture in the middle of the hallway, hanging from the ceiling."
 
-The light fixture is scenery in the Hallway.  "A light fixture made of translucent white plastic occupies the middle of the hallway.  It hangs just low enough for you to smack your forehead right into it, so you've gotten good at instinctively dodging it as you walk around the house."
+The hallway light fixture is scenery in the Hallway.  "A light fixture made of translucent white plastic occupies the middle of the hallway.  It hangs just low enough for you to smack your forehead right into it, so you've gotten good at instinctively dodging it as you walk around the house."
 
 After examining the walls in the Hallway, say "There is a fancy photo-display frame on the east wall."
 
@@ -234,9 +234,9 @@ Chapter 5 - The Spare Bedroom
 
 The computer desk is a supporter in the Spare Bedroom.  It is fixed in place.  The description of the computer desk is "This desk is not so much a desk as a couple of tables, one overlapping the other, crammed into the corner of the room at right angles."
 
-The home computer is a device on the desk.  The description of the home computer is "This is a pretty nice PC knockoff.  The main computer case is a big beige metal box that's about the size of two shoeboxes, with a brand-new, 3.5' floppy disk drive in front.  On top of that is the monitor, another beige metal box that serves as a twelve inch-green monochrome display.  Your mother has covered both units in post-its with your mother's scribbled notes of passwords and reminders about how to use the computer."
+The home computer is a device on the computer desk.  The description of the home computer is "This is a pretty nice PC knockoff.  The main computer case is a big beige metal box that's about the size of two shoeboxes, with a brand-new, 3.5' floppy disk drive in front.  On top of that is the monitor, another beige metal box that serves as a twelve inch-green monochrome display.  Your mother has covered both units in post-its with your mother's scribbled notes of passwords and reminders about how to use the computer."
 
-The printer is a device on the desk.  The description of the printer is "Like the other computer components, this dot-matrix printer is a beige box covered in explanatory post-it notes.  In this case, the box is made of plastic and is open at the top, where the printer paper feeds through it."
+The printer is a device on the computer desk.  The description of the printer is "Like the other computer components, this dot-matrix printer is a beige box covered in explanatory post-it notes.  In this case, the box is made of plastic and is open at the top, where the printer paper feeds through it."
 
 The printer paper is scenery in the Spare Bedroom.  "A long roll of printer paper feeds through the printer.  Its background is alternating rows of white and pale green, and its margins are lined with little holes that the printer's sprockets can poke through."
 
@@ -254,7 +254,7 @@ The Pascal book is scenery in the spare bedroom.  "It's Oh, Pascal!, the first p
 
 Understand "random smattering of books" and "smattering of books" as some books.
 
-The computer game is on the display shelf.  "This is a copy of Enchanter, one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
+The computer game is on the display case.  "This is a copy of Enchanter, one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
 
 Chapter 6 - The Bathroom
 
