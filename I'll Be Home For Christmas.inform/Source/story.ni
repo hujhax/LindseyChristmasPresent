@@ -424,7 +424,14 @@ A captioner is a kind of thing.  It is fixed in place.  The description of a cap
 
 The captioning machine is a captioner in the entertainment center.
 
-The VHS tapes are in the entertainment center.  They are fixed in place.  The description of them is "A stack of VHS tapes.  Some of them are yours -- one is labeled 'Peter's MTV Compilation' and another is 'The Tick Vol. 1', but most of them are Mom's -- one is labeled 'Mom's Tape #1'."
+The VHS tapes are in the entertainment center.  They are fixed in place.  The description of them is "A stack of VHS tapes.  Some of them are yours -- one is labeled 'Peter's MTV Compilation' and another is 'The Tick Volume One', but most of them are Mom's -- one is labeled 'Mom's Tape One'."
+
+A VHS tape is a kind of thing.  It has some text called a label.  The label of a VHS tape is usually "tape".  It has a list of texts called playback.  The playback of a VHS tape is usually {"[Printed Name] plays."}.  The description of a VHS tape is "This VHS tape is labeled '[label]'."
+
+Peter's MTV Compilation is a VHS tape in the entertainment center.  The label of it is "Peter's MTV Compilation".
+The Tick Volume One is a VHS tape in the entertainment center.  The label of it is "The Tick Volume One".
+Mom's Tape One is a VHS tape in the entertainment center.  The label of it is "Mom's Tape One".
+
 
 TV Week is a thing on the comfy chair.  The description of it is "This is the section of the Sunday paper that includes the week's TV schedule.  It used to be displayed in a neat three-column grid, but with the current preponderance of new 'cable' channels, it has a whole 20 rows, making it a bit of a visual mess.  Mom has marked each of 'her' shows -- mostly light dramas, and also the nightly Jeopardy! and Wheel of Fortune -- with a yellow highlighter.  The section is padded out with a few articles on the TV business, a review of a television show (of all things), and 'the incredible Inman' column, where Dave Inman answers questions like 'Who played the villain in that episode of The Fall Guy that guest-starred Pat Morita?'"
 
