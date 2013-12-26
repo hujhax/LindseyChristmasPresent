@@ -461,6 +461,45 @@ Mom's shower is scenery in Mom's Bathroom.  "There's a small shower tucked into 
 
 Mom's bathroom mirror is a mirror in Mom's Bathroom.  The description of it is "A small mirror sits above the sink."
 
+Part 3 - NPCs
+
+Chapter 1 - Mom
+
+Mom is a woman in the Dining Room.  The description of Mom is "Your mother is getting a little on in years.  Her large, brown-framed eyeglasses are a higher prescription these days, and her tightly-permed brown hair is flecked with gray.  She wears a red, reindeer-adorned sweater, jeans, and (because why not) a green elf hat.  She wears a large, clunky hearing aid tucked behind each ear."
+
+After asking Mom about a topic listed in the Table of Mom's Replies, say "[Reply entry][paragraph break]".
+After asking Mom about a topic, say "She doesn't understand your question."
+
+Understand "hat", "the hat", "her hat", "green elf hat", "green hat", and "elf hat" as "[hat]".
+
+Table of Mom's Replies
+Topic	Reply
+"[hat]"	"She grins and tells you, proudly, that this is her Christmas hat."
+"me/myself"	"'You're a good kid,' she says, affecting the tone of some kind of professional appraiser."
+
+Understand the command "hug" as something new.
+Hugging is an action applying to one thing.
+Understand "hug [something]" as hugging.
+
+Check hugging: 
+    if the noun is not a person, say "It feels a bit weird, but you hug the inanimate object." instead.
+
+Instead of hugging Mom, say "This goes a little awkwardly, as it usually does between people who don't hug a lot.  You two manage a sort of clumsy side hug, but it seems to make her happy."
+
+Instead of kissing Mom, say "She receives the kiss awkwardly, then suspiciously asks you what you want."
+
+Understand the command "fuck" as something new.
+Fucking is an action applying to one thing.
+Understand "fuck [something]" as fucking.
+Understand "have sex with [something]" as fucking.
+
+Instead of fucking yourself, say "Eh, maybe later."
+
+Carry out fucking: 
+    say "My, your proclivities run a bit strange today, don't they?"
+
+Instead of fucking Mom, say "Whoa there, Oedipus."
+
 Book 2 - Utilities
 
 Section 1 - Help
