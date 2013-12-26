@@ -288,6 +288,10 @@ The puzzle toy is on the desk.  The description of the puzzle toy is "This is a 
 
 The puzzle toy has a list of numbers called the status.
 
+The puzzle toy is either solved or unsolved.  The puzzle toy is unsolved.
+
+The puzzle toy has a number called the moves.  The moves of the puzzle toy is 0.
+
 The status of the puzzle toy is {0, 0, 0, 0, 0, 0}.
 
 Understand the command "toggle" as something new.
@@ -310,6 +314,7 @@ To say the puzzle state of the puzzle toy:
 		let index be index + 1;
 	
 Carry out toggling:
+	increment the moves of the puzzle toy;
 	[examples: peg 5 is movable if 4 is pushed out and 1, 2, and 3 are pushed in; peg 3 is movable if 2 is pushed out and 1 is moved in; peg 1 is always movable]
 	let movable be true;
 	let position be the number understood;
@@ -331,6 +336,10 @@ Carry out toggling:
 	say "For some reason, you can't dislodge the [ordinal of position] peg.  It stays [peg description of peg state].";
 	end if;
 	say "[paragraph break][the puzzle state of the puzzle toy]";
+
+After toggling 6 when the puzzle toy is unsolved:
+	now the puzzle toy is solved;
+	say "Wow!  You solved it!  You're really quite surprised that you had enough patience to toggle all those pegs back and forth -- it was [moves of the puzzle toy in words] moves, by your reckoning.  You suspect that, after some practice, you'll start idly solving and un-solving this puzzle the way some people idly flip quarters over their knuckles.";
 	
 test puzzle with "toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1/ toggle 5 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 6";
 			
