@@ -126,7 +126,31 @@ Part 2 - Objects
 
 Chapter 1 - General Objects 
 
-The carpet is a backdrop.  It is everywhere.  "Throughout this floor of the house, the carpet is a little old, and probably needs to be replaced.  The carpet itself is fairly thin and rough-feeling, in muted, tasteful colors."
+The floor is a backdrop.  It is everywhere.  "The floor in this area is [if a random room containing the player is carpeted]carpeted[otherwise]covered in linoleum[end if]."
+
+A room is either carpeted or linoleummed.  A room is usually carpeted.
+A room has some text called carpet color.  The carpet color of a room is usually "teal".
+
+The carpet is a backdrop.  It is everywhere.
+
+Instead of examining the carpet, say "There is no carpeting in here."
+Instead of examining the carpet in a room that is carpeted, say "Throughout this floor of the house, the carpet is a little old, and probably needs to be replaced.  The carpet itself is fairly thin and rough-feeling, in muted, tasteful colors.  In here, the carpet is [carpet color of a random room containing the player]."
+
+The carpet color of Peter's Bedroom is "light brown".
+The carpet color of Mom's Bedroom is "light brown".
+The carpet color of the Spare Bedroom is "light brown".
+
+The Bathroom is linoleummed.
+Mom's Bathroom is linoleummed.
+The Kitchen is linoleummed.
+The Seating Area is linoleummed.
+The Dining Room is linoleummed.
+The Laundry Room is linoleummed.
+
+The linoleum is a backdrop.  It is everywhere.
+
+Instead of examining the linoleum, say "There is no linoleum in here."
+Instead of examining the linoleum in a room that is linoleummed, say "The floor is covered in linoleum in here, off-white with a tasteful, subtle grid pattern.  You can see it peeling up a tiny bit at the corners; you try to nudge it back down with your foot."
 
 The walls are a backdrop.  They are everywhere.  "The walls are a plain off-white color."
 
