@@ -348,6 +348,15 @@ The plate of candy is on the coffee table.  It is fixed in place.  The descripti
 
 Before eating the plate of candy, say "You try one of the Hershey's kisses.  It tastes kind of chalky and flavorless." instead.
 
+Chapter 11 - The Seating Area
+
+The love seat is scenery in the Seating Area. "This is a little love seat -- a little too big for one person, a little too small for two.  The upholstery is beige, with a vague floral pattern on it."
+
+The rolling cuboid thing is a fixed in place closed openable container in the Seating Area.  The description of it is "This is a white cube on wheels -- you figure it's particle board covered with heavy lacquer paint -- with a hinged top."
+
+Instead of opening the rolling cuboid thing, say "You peek inside the rolling box, only to find that it's filled almost to the brim with old paper -- possibly scrap paper, maybe important documents.  You close it up again."
+
+
 Book 2 - Utilities
 
 Section 1 - Help
