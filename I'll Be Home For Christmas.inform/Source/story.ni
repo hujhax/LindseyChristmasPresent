@@ -270,6 +270,15 @@ Section 2 - The Puzzle Toy
 The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg."
 
 
+Understand the command "toggle" as something new.
+Toggling is an action applying to one number.
+Understand "toggle [a number]" as toggling.
+
+Check toggling when the puzzle toy is not visible:
+	say "You don't see the puzzle toy anywhere, and that's the only thing you know how to toggle." instead.
+Check toggling when the puzzle toy is visible and (the number understood < 1 or the number understood > 6):
+	say "This is not a valid number." instead.
+	
 Chapter 3 - Peter's Closet
 
 The tote bag is an open container in Peter's Closet.  The description of the tote bag is "This is a cream-colored canvas L. L. Bean tote bag with forest-green handles.  It's large enough to carry two to three severed heads.  When you have to put up with school, this is the bag you use to carry your school books around."
