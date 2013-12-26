@@ -685,7 +685,7 @@ Check petting:
 
 Section 2 - Samson
 
-Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "Samson is here, glowering at you."  Samson cat is in Mom's Bedroom.
+Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "[one of]Samson is here, glowering at you.[or]Samson is here, sleeping uneasily.[at random]".  Samson cat is in Mom's Bedroom.
 
 The description of Samson cat is "Samson looks like the cat equivalent of a middleweight boxer gone to seed: a big cat, still pretty muscular, but also fat and comfortable.  He has short, sleek black fur, and his green eyes always look perturbed."
 
@@ -695,7 +695,7 @@ Instead of petting Samson cat, say "You start petting him, but he goes rigid, an
 
 Section 3 - Eastwood
 
-Eastwood cat is a cat with the name "Eastwood", the entering text "Eastwood cat pads into the room, sees you, and meows affably.", the exiting text "Eastwood cat suddenly catches sight of something in another room and, with surprising agility for her age, zips off to investigate.", and the occupying text "Eastwood cat suddenly notices you and twines around your legs."  Eastwood cat is in the Dining Room.
+Eastwood cat is a cat with the name "Eastwood", the entering text "Eastwood cat pads into the room, sees you, and meows affably.", the exiting text "Eastwood cat suddenly catches sight of something in another room and, with surprising agility for her age, zips off to investigate.", and the occupying text "[one of]Eastwood cat suddenly notices you and twines around your legs.[or]Eastwood cat is here, keeping an eye on things.[at random]".  Eastwood cat is in the Dining Room.
 
 The description of Eastwood cat is "Eastwood is a tortoiseshell shorthair, a black cat with orange striations through her fur, like veins of ore in a rock.  She's getting on in years, with wisps of white in a her coat and a slight raggedness to her face, but she still regards you with the same friendly, beige eyes."
 
@@ -705,7 +705,7 @@ Instead of petting Eastwood cat, say "She purrs agreeably."
 
 Section 4 - Franco
 
-Franco cat is a cat with the name "Franco", the entering text "Franco cat wanders into the room looking for the life of him like he can't recall ever having seen this room before.", the exiting text "Franco absently wanders off to another room.", and the occupying text "Franco cat is here.  He stares at you blankly."  Franco cat is in Peter's Closet.
+Franco cat is a cat with the name "Franco", the entering text "Franco cat wanders into the room looking for the life of him like he can't recall ever having seen this room before.", the exiting text "Franco absently wanders off to another room.", and the occupying text "[one of]Franco cat is here.  He stares at you blankly.[or]Franco cat is here, sleeping on the highest surface in the room.[at random]".  Franco cat is in Peter's Closet.
 
 The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the sort of unperturbed nature that means he's either found some source of feline inner peace, or he's profoundly stupid.  In your previous house, Franco sometimes fell asleep on furniture beams and then rolled over in his sleep -- so you're guessing the latter.  In any case, he floats through life like a contented gray cloud."
 
