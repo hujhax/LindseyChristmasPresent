@@ -269,6 +269,9 @@ Section 2 - The Puzzle Toy
 
 The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg."
 
+The puzzle toy has a list of numbers called the status.
+
+The status of the puzzle toy is {0, 0, 0, 0, 0, 0}.
 
 Understand the command "toggle" as something new.
 Toggling is an action applying to one number.
