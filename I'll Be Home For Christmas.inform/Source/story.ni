@@ -133,9 +133,11 @@ The ceiling is a backdrop.  It is everywhere.  "Throughout this floor of the hou
 A mirror is a kind of thing.  A mirror is scenery.
 
 Instead of examining yourself, say "You can't really see yourself.  A mirror would help."
-Instead of examining yourself in the presence of a mirror, say "(looking in the mirror)
+Instead of examining yourself in the presence of a mirror:
+	say "(looking in the mirror)[paragraph break]";
+	try searching a random visible mirror
 
-As usual, when you see yourself, you only notice the flaws, like the tuft of hair at the top of your nose that knits your eyebrows into one neat monobrow, or the left side of your lower lip, which is still inflated to almost twice its proper size from some boyhood accident.  Your hair, as usual, has two spiky, unmanageable cowlicks in the back, where the short hair sticks up like little devil horns.  You're wearing your yellow-and-white striped sweater and a pair of jeans."
+Instead of searching a mirror, say "As usual, when you see yourself, you only notice the flaws, like the tuft of hair at the top of your nose that knits your eyebrows into one neat monobrow, or the left side of your lower lip, which is still inflated to almost twice its proper size from some boyhood accident.  Your hair, as usual, has two spiky, unmanageable cowlicks in the back, where the short hair sticks up like little devil horns.  You're wearing your yellow-and-white striped sweater and a pair of jeans."
 
 The player wears a sweater.
 
