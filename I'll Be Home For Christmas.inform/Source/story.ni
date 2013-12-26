@@ -150,7 +150,7 @@ The middle shelf is a supporter in Peter's Bedroom. The description of the middl
 
 The bottom shelf is scenery in Peter's Bedroom.  "The bottom shelf is blocked by the right side of the desk, so it's dark and inaccessible.  You're pretty sure there's nothing down there."
 
-The marathon posters is scenery in Peter's Bedroom.  "This is a tall, narrow poster from the Cleveland Marathon.  While you have no interest in marathons (or Cleveland), it's a pretty design, featuring a cat that's a dead ringer for Samson cat sitting proudly in front of an art-deco suspension bridge."
+The marathon poster is scenery in Peter's Bedroom.  "This is a tall, narrow poster from the Cleveland Marathon.  While you have no interest in marathons (or Cleveland), it's a pretty design, featuring a cat that's a dead ringer for Samson cat sitting proudly in front of an art-deco suspension bridge."
 
 The comic is scenery in Peter's Bedroom.  "This is the last Bloom County comic, clipped out of The Courier Journal and glued to a sheet of paper, and in turn hand-tacked to the side of the display shelf."
 
