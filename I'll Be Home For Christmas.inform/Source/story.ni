@@ -429,6 +429,23 @@ After examining the walls in the Dining Room, say "There are a couple of framed 
 
 The dining-room posters are scenery in the Dining Room. "A couple of framed posters -- Toulouse Lautrec poster art for the Moulin Rouge -- adorn the walls."
 
+Chapter 14 - Mom's Bedroom
+
+Mom's bed is scenery in Mom's Bedroom.  "A large, queen-sized bed, neatly made with white sheets and what may be an army blanket."
+
+Instead of entering Mom's bed, say "Nah, you've got your own bed you can sleep in."
+
+Mom's dresser is scenery in Mom's Bedroom.  "A low, wide dresser."
+
+Instead of opening Mom's dresser, say "You'd really rather not go rifling through your mother's clothes."
+
+Mom's bedroom mirror is a mirror in Mom's Bedroom.  The description of it is "There is a large mirror above the dresser."
+
+Mom's bookshelves are scenery in Mom's Bedroom.  "Behind the head of the bed, there is a large set of bookshelves built into the wall.  All the shelves are filled with books.  The only ones you really notice are the city books."
+
+The city books are scenery in Mom's Bedroom.  "This is a series of coffee-table books titled 'The Great Cities', put out by Time-Life.  Each book has a city name for its title, with an iconic photo from the city as its cover.  Inside, the book is kind of a half-assed travel guide with amazing photos."
+
+The art books are scenery in Mom's Bedroom.  "The tall shelves accommodate some coffee-table-book collections of French art, mostly Impressionists and Post-Impressionists."
 
 Book 2 - Utilities
 
