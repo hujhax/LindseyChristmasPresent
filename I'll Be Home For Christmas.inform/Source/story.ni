@@ -222,6 +222,12 @@ The side A of an audio tape is usually "side A".
 The side B of an audio tape is usually "blank".
 The audio-playback of an audio tape is usually "Audio from the tape deck plays."
 
+Instead of playing an audio tape (called tapey) in the presence of the stereo:
+	Try inserting tapey into the stereo instead.
+	
+Instead of playing an audio tape:
+	Say "You don't see anything to play it on." instead.
+
 An REM tape is an audio tape on the middle shelf with side A "Murmur by REM" and side B "Treehouse by the Grapes of Wrath.  Or it's The Grapes of Wrath by Treehouse.  You've never really been sure" and audio-playback "Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome."
 
 The Sam Cooke tape is an audio tape on the middle shelf with side A "Sam Cooke Live at the Apollo" and audio-playback "Sam Cooke belts out a song for an adoring live audience.".
