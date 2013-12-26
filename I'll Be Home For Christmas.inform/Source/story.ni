@@ -441,8 +441,25 @@ The VHS tapes are in the entertainment center.  They are fixed in place.  The de
 A VHS tape is a kind of thing.  It has some text called a label.  The label of a VHS tape is usually "tape".  It has a list of texts called playback.  The playback of a VHS tape is usually {"[Printed Name] plays."}.  The description of a VHS tape is "This VHS tape is labeled '[label]'."
 
 Peter's MTV Compilation is a VHS tape in the entertainment center.  The label of it is "Peter's MTV Compilation".
+The playback of it is
+{"Boyz II Men sing 'It's So Hard to Say Goodbye to Yesterday' at the camera, like they really totally mean it.",
+"After a split-second of the logo for '120 Minutes', it switches to They Might Be Giants singing 'Ana Ng'.",
+"You've landed in the middle of the so-serious-it's-black-and-white video for Extreme's 'More Than Words'."}.
+
 The Tick Volume One is a VHS tape in the entertainment center.  The label of it is "The Tick Volume One".
+The playback of it is
+{"You've caught a commercial on the tape -- this one is a band dressed as space aliens singing a song called 'And Then There Was Me'.  It's some sort of PSA about cultural acceptance.",
+"The Tick fights a giant killer clown.",
+"The Tick is on the moon, trying to get rid of moon graffiti.",
+"Arthur is taking care of the Tick's taxes, which are something of a nightmare."}.
+
 Mom's Tape One is a VHS tape in the entertainment center.  The label of it is "Mom's Tape One".
+The playback of it is
+{"Somehow, there's still a snippet of an old Murder, She Wrote on this tape.",
+"It's a syndicated rerun of The Cosby Show on WDRB.",
+"Several pictures of tasteful furniture appear.  A manly, fast-talking announcer describes each of them.  Little stars with the words 'affordable!' and 'sale now!' cheaply animate on and off the screen.  Then, the owl logo for the store appears, with the painfully-earwormy jingle: 'We're the affordable furniture store!  Schmidt Furnitu-ure.'",
+"A local newscast plays -- some human interest story about a new zebra at the Louisville Zoo.",
+"A local newscast plays -- something about a college student getting shot non-fatally in downtown Louisville."}
 
 test vhs with "get bin / nw / n / n / e / put bin in VCR / get The Tick Volume One / put it in the VCR / Get Mom's Tape One / put it in the VCR / x big TV"
 
