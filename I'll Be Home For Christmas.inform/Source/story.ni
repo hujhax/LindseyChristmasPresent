@@ -497,6 +497,12 @@ Check inserting something into the VCR when the VCR is not empty:
 Report inserting something (called the tape) into the VCR:
 	say "You load [the tape] into the VCR and press play.[paragraph break][pick one of the playback of the tape]" instead;
 
+Instead of playing an VHS tape (called tapey) in the presence of the VCR:
+	Try inserting tapey into the VCR instead.
+	
+Instead of playing an VHS tape:
+	Say "You don't see anything to play it on." instead.
+	
 A captioner is a kind of thing.  It is fixed in place.  The description of a captioner is "This is an anonyous-looking gray box with a single LED display.  It's only the 'closed captioning' text etched into the corner of the display that tells you this is a captioning machine, designed to take a video signal, decade it's hidden 'caption' co-signal, and display that as text at the bottom of the screen."
 
 The captioning machine is a captioner in the entertainment center.
