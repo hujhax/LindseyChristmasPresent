@@ -447,6 +447,20 @@ The city books are scenery in Mom's Bedroom.  "This is a series of coffee-table 
 
 The art books are scenery in Mom's Bedroom.  "The tall shelves accommodate some coffee-table-book collections of French art, mostly Impressionists and Post-Impressionists."
 
+Chapter 15 - Mom's Bathroom
+
+The window unit is scenery in Mom's Bathroom.  "This small window unit is like one end of a very small greenhouse poking out of the window.  A tiny metal crank on the unit opens and shuts one of the windows of its 'roof'.  A tiny potted plant sits on the one metal shelf in the unit."
+
+Instead of opening the window unit, say "You'd rather not -- it's very cold outside."
+
+The tiny potted plant is scenery in Mom's Bathroom.  "It looks like a little herb of some sort.  Maybe oregano."
+
+The sink is scenery in Mom's Bathroom.  "A plain white porcelain sink with nondescript gray metal fixtures."
+
+The shower is scenery in Mom's Bathroom.  "There's a small shower tucked into the corner of the bathroom."
+
+Mom's bathroom mirror is a mirror in Mom's Bathroom.  The description of it is "A small mirror sits above the sink."
+
 Book 2 - Utilities
 
 Section 1 - Help
