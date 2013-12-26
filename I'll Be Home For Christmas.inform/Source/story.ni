@@ -731,3 +731,7 @@ Chapter 2 - New Verbs
 To say pick one of (Textlist - a list of texts):
 	let n be a random number between 1 and the number of entries in Textlist;
 	say entry n in Textlist;
+	
+Chapter 3 - New Adjectives
+
+Definition: a container is empty if nothing is in it.
