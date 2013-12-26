@@ -288,6 +288,12 @@ After examining the walls in the Foyer, say "You see the thermostat sticking out
 
 The thermostat is scenery in the Foyer. "A little brown-metal box juts from the wall, with a small dial poking out of the bottom for setting the temperature.  As usual, mom keeps the thermostat set around 71 for the winter."
 
+Chapter 8 - The Front Closets
+
+The overstuffed closets are scenery in the Front Closets.
+
+Instead of opening the overstuffed closets, say "You pry open a closet door and see that the closets are crammed full of coats, only two or three of which you've ever seen anyone actually wear."
+
 Book 2 - Utilities
 
 Section 1 - Help
