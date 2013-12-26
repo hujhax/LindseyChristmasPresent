@@ -500,6 +500,50 @@ Carry out fucking:
 
 Instead of fucking Mom, say "Whoa there, Oedipus."
 
+Chapter 2 - Cats
+
+Section 1 - General Cat Information
+
+A cat is a kind of animal with printed name "a cat" and description "This is a cat."  It has some text called entering text.  It has some text called exiting text.  It has some text called occupying text.  It has some text called name.
+
+The name of a cat is usually "Kitty".
+The entering text of a cat is usually "[name] cat enters."
+The exiting text of a cat is usually "[name] cat exits."
+The occupying text of a cat is usually "[name] cat is here."
+The printed name of a cat is usually "[name] cat".
+
+[cat-wandering behavior]
+
+Every turn:
+	repeat with kitty running through cats:
+		if a random chance of 1 in 3 succeeds:
+			let current space be a random room containing kitty;
+			let next space be a random room which is adjacent to the current space; 
+			if kitty is visible:
+				say the exiting text of kitty; 	
+				say "[paragraph break]";
+			move kitty to the next space; 
+			if kitty is visible:
+				say the entering text of kitty;
+				say "[paragraph break]";
+
+[give cats distinctive ways to occupy a room]
+
+Before listing nondescript items:
+	repeat with kitty running through cats:
+		if kitty is marked for listing:
+			say the occupying text of kitty;
+			say "[paragraph break]";
+			now kitty is not marked for listing
+
+[handle petting]
+		
+Understand the command "pet" as something new.
+Petting is an action applying to one thing.
+Understand "pet [something]" as petting.
+
+Check petting: 
+    if the noun is not a cat, say "Petting a cat would make more sense, no?" instead.
 Book 2 - Utilities
 
 Section 1 - Help
