@@ -35,8 +35,8 @@ There is a room called Front Stoop.
 There is a room called Front Closets.
 "An open corner near the front door has a couple of large closets built into adjacent walls."
 
-There is a room called Backyard Overlook.
-"To the south, a massive bookshelf is built into the wall.  Along the west wall, there's an ottoman, a credenza, and several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen.
+There is a room called Overlook.
+"To the south, a massive bookshelf is built into the wall.  Along the west wall, there are several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen.
 
 The household Christmas tree is here!"
 
@@ -70,14 +70,14 @@ West of Hallway is Bathroom.
 Southwest of Hallway is Mom's Bedroom.
 Northwest of Mom's Bedroom is Mom's Bathroom.  Southeast of Mom's Bathroom is nowhere.
 South of Mom's Bathroom is Mom's Bedroom.  North of Mom's Bedroom is nowhere.
-North of Foyer is Backyard Overlook.
+North of Foyer is Overlook.
 East of Foyer is Front Stoop.
 West of Foyer is Front Closets.
-North of Front Closets is Backyard Overlook.
-North of Backyard Overlook is Seating Area.
-East of Backyard Overlook is Living Room.
-Northeast of Backyard Overlook is Kitchen.
-Southwest of Backyard Overlook is Front Closets.  Northeast of Front Closets is nowhere.
+North of Front Closets is Overlook.
+North of Overlook is Seating Area.
+East of Overlook is Living Room.
+Northeast of Overlook is Kitchen.
+Southwest of Overlook is Front Closets.  Northeast of Front Closets is nowhere.
 North of Kitchen is Dining Room.
 West of Kitchen is Seating Area.
 Northeast of Kitchen is Laundry Room.
@@ -300,15 +300,16 @@ The overstuffed closets are scenery in the Front Closets.
 
 Instead of opening the overstuffed closets, say "You pry open a closet door and see that the closets are crammed full of coats, only two or three of which you've ever seen anyone actually wear."
 
-Chapter 9 - The Backyard Overlook
+Chapter 9 - The Overlook
 
-The built-in bookshelves are scenery in the Backyard Overlook.  They are fixed in place.  The description of the built-in bookshelves is "There are shelves and shelves and shelves of your mother's books.  There are fair number of mystery novels (Lilian Jackson Braun's 'The Cat Who...' books put in several appearances, a few airport-trashy thrillers (you see Flowers in the Attic by V. C. Andrews), and some Italian travel books.  Miniature placards of impressionist works of art sit in front of the books on some shelves."
+The built-in bookshelves are scenery in the Overlook.  They are fixed in place.  The description of the built-in bookshelves is "There are shelves and shelves and shelves of your mother's books.  There are fair number of mystery novels (Lilian Jackson Braun's 'The Cat Who...' books put in several appearances, a few airport-trashy thrillers (you see Flowers in the Attic by V. C. Andrews), and some Italian travel books.  Miniature placards of impressionist works of art sit in front of the books on some shelves."
 
-The Christmas tree is scenery in the Backyard Overlook.  The description of the Christmas tree is "You switched to an artificial tree a few years ago, so this is the same sizeable tree you've had for several years.  It has lots of lights and ornaments on it."
+The Christmas tree is scenery in the Overlook.  The description of the Christmas tree is "You switched to an artificial tree a few years ago, so this is the same sizeable tree you've had for several years.  It has lots of lights and ornaments on it."
 
-The decorative lights are scenery in the Backyard Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
+The decorative lights are scenery in the Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
 
-The ornaments are scenery in the Backyard Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
+The ornaments are scenery in the Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
+
 
 Chapter 10 - The Living Room
 
