@@ -671,7 +671,7 @@ Instead of petting Franco cat, say "Franco stares absently into space as you pet
 
 Book 2 - Utilities
 
-Section 1 - Help
+Chapter 1 - Help
 
 Include Basic Screen Effects by Emily Short. Include Menus by Emily Short. 
 
@@ -726,3 +726,8 @@ title	subtable	description	toggle
 "Credits"	--	"This was written using Inform 7, which is the work of Graham Nelson.  This particular game was designed and coded by Peter Rogers.  This help system was cribbed from Emily Short."	--
 "Contacting the Author"	--	"If you have any difficulties with [story title], feel free to contact me at peter@austinimprov.com."	--
 
+Chapter 2 - New Verbs
+
+To say pick one of (Textlist - a list of texts):
+	let n be a random number between 1 and the number of entries in Textlist;
+	say entry n in Textlist;
