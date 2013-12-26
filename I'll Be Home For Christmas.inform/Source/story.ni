@@ -444,6 +444,7 @@ Peter's MTV Compilation is a VHS tape in the entertainment center.  The label of
 The Tick Volume One is a VHS tape in the entertainment center.  The label of it is "The Tick Volume One".
 Mom's Tape One is a VHS tape in the entertainment center.  The label of it is "Mom's Tape One".
 
+test vhs with "get bin / nw / n / n / e / put bin in VCR / get The Tick Volume One / put it in the VCR / Get Mom's Tape One / put it in the VCR / x big TV"
 
 TV Week is a thing on the comfy chair.  The description of it is "This is the section of the Sunday paper that includes the week's TV schedule.  It used to be displayed in a neat three-column grid, but with the current preponderance of new 'cable' channels, it has a whole 20 rows, making it a bit of a visual mess.  Mom has marked each of 'her' shows -- mostly light dramas, and also the nightly Jeopardy! and Wheel of Fortune -- with a yellow highlighter.  The section is padded out with a few articles on the TV business, a review of a television show (of all things), and 'the incredible Inman' column, where Dave Inman answers questions like 'Who played the villain in that episode of The Fall Guy that guest-starred Pat Morita?'"
 
