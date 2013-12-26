@@ -737,15 +737,40 @@ Chapter 1 - Mom
 
 Mom is a woman in the Dining Room.  The description of Mom is "Your mother is getting a little on in years.  Her large, brown-framed eyeglasses are a higher prescription these days, and her tightly-permed brown hair is flecked with gray.  She wears a red, reindeer-adorned sweater, jeans, and (because why not) a green elf hat.  She wears a large, clunky hearing aid tucked behind each ear."
 
-After asking Mom about a topic listed in the Table of Mom's Replies, say "[Reply entry][paragraph break]".
-After asking Mom about a topic, say "She doesn't understand your question."
+Understand "herself" as Mom.
 
-Understand "hat", "the hat", "her hat", "green elf hat", "green hat", and "elf hat" as "[hat]".
+Mom wears an elf hat.  The description of the elf hat is "This is a little green elf hat."
+
+Instead of asking Mom about a topic listed in the Table of Mom's Replies, say "[Reply entry][paragraph break]".
+Carry out asking Mom about a topic:
+	say "She doesn't understand your question."
+
+Understand "yard sale", "yard sales" as "[yard sale]".
 
 Table of Mom's Replies
 Topic	Reply
-"[hat]"	"She grins and tells you, proudly, that this is her Christmas hat."
-"me/myself"	"'You're a good kid,' she says, affecting the tone of some kind of professional appraiser."
+"[yard sale]"	"[one of]'Guess how much I got this hat for!' she says.  After a suitable pause, she answers her own question: 'Twenty-five cents!'[or]'There are some good sales coming up this weekend,' she says pensively, flipping through some newspaper classifieds.[at random]"
+"Wheel of Fortune"	"'The contestants on this show are so stupid!' she complains."
+"Jeopardy"	"Yesterday the Final Jeopardy category was 'Potent Parasites'.  I would've bet it all!"
+
+Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
+
+Carry out interrogating Mom about something: 
+    say "She peers closely at you.  'Huh?' she asks."
+
+Instead of interrogating Mom about an item listed in the Table of Mom's Items: 
+    say "[reply entry][paragraph break]".
+
+Table of Mom's Items
+item	reply
+Franco	"'He's not the brightest bulb on the tree,' she says thoughtfully."
+yourself	"'You're a good kid,' she says, affecting the tone of some kind of professional appraiser."
+elf hat 	"[one of]She grins and tells you, proudly, that this is her Christmas hat.[or]'I am an elf,' she replies.[at random]"
+Samson	"'He just doesn't seem to get along with the other cats, does he?'"
+Eastwood	"'She sort of adopted all the other cats when they arrived.  She probably thinks she's taking care of us,' she adds with a smile."
+Mom	"'I'm getting along,' she says."
+
+test mom with "nw / n / n / ne / n / ask mom about me / ask mom about franco"
 
 Understand the command "hug" as something new.
 Hugging is an action applying to one thing.
