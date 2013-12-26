@@ -42,15 +42,15 @@ There is a room called Living Room.
 "Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway above a set of seat cabinets.  You can go west to some windows overlooking the backyard."
 
 There is a room called Kitchen.
-"The kitchen is dominated by counter space -- a large 'island' in the center of the room, and a smaller 'peninsula' to the west.  Along the walls are the usual kitchen appliances: the fridge, the microwave, the dishwasher, and the oven.  Cabinets and shelves occupy every other square foot of wall space.  To the west is a set of couches, or you can go north to the dining room or northeast to the laundry room."
+"The kitchen is dominated by counter space -- a large 'island' in the center of the room, and a smaller 'peninsula' to the west.  Along the walls are the usual kitchen appliances: the fridge, the microwave, the dishwasher, and the oven.  Cabinets and shelves occupy every other square foot of wall space.  To the west is a seating area, or you can go north to the dining room or northeast to the laundry room."
 
 There is a room called Laundry Room.
 "This cramped, hot room contains the washer and dryer.  There is a locked door to the south.  To the southwest is the kitchen."
 
 There is a room called Basement.
 
-There is a room called Couches.
-"A couple of couches line the west wall of the house.  To the northeast is the dining room.  To the east is the kitchen."
+There is a room called Seating Area.
+"A love seat sits along the west wall of the house.  To the northeast is the dining room.  To the east is the kitchen."
 
 There is a room called Dining Room.
 "A large table dominates the room, with a half-dozen rolling chairs tucked into it.  Along the south and west walls, windows look out onto the backyard.  One small endtable supports a TV set.  A small rolling shelf supports a phone."
@@ -70,15 +70,15 @@ North of Foyer is Backyard Overlook.
 East of Foyer is Front Stoop.
 West of Foyer is Front Closets.
 North of Front Closets is Backyard Overlook.
-North of Backyard Overlook is Couches.
+North of Backyard Overlook is Seating Area.
 East of Backyard Overlook is Living Room.
 Northeast of Backyard Overlook is Kitchen.
 Southwest of Backyard Overlook is Front Closets.  Northeast of Front Closets is nowhere.
 North of Kitchen is Dining Room.
-West of Kitchen is Couches.
+West of Kitchen is Seating Area.
 Northeast of Kitchen is Laundry Room.
 South of Laundry Room is Basement.
-Northeast of Couches is Dining Room.
+Northeast of Seating Area is Dining Room.
 North of Dining Room is Back Stoop.
 Outside of Dining Room is Back Stoop.
 
