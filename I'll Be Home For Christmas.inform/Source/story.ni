@@ -548,7 +548,16 @@ Instead of opening the cabinet, say "To your surprise, the cabinet is empty.  Yo
 
 The dining-room end table is a fixed in place supporter in the Dining Room.  The description of it is "A simple end table supports the TV set."
 
-The dining-room television is a fixed in place, switched on device on the dining-room end table.  "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."
+The dining-room television is a fixed in place, switched on device on the dining-room end table.  The description of the dining-room television is "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."  The dining-room television has a list of texts called playback.
+
+The playback of the dining-room television is
+{"A contestant on Wheel of Fortune guesses that '_OOL _ARTY' is 'COOL PARTY'.  You think you can see Pat Sajak die inside just a little.",
+"A local used car lot is advertising 'TIS THE SEASON FOR NO MONEY DOWN 'SANTA DEALS'",
+"A Jeopardy! contestant bets $1,000 in the 'Potent Potables' Double Jeopardy question.",
+"A Jeopardy! contestant is patiently running the 'U. S. Presidents' category.",
+"A celebrity from the 70s is advertising life-insurance policies to the older viewers."}.
+
+After examining the dining-room television, say "[pick one of the playback of the dining-room television]";
 
 Instead of switching off the dining-room television, say "That would be rude.  Your mother is watching it right now."
 
