@@ -398,6 +398,38 @@ Instead of switching on the darkroom timer, say "The timer buzzes at a volume th
 
 The kitchen lamp is scenery in the Kitchen. "This is a small gooseneck lamp that's plugged into an outlet on the darkroom timer."
 
+Chapter 13 - Dining Room
+
+The dining-room table is scenery in the Dining Room.  "A normal table, with a tablecloth, on rolling casters. 
+The table is surrounded by a set of rolling chairs."
+
+The tablecloth is scenery in the Dining Room.  "The thick vinyl tablecloth has a pattern of lemons printed on it."
+
+The dining-room chairs are scenery in the Dining Room. "This is a set of wooden chairs.  Each chair sits on four metal casters, and the back and seat of each is a rectangle of taupe upholstery."
+
+The rolling shelf is a fixed in place supporter in the Dining Room.  The description of it is "A simple rolling shelf -- a small, light-brown counter sits on top of a white cabinet, which rolls on four black casters at the corners."
+
+A telephone is on the rolling shelf.  It is fixed in place.  The description of it is "This is a black phone with a grid of number buttons instead of a dial and a mismatched yellow receiver."
+
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right."
+
+The rolling-shelf cabinet is scenery in the Dining Room.  "A plain white cabinet."
+
+Instead of opening the cabinet, say "To your surprise, the cabinet is empty.  You close it back up."
+
+The dining-room end table is a fixed in place supporter in the Dining Room.  The description of it is "A simple end table supports the TV set."
+
+The dining-room television is a fixed in place, switched on device on the dining-room end table.  "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."
+
+Instead of switching off the dining-room television, say "That would be rude.  Your mother is watching it right now."
+
+The dining-room captioning machine is a captioner on the dining-room end table.
+
+After examining the walls in the Dining Room, say "There are a couple of framed posters on the walls."
+
+The dining-room posters are scenery in the Dining Room. "A couple of framed posters -- Toulouse Lautrec poster art for the Moulin Rouge -- adorn the walls."
+
+
 Book 2 - Utilities
 
 Section 1 - Help
