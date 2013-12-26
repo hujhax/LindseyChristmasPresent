@@ -282,7 +282,9 @@ The yearbook is scenery in Peter's Bedroom. "This is the 1990-1991 edition of th
 
 Section 2 - The Puzzle Toy
 
-The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg."
+The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg.
+
+[the puzzle state of the puzzle toy]"
 
 The puzzle toy has a list of numbers called the status.
 
@@ -296,10 +298,40 @@ Check toggling when the puzzle toy is not visible:
 	say "You don't see the puzzle toy anywhere, and that's the only thing you know how to toggle." instead.
 Check toggling when the puzzle toy is visible and (the number understood < 1 or the number understood > 6):
 	say "This is not a valid number." instead.
+
+To say peg description of (peg state - a number):
+	say "[if peg state is 1]pushed in[otherwise]pushed out[end if]";
+	
+To say the puzzle state of the puzzle toy:
+	let index be 1;
+	say "This is the current state of all the pegs in the toy:[paragraph break]";
+	while (index < 7):
+		say "The [ordinal of index] peg: [peg description of entry index of the status of the puzzle toy].";
+		let index be index + 1;
 	
 Carry out toggling:
-	say "[ordinal of the number understood]."
-	
+	[examples: peg 5 is movable if 4 is pushed out and 1, 2, and 3 are pushed in; peg 3 is movable if 2 is pushed out and 1 is moved in; peg 1 is always movable]
+	let movable be true;
+	let position be the number understood;
+	let iteration be position - 1;
+	if iteration > 0 and entry iteration of the status of the puzzle toy is 0, now movable is false;
+	let iteration be iteration - 1;
+	while iteration > 0
+	begin;
+	if entry iteration of the status of the puzzle toy is 1, now movable is false;
+	let iteration be iteration - 1;
+	end while;
+	let peg state be entry position of the status of the puzzle toy;
+	if movable is true
+	begin;
+	now peg state is 1 - peg state;
+	now entry position of the status of the puzzle toy is peg state;
+	say "You carefully toggle the [ordinal of position] peg so that it is [peg description of peg state].";
+	otherwise;
+	say "For some reason, you can't dislodge the [ordinal of position] peg.  It stays [peg description of peg state].";
+	end if;
+	say "[paragraph break][the puzzle state of the puzzle toy]";
+			
 Chapter 3 - Peter's Closet
 
 The tote bag is an open container in Peter's Closet.  The description of the tote bag is "This is a cream-colored canvas L. L. Bean tote bag with forest-green handles.  It's large enough to carry two to three severed heads.  When you have to put up with school, this is the bag you use to carry your school books around."
