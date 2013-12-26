@@ -197,6 +197,9 @@ A camera is in the bottom left drawer.  The description of a camera is "This is 
 
 A desk lamp is a device on the desk.  It is switched off.  It is fixed in place. The description of a desk lamp is "This old lamp probably came from a yard sale somewhere.  It has a black base, a dingy chrome gooseneck, and a rectangular plastic lampshade that shields a fluorescent tube light.  Two buttons on the base, one orange and one white, turn the lamp on and off respectively.  The desk lamp is currently [if switched off]off.[otherwise]on, shining a sickly, pallid light over the surface of the desk."
 
+[hide default device description for the desk lamp]
+Instead of examining the desk lamp, say "[the description of the desk lamp][paragraph break]".
+
 The display shelf is scenery in Peter's Bedroom.  "This is a tall, cheap set of shelves next to your desk.  The construction -- maybe particle board with a plastic, wood-pattern laminate surface -- looks like it would fall apart if you punched it.  It has a top shelf, a middle shelf, and a bottom shelf.  There is a marathon poster and a comic attached to the side of the shelf."
 
 The top shelf is a supporter in Peter's Bedroom. The description of the top shelf is "The top shelf of the display shelf contains a set of games."
