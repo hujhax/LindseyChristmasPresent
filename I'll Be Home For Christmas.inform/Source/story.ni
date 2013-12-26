@@ -490,6 +490,8 @@ After opening the medicine cabinet: say "You try opening the cabinet, and it's c
 
 The shower is scenery in the Bathroom.  "A plain shower with a tub and a translucent plastic shower curtain."
 
+Instead of taking the shower, say "You took a shower this morning, so you should be set for the day."
+
 Chapter 7 - The Foyer
 
 The foyer dresser is a closed, openable container in the Foyer.  It is scenery.  The description of the foyer dresser is "A massively heavy brown dresser sits to the side of the front door."
@@ -724,6 +726,8 @@ The tiny potted plant is scenery in Mom's Bathroom.  "It looks like a little her
 Mom's sink is scenery in Mom's Bathroom.  "A plain white porcelain sink with nondescript gray metal fixtures."
 
 Mom's shower is scenery in Mom's Bathroom.  "There's a small shower tucked into the corner of the bathroom."
+
+Instead of taking Mom's shower, say "You would just feel weird about using Mom's shower."
 
 Mom's bathroom mirror is a mirror in Mom's Bathroom.  The description of it is "A small mirror sits above the sink."
 
