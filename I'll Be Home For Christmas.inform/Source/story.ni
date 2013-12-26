@@ -418,7 +418,8 @@ The entertainment center is a container in the Living Room.  It is fixed in plac
 
 The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."
 
-The VCR is in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
+After examining the TV when something (called the current tape) is in the VCR:
+	say "[pick one of the playback of the current tape]";
 
 The VCR is a container in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
 
