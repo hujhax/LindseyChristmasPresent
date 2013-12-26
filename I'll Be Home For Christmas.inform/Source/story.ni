@@ -26,7 +26,7 @@ There is a room called Bathroom.
 "Nothing too fancy here: a shower/tub combo, a toilet, a medicine cabinet above the toilet, and a sink with a mirror."
 
 There is a room called Foyer.
-"The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
+"The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser and a thermostat, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
 
 There is a room called Front Stoop.
 
@@ -278,6 +278,15 @@ After opening the medicine cabinet: say "You try opening the cabinet, and it's c
 
 The shower is scenery in the Bathroom.  "A plain shower with a tub and a translucent plastic shower curtain."
 
+Chapter 7 - The Foyer
+
+The foyer dresser is a closed, openable container in the Foyer.  It is scenery.  The description of the foyer dresser is "A massively heavy brown dresser sits to the side of the front door."
+
+Instead of opening the foyer dresser, say "You take a quick peek inside, and see that the dresser drawers are full-to-bursting with heavy coats, scarves, hats, and gloves."
+
+After examining the walls in the Foyer, say "You see the thermostat sticking out of the south wall."
+
+The thermostat is scenery in the Foyer. "A little brown-metal box juts from the wall, with a small dial poking out of the bottom for setting the temperature.  As usual, mom keeps the thermostat set around 71 for the winter."
 
 Book 2 - Utilities
 
