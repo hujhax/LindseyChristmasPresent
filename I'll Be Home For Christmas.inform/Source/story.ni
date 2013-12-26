@@ -419,7 +419,7 @@ The entertainment center is a container in the Living Room.  It is fixed in plac
 The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."
 
 After examining the TV when something (called the current tape) is in the VCR:
-	say "[pick one of the playback of the current tape][paragraph break]";
+	say "[pick one of the playback of the current tape]";
 
 The VCR is a container in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
 
@@ -430,7 +430,7 @@ Check inserting something into the VCR when the VCR is not empty:
 	say "The VCR already has a tape in it." instead;
 	
 Report inserting something (called the tape) into the VCR:
-	say "You load [the tape] into the VCR and press play.[paragraph break][pick one of the playback of the tape][paragraph break]" instead;
+	say "You load [the tape] into the VCR and press play.[paragraph break][pick one of the playback of the tape]" instead;
 
 A captioner is a kind of thing.  It is fixed in place.  The description of a captioner is "This is an anonyous-looking gray box with a single LED display.  It's only the 'closed captioning' text etched into the corner of the display that tells you this is a captioning machine, designed to take a video signal, decade it's hidden 'caption' co-signal, and display that as text at the bottom of the screen."
 
@@ -768,6 +768,7 @@ Chapter 2 - New Verbs
 To say pick one of (Textlist - a list of texts):
 	let n be a random number between 1 and the number of entries in Textlist;
 	say entry n in Textlist;
+	say "[paragraph break]";
 	
 Chapter 3 - New Adjectives
 
