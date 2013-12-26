@@ -331,6 +331,8 @@ Carry out toggling:
 	say "For some reason, you can't dislodge the [ordinal of position] peg.  It stays [peg description of peg state].";
 	end if;
 	say "[paragraph break][the puzzle state of the puzzle toy]";
+	
+test puzzle with "toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1/ toggle 5 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 6";
 			
 Chapter 3 - Peter's Closet
 
