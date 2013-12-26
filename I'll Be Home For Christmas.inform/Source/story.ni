@@ -4,6 +4,8 @@ Book 1 - First Floor
 
 Part 1 - Rooms 
 
+Section 1 - Declarations and Descriptions
+
 There is a room called Peter's Bedroom. 
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
 
@@ -56,6 +58,8 @@ There is a room called Dining Room.
 "A large table dominates the room, with a half-dozen rolling chairs tucked into it.  Along the south and west walls, windows look out onto the backyard.  One small endtable supports a TV set.  A small rolling shelf supports a phone."
 
 There is a room called Back Stoop.
+
+Section 2 - The Map
 
 North of Peter's Bedroom is Peter's Closet.
 Northwest of Peter's Bedroom is Hallway.  Southeast of Hallway is nowhere.
