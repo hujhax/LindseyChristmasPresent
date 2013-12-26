@@ -391,6 +391,38 @@ The spare-bedroom desk is a supporter in the Spare Bedroom.  It is fixed in plac
 
 The home computer is a device on the spare-bedroom desk.  The description of the home computer is "This is a pretty nice PC knockoff -- it's a 'Leading Edge' computer with a fancy 'concentric triangle' logo.  The main computer case is a big beige metal box that's about the size of two shoeboxes, with a brand-new, 3.5' floppy disk drive in front.  On top of that is the monitor, another beige metal box that serves as a twelve inch-green monochrome display.  Your mother has covered both units in post-its with your mother's scribbled notes of passwords and reminders about how to use the computer.  [if switched on]The computer is currently running [the printed name of the current software of the home computer].  [the output of the current software of the home computer][end if]"
 
+A software is a kind of thing.  A software has some text called an output.
+
+SimCity is a software with output "Your city percolates along."
+A word processor is a software with output "A very angsty diary entry is in progress." and printed name "a word processor".
+Enchanter is a software with output "Your adventurer has frotzed himself, which seemed like a good idea at the time, but is causing no end of trouble."
+
+test computer with "nw / e / turn on computer" 
+
+The home computer has a software called current software.
+
+After switching on the home computer:
+	change the current menu to the Table of Computer Options;
+	carry out the displaying activity;
+	clear the screen;
+	try looking.
+
+Table of Computer Options
+title	subtable	description	toggle
+"SimCity"	--	""	select software rule
+"Word Processor" 	--	""	select software rule
+"Enchanter" 	--	""	select software rule	
+
+This is the select software rule:
+	if the current menu selection is:
+		-- 1:
+			now the current software of the home computer is SimCity;
+		-- 2:
+			now the current software of the home computer is Word Processor;
+		-- 3:
+			now the current software of the home computer is Enchanter;	
+	decrease the menu depth by 1;
+	rule succeeds. 
 
 The printer is a device on the spare-bedroom desk.  The description of the printer is "Like the other computer components, this dot-matrix printer is a beige box covered in explanatory post-it notes.  In this case, the box is made of plastic and is open at the top, where the printer paper feeds through it."
 
