@@ -337,7 +337,7 @@ Carry out toggling:
 	end if;
 	say "[paragraph break][the puzzle state of the puzzle toy]";
 
-After toggling 6 when the puzzle toy is unsolved:
+After toggling 6 when the puzzle toy is unsolved and entry six of the status of the puzzle toy is one:
 	now the puzzle toy is solved;
 	say "Wow!  You solved it!  You're really quite surprised that you had enough patience to toggle all those pegs back and forth -- it was [moves of the puzzle toy in words] moves, by your reckoning.  You suspect that, after some practice, you'll start idly solving and un-solving this puzzle the way some people idly flip quarters over their knuckles.";
 	
