@@ -170,7 +170,7 @@ The bookshelf is a supporter in Peter's Bedroom.  The description of the bookshe
 
 The rows of books are scenery in Peter's Bedroom. "The top row of books has a lot of math books -- most notably a giant, beaten up calculus textbook and a couple of 'recreational math' books by Martin Gardener -- between a couple of cat bookends.  The bottom row of books has a section of comic trade paperbacks (including a set of worn-out Bloom County trade paperbacks), and a whole bevvy of language-instruction books, including a 'teach yourself Pitman shorthand' manual and a set of tapes for learning Norwegian.  You are fluent in precisely zero foreign languages, but you find them fun to learn about.  Also on the bottom shelf is the single yearbook you've gotten from South Oldham."
 
-The cat bookends are scenery in Peter's Bedroom. "You have no idea where the cat bookends came from, especially since they look like the sort of precious porcelain curios that should belong to a 60-year-old female librarian.  Each one depicts an idealized white cat batting at a wall, its 'wall' and 'floor' forming a right angle that presumably holds the row of books at bay."
+The cat-style bookends are scenery in Peter's Bedroom. "You have no idea where the cat bookends came from, especially since they look like the sort of precious porcelain curios that should belong to a 60-year-old female librarian.  Each one depicts an idealized white cat batting at a wall, its 'wall' and 'floor' forming a right angle that presumably holds the row of books at bay."  Understand "cat bookends" as the cat-style bookends.
 
 The trophies are scenery on the bookshelf.  "Various academic-team trophies fill the shelf.  The biggest is for some meager local standing in the AHSME, or 'American High-School Math Exam' -- basically a participation trophy for its second round.  There are a few from the local academic-team circuit, and a placard from the 'Sweet 16' math competition.  Almost hidden beneath all of these is a tiny 'Volleyball' trophy, which came from the impromptu volleyball competition that happened at the math contest."
 
@@ -368,9 +368,9 @@ The microwave is scenery in the Kitchen. "A bulky, black, mid-80s vintage microw
 
 The oven is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal electric range/oven, faintly redolent of cat food."
 
-The cat food is in the oven.  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."
+The pet food is in the oven.  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."  Understand "cat food" as the pet food.
 
-Instead of taking the cat food, say "There is no possible use for taking the cat food, so you just leave it be."
+Instead of taking the pet food, say "There is no possible use for taking the cat food, so you just leave it be."
 
 The refrigerator is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal fridge, with a collection of greeting cards and photographs magnetted to it."  Understand "fridge" as the refrigerator.
 
