@@ -150,6 +150,14 @@ The player wears jeans.  The description of the jeans is "Your jeans are fairly 
 
 Instead of taking off the jeans, say "Why?"
 
+Before taking inventory: 
+	remove the sweater from play;
+	remove the jeans from play
+	
+After taking inventory:
+	now the player wears the sweater;
+	now the player wears the jeans
+		
 Chapter 2 - Peter's Bedroom
 
 The desk is a supporter in Peter's Bedroom. The description of the desk is "You have no idea where your desk came from.  You know it's old, and massive, and made of wood.  The edges of the top of a pretty pattern of narrow inset rectangles, like a string of corrugated ribbon, and the desk itself has a number of drawers."
