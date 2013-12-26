@@ -216,16 +216,29 @@ The games are scenery on the top shelf.  "These are the only games you keep in y
 
 Some cassette tapes are scenery on the middle shelf.  "This is a pile of old cassette tapes that your brother left behind when he headed off to Northwestern.  A few tapes are set aside from the rest: an REM tape, a Sam Cooke tape, and Pink Floyd tape."
 
-An audio tape is a kind of thing.  It has some text called side A.  It has some text called side B.  The description of an audio tape is "Yet another old, ninety-minute Maxell tape -- black plastic with, on each side, gold-colored decorations and a rectangular white label.  The labels, written on in black ink in your brother's nearly-indecipherable scrawl, say that side A is [side A] and side B is [side B]."
+An audio tape is a kind of thing.  It has some text called side A.  It has some text called side B.  It has some text called audio-playback.  The description of an audio tape is "Yet another old, ninety-minute Maxell tape -- black plastic with, on each side, gold-colored decorations and a rectangular white label.  The labels, written on in black ink in your brother's nearly-indecipherable scrawl, say that side A is [side A] and side B is [side B]."
 
 The side A of an audio tape is usually "side A".
 The side B of an audio tape is usually "blank".
+The audio-playback of an audio tape is usually "Audio from the tape deck plays."
 
-The REM tape is an audio tape on the middle shelf with side A "Murmur by REM" and side B "Treehouse by the Grapes of Wrath.  Or it's The Grapes of Wrath by Treehouse.  You've never really been sure".
+An REM tape is an audio tape on the middle shelf with side A "Murmur by REM" and side B "Treehouse by the Grapes of Wrath.  Or it's The Grapes of Wrath by Treehouse.  You've never really been sure" and audio-playback "Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome."
 
-The Sam Cooke tape is an audio tape on the middle shelf with side A "Sam Cooke Live at the Apollo".
+The Sam Cooke tape is an audio tape on the middle shelf with side A "Sam Cooke Live at the Apollo" and audio-playback "Sam Cooke belts out a song for an adoring live audience.".
 
-The Pink Floyd tape is an audio tape on the middle shelf with side A "The Wall by Pink Floyd" and side B "the second side of that same album".
+The Pink Floyd tape is an audio tape on the middle shelf with side A "The Wall by Pink Floyd" and side B "the second side of that same album" and audio-playback "The Wall plays, reminding you that only bombastic, orchestrated rock'n'roll can explain the soul-killing isolation of stardom."
+
+After examining the stereo when something (called the current tape) is in the stereo:
+	say "[the audio-playback of the current tape][paragraph break]";
+
+Check inserting something that is not an audio tape into the stereo:
+	say "The stereo can only accepts audio tapes." instead;
+
+Check inserting something into the stereo when the stereo is not empty:
+	say "The stereo already has a tape in it." instead;
+	
+Report inserting something (called the tape) into the stereo:
+	say "You pop [the tape] into the stereo and press play.[paragraph break][the audio-playback of the tape][paragraph break]" instead;
 
 The rolling table is a supporter in Peter's Bedroom. The description of the rolling table is "A small gray table with metal legs and wheels at the bottom.  Between the gummed-up bearings in the wheels and the caster-unfriendly carpeting, the table is pretty well rooted in place."
 
