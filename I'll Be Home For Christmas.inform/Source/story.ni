@@ -1,5 +1,7 @@
 "I'll Be Home For Christmas" by Peter Rogers
 
+Include Assorted Text Generation by Emily Short.
+
 Book 1 - First Floor
 
 Part 1 - Rooms 
@@ -281,6 +283,9 @@ Check toggling when the puzzle toy is not visible:
 	say "You don't see the puzzle toy anywhere, and that's the only thing you know how to toggle." instead.
 Check toggling when the puzzle toy is visible and (the number understood < 1 or the number understood > 6):
 	say "This is not a valid number." instead.
+	
+Carry out toggling:
+	say "[ordinal of the number understood]."
 	
 Chapter 3 - Peter's Closet
 
