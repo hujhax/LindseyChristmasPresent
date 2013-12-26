@@ -216,7 +216,7 @@ The games are scenery on the top shelf.  "These are the only games you keep in y
 
 Some cassette tapes are scenery on the middle shelf.  "This is a pile of old cassette tapes that your brother left behind when he headed off to Northwestern.  A few tapes are set aside from the rest: an REM tape, a Sam Cooke tape, and Pink Floyd tape."
 
-An audio tape is a kind of thing.  It has some text called side A.  It has some text called side B.  The description of a tape is "Yet another old, ninety-minute Maxell tape -- black plastic with, on each side, gold-colored decorations and a rectangular white label.  The labels, written on in black ink in your brother's nearly-indecipherable scrawl, say that side A is [side A] and side B is [side B]."
+An audio tape is a kind of thing.  It has some text called side A.  It has some text called side B.  The description of an audio tape is "Yet another old, ninety-minute Maxell tape -- black plastic with, on each side, gold-colored decorations and a rectangular white label.  The labels, written on in black ink in your brother's nearly-indecipherable scrawl, say that side A is [side A] and side B is [side B]."
 
 The side A of an audio tape is usually "side A".
 The side B of an audio tape is usually "blank".
