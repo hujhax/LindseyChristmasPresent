@@ -815,6 +815,8 @@ Understand "pet [something]" as petting.
 Check petting: 
     if the noun is not a cat, say "Petting a cat would make more sense, no?" instead.
 
+Instead of taking a cat (called kitty), try hugging kitty.
+
 Section 2 - Samson
 
 Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "[one of]Samson is here, glowering at you.[or]Samson is here, sleeping uneasily.[at random]".  Samson cat is in Mom's Bedroom.
