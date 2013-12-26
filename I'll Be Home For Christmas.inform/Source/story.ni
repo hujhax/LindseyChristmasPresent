@@ -356,6 +356,47 @@ The rolling cuboid thing is a fixed in place closed openable container in the Se
 
 Instead of opening the rolling cuboid thing, say "You peek inside the rolling box, only to find that it's filled almost to the brim with old paper -- possibly scrap paper, maybe important documents.  You close it up again."
 
+Chapter 12 - Kitchen
+
+The peninsula is scenery in the Kitchen.  "A 'peninsula' counter extends from the north wall of the kitchen, separating it from the couches to the west.  It's a plain, light-brown wooden counter on top of a set of white cabinets.  The counter is covered in piles of old envelopes."
+
+The old envelopes are scenery in the Kitchen.  "This is a big stack of old envelopes -- mostly unwanted bulk-mailings received from places like the Franklin Mint -- that mom uses for scrap paper.  A few of them are half-used, so you can re-read your own half of conversations from earlier this week.  ('What time are they arriving?' 'Yes.' 'How long is the drive?' 'Isn't that cutting things close?')"
+
+The island is scenery in the Kitchen. "Most of the kitchen is dominated by a large central counter.  The countertop is brown, and sits on top of  with a sink, a dishwasher, and countless cabinets."
+
+The microwave is scenery in the Kitchen. "A bulky, black, mid-80s vintage microwave."
+
+The oven is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal electric range/oven, faintly redolent of cat food."
+
+The cat food is in the oven.  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."
+
+Instead of taking the cat food, say "There is no possible use for taking the cat food, so you just leave it be."
+
+The refrigerator is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal fridge, with a collection of greeting cards and photographs magnetted to it."  Understand "fridge" as the refrigerator.
+
+The magnets are scenery in the Kitchen. "Most of the magnets are little bits of swag from pharmaceutical companies.  A little blue magnet/letter-opening proudly advertises 'Hyproxin: second to none', whatever that may be."
+
+The bowl of pink cloud is in the refrigerator.  The description of it is "A large bowl holds a gelatinous dessert made of cottage cheese, cool whip, canned pineapple, and strawberry Jell-O.  The result looks a bit like brain matter that's been run through a blender on its lowest setting."
+
+Before eating the pink cloud, say "You try a bite of it.  It's actually pretty good, in spite of its odd texture and rampant artificiality." instead.
+
+The old bottles are in the refrigerator.  The description of it is "This looks like a collection of condiment bottles.  All of these products must be well past their sell-by date."
+
+Instead of taking the old bottles, say "You make a grab for them, then think better of it.  Who knows what sort of germs they've accumulated during their years in the fridge."
+
+The milk that's a bit off is in the refrigerator.  The description of it is "This is a gallon jug of 1% milk.  It smells a bit off."
+
+Instead of drinking the milk, say "You try a sip of it.  It tastes a bit off.  You check the expiration date: 12/12/91, so that's... last week.  You grimace a bit."
+
+The yogurt is in the fridge.  The description of it is "These are a few tubs of Winn Dixie's generic brand of yogurt, in a few almost-certainly-artificial fruit flavors."
+
+Instead of eating the yogurt, say "You try some of the blueberry flavor.  It's okay."
+
+The darkroom timer is a fixed in place, switched off device in the Kitchen.  The description of it is "This is a large white darkroom timer with a large circular readout.  It's attached to a lamp."
+
+Instead of switching on the darkroom timer, say "The timer buzzes at a volume that makes you jump, and the attached lamp starts flashing brightly on and off and on again.  Mom pokes her head in the room as you sheepishly turn the timer back off.  She goes back to what she was doing."
+
+The kitchen lamp is scenery in the Kitchen. "This is a small gooseneck lamp that's plugged into an outlet on the darkroom timer."
 
 Book 2 - Utilities
 
