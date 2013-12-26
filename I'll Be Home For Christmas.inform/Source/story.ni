@@ -39,7 +39,7 @@ There is a room called Backyard Overlook.
 The household Christmas tree is here!"
 
 There is a room called Living Room.
-"Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway.  You can go west to some windows overlooking the backyard."
+"Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway above a set of seat cabinets.  You can go west to some windows overlooking the backyard."
 
 There is a room called Kitchen.
 "The kitchen is dominated by counter space -- a large 'island' in the center of the room, and a smaller 'peninsula' to the west.  Along the walls are the usual kitchen appliances: the fridge, the microwave, the dishwasher, and the oven.  Cabinets and shelves occupy every other square foot of wall space.  To the west is a set of couches, or you can go north to the dining room or northeast to the laundry room."
@@ -305,6 +305,48 @@ The Christmas tree is scenery in the Backyard Overlook.  The description of the 
 The decorative lights are scenery in the Backyard Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
 
 The ornaments are scenery in the Backyard Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
+
+Chapter 10 - The Living Room
+
+The comfy couches are scenery in the Living Room.  "A couple of neat, upholstered couches sit at right angles to each other.  The bigger one is so long you can actually lie down on it comfortably without having to curl up your legs or anything.  The upholstery is beige, with a floral pattern on it that sort of resists close attention, always fading into vague, green-and-maroon bits of noise."
+
+The comfy chair is a supporter in the Living Room.  It is fixed in place.  The description of it is "The most comfortable chair in the room is an unfortunate shade of very definite purple.  Its swoopy design reminds you a bit of the captain's chair from the bridge of the Enterprise (the one from the 60s, not the one currently on TV)."
+
+The end tables are scenery in the Living Room.  "A couple of plain wooden end tables sit on either end of the larger of the two couches.  Each end table has a lamp on it."
+
+The lamps are scenery in the Living Room.  "A heavy table lamp sits on each end table."
+
+The coffee table is a fixed in place supporter in the living room.  The description of it is "The long, low, narrow coffee table is another elegant wooden item that reflects the whole 'Danish modern' thing that your parents fell in love with in Europe in the late 60s."
+
+The display cabinet is a supporter in the Living Room.  It is fixed in place.  The description of it is "A simple display cabinet which has a few decorative bits and bobs, including a wooden statue."
+
+The wooden statue is on the display cabinet.  The description of it is "The shape must be the figure of a woman, but its edges are reduced to simple set of lines in space.  It looks vaguely African (she has a bundle on her head) by way of 60s Scandinavia."
+
+The entertainment center is a container in the Living Room.  It is fixed in place.  The description of it is "A sizeable entertainment center, made of brown wood, sits as the focal point of the room."
+
+The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."
+
+The VCR is in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
+
+A captioner is a kind of thing.  It is fixed in place.  The description of a captioner is "This is an anonyous-looking gray box with a single LED display.  It's only the 'closed captioning' text etched into the corner of the display that tells you this is a captioning machine, designed to take a video signal, decade it's hidden 'caption' co-signal, and display that as text at the bottom of the screen."
+
+The captioning machine is a captioner in the entertainment center.
+
+The VHS tapes are in the entertainment center.  They are fixed in place.  The description of them is "A stack of VHS tapes.  Some of them are yours -- one is labeled 'Peter's MTV Compilation' and another is 'The Tick Vol. 1', but most of them are Mom's -- one is labeled 'Mom's Tape #1'."
+
+TV Week is a thing on the comfy chair.  The description of it is "This is the section of the Sunday paper that includes the week's TV schedule.  It used to be displayed in a neat three-column grid, but with the current preponderance of new 'cable' channels, it has a whole 20 rows, making it a bit of a visual mess.  Mom has marked each of 'her' shows -- mostly light dramas, and also the nightly Jeopardy! and Wheel of Fortune -- with a yellow highlighter.  The section is padded out with a few articles on the TV business, a review of a television show (of all things), and 'the incredible Inman' column, where Dave Inman answers questions like 'Who played the villain in that episode of The Fall Guy that guest-starred Pat Morita?'"
+
+The set of seat cabinets is a closed, openable, fixed in place container in the Living Room.  The description of it is "The 'bench' alongside the bay windows are actually a set of cabinets with a hinged top."
+
+The Nintendo is in the seat cabinets.  The description of it is "This is your old Nintendo system.  You played its games like mad for a couple of years, but when you moved into this house, the movers stole most of your cartridges, and you just haven't been into it since.  It has the usual box and two controllers, but you never sprung for the Duck Hunt gun, the Power Glove, or the fancy robot."
+
+Some NES games are in the seat cabinets.  The description of them is "You used to have a lot of Nintendo games, but movers stole most of them.  Now all you have left are Super Mario Brothers and Excitebike."
+
+The bowl of fake eggs is on the coffee table. They are fixed in place.  The description of them is "The centerpiece of the coffee table is a heavy metal bowl filled with stone eggs.  A few are marble.  Some look like they're made of some kind of colorful granite."
+
+The plate of candy is on the coffee table.  It is fixed in place.  The description of it is "There is a plate with a mound of candy here -- it looks like the same Hershey's kisses that have been there for the last month or so."
+
+Before eating the plate of candy, say "You try one of the Hershey's kisses.  It tastes kind of chalky and flavorless." instead.
 
 Book 2 - Utilities
 
