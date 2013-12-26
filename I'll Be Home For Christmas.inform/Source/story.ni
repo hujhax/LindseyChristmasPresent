@@ -86,6 +86,40 @@ Northeast of Seating Area is Dining Room.
 North of Dining Room is Back Stoop.
 Outside of Dining Room is Back Stoop.
 
+Section 3 - Outdoor Views
+
+A room has some text called the outdoor view.
+
+The outdoor view of a room is usually "There are no windows to look out of here."
+
+Understand the command "look outside" as something new.
+Looking outside is an action applying to nothing.
+Understand "look outside", "look out the window", "look out window", "look through the window", "look through window" as looking outside.
+
+instead of looking outside:
+	say the outdoor view of a random room containing the player;
+	say "[paragraph break]"
+	
+The outdoor view of Peter's Bedroom is "You can see a bit of the driveway through the east windows; through the south windows, if you look to the right, you can see the sun setting through the trees."
+
+The outdoor view of the Spare Bedroom is "You can shoulder through some of the junk and barely tug the curtains apart, affording you a glimpse of the front driveway."
+
+The outdoor view of the Foyer is "A narrow window by the door lets you see a strip of the front driveway."
+
+The outdoor view of Mom's Bedroom is "You can see some of the backyard from here, and through the trees, a little bit of Wooldridge Avenue, empty of cars for the moment."
+
+The outdoor view of Mom's Bathroom is "The window unit is like a tiny peephole through which you can see a tiny piece of the backyard.  You think you can see the fringe tree."
+
+The outdoor view of Overlook is "The backyard is all dead leaves and dead grass now, with a few white spots left over from last night's short snowfall.  Only a couple of the trees have a few dead leaves hanging on; the rest are completely bare, including the miniature fringe tree in the center of the yard.  At the north edge of the backyard, the ragged yard abruptly turns into forest, with massive, tall trees looming overhead.  At the west edge, an old, dilapidated wire fence twists along the property line.
+
+The sun is setting behind the trees, the oranges and yellows of the sky around the weak sunlight fading into a deep indigo at the top of the sky.  The trees are silhouetted against the light, looking a bit like skeletal hands reaching into the air."
+
+The outdoor view of Seating Area is "You can see some of the backyard and some of the sideyard from here."
+
+The outdoor view of the Dining Room is "You have a good view of the side yard from here.  There is a dilapidated old fence around what used to be the dog yard, back when Bo-bo was still alive.  Now it's just a sagging fence around a doghouse that exemplifies what a doghouse would look like if a doghouse could be creepy and haunted.
+
+Up the hill, through the bare trees, you can see the old plantation house next door, the house you grew up in.  The new owners have painted it a tasteful light-yellow color, and generally made *that* house look less creepy and haunted."
+
 Part 2 - Objects
 
 Chapter 1 - General Objects 
@@ -310,6 +344,9 @@ The decorative lights are scenery in the Overlook.  The description of them is "
 
 The ornaments are scenery in the Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
 
+The backyard is scenery in the Overlook.
+
+Instead of examining the backyard, try looking outside.
 
 Chapter 10 - The Living Room
 
