@@ -252,11 +252,11 @@ Instead of playing an audio tape (called tapey) in the presence of the stereo:
 Instead of playing an audio tape:
 	Say "You don't see anything to play it on." instead.
 
-An REM tape is an audio tape on the middle shelf with side A "[italic type]Murmur[roman type] by REM" and side B "[italic type]Treehouse[roman type] by the Grapes of Wrath.  Or it's [italic type]The Grapes of Wrath[roman type] by Treehouse.  You've never really been sure" and audio-playback "Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome."
+An REM tape is an audio tape on the middle shelf with side A "[italic type]Murmur[roman type] by REM" and side B "[italic type]Treehouse[roman type] by the Grapes of Wrath.  Or it's [italic type]The Grapes of Wrath[roman type] by Treehouse.  You've never really been sure" and audio-playback "[one of]Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome.[or]A jangly, chiming audio intro plays.[or]REM breaks into a surprisingly plaintive three-part harmony.[at random]"
 
-The Sam Cooke tape is an audio tape on the middle shelf with side A "[italic type]Sam Cooke Live at the Apollo[roman type]" and audio-playback "Sam Cooke belts out a song for an adoring live audience.".
+The Sam Cooke tape is an audio tape on the middle shelf with side A "[italic type]Sam Cooke Live at the Apollo[roman type]" and audio-playback "[one of]Sam Cooke belts out 'Cupid' for an adoring live audience.[or]The crowd at the Apollo goes absolutely wild.[or]The band hammers out a soulful breakdown.[at random]".
 
-The Pink Floyd tape is an audio tape on the middle shelf with side A "[italic type]The Wall[roman type] by Pink Floyd" and side B "the second side of that same album" and audio-playback "[italic type]The Wall[roman type] plays, reminding you that only bombastic, orchestrated rock'n'roll can explain the soul-killing isolation of stardom."
+The Pink Floyd tape is an audio tape on the middle shelf with side A "[italic type]The Wall[roman type] by Pink Floyd" and side B "the second side of that same album" and audio-playback "[one of][italic type]The Wall[roman type] plays, reminding you that only bombastic, orchestrated rock'n'roll can explain the soul-killing isolation of stardom.[or]Roger Waters sings plaintive, yelped vocals over an ominous guitar line.[at random]"
 
 After examining the stereo when something (called the current tape) is in the stereo:
 	say "[the audio-playback of the current tape][paragraph break]";
@@ -270,6 +270,9 @@ Check inserting something into the stereo when the stereo is not empty:
 Report inserting something (called the tape) into the stereo:
 	say "You pop [the tape] into the stereo and press play.[paragraph break][the audio-playback of the tape][paragraph break]" instead;
 
+After printing the locale description of Peter's Bedroom when something (called the tape) is inside the stereo:
+	say "The stereo is playing music.  [the audio-playback of a random audio tape in the stereo][paragraph break]"
+	
 The rolling table is a supporter in Peter's Bedroom. The description of the rolling table is "A small gray table with metal legs and wheels at the bottom.  Between the gummed-up bearings in the wheels and the caster-unfriendly carpeting, the table is pretty well rooted in place."
 
 The stereo is a container on the rolling table.  The description of the stereo is "This is a bookshelf-audio system that your dad bought you shortly after the divorce.  It's made of cheap black plastic, and it's some generic off brand ('Yorx'), and it's old enough to have a turntable at the top of it -- who uses those any more?  Fortunately, it has FM/AM radio and not one but two cassette bays, so it works fine for your purposes."
