@@ -234,7 +234,7 @@ The bottom shelf is scenery in Peter's Bedroom.  "The bottom shelf is blocked by
 
 The marathon poster is scenery in Peter's Bedroom.  "This is a tall, narrow poster from the Cleveland Marathon.  While you have no interest in marathons (or Cleveland), it's a pretty design, featuring a cat that's a dead ringer for Samson cat sitting proudly in front of an art-deco suspension bridge."
 
-The comic is scenery in Peter's Bedroom.  "This is the last Bloom County comic, clipped out of The Courier Journal and glued to a sheet of paper, and in turn hand-tacked to the side of the display shelf."
+The comic is scenery in Peter's Bedroom.  "This is the last [italic type]Bloom County[roman type] comic, clipped out of [italic type] The Courier Journal[roman type] and glued to a sheet of paper, and in turn hand-tacked to the side of the display shelf."
 
 The games are scenery on the top shelf.  "These are the only games you keep in your room any more.  You used to collect them like mad, but they took up lots of space and you hardly ever played them, so most of them are boxed up in storage in the basement.  You've held on to a dozen or so 'bookshelf games', well-designed games from the late seventies whose cardboard boxes are designed to look like luxurious, leather-bound books.  You see all the familiar titles: Acquire, Twixt, Quinto, Feudal, Foil, and so on."
 
@@ -252,11 +252,11 @@ Instead of playing an audio tape (called tapey) in the presence of the stereo:
 Instead of playing an audio tape:
 	Say "You don't see anything to play it on." instead.
 
-An REM tape is an audio tape on the middle shelf with side A "Murmur by REM" and side B "Treehouse by the Grapes of Wrath.  Or it's The Grapes of Wrath by Treehouse.  You've never really been sure" and audio-playback "Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome."
+An REM tape is an audio tape on the middle shelf with side A "[italic type]Murmur[roman type] by REM" and side B "[italic type]Treehouse[roman type] by the Grapes of Wrath.  Or it's [italic type]The Grapes of Wrath[roman type] by Treehouse.  You've never really been sure" and audio-playback "Michael Stipe yelps incomprehensible lyrics that are nonetheless awesome."
 
-The Sam Cooke tape is an audio tape on the middle shelf with side A "Sam Cooke Live at the Apollo" and audio-playback "Sam Cooke belts out a song for an adoring live audience.".
+The Sam Cooke tape is an audio tape on the middle shelf with side A "[italic type]Sam Cooke Live at the Apollo[roman type]" and audio-playback "Sam Cooke belts out a song for an adoring live audience.".
 
-The Pink Floyd tape is an audio tape on the middle shelf with side A "The Wall by Pink Floyd" and side B "the second side of that same album" and audio-playback "The Wall plays, reminding you that only bombastic, orchestrated rock'n'roll can explain the soul-killing isolation of stardom."
+The Pink Floyd tape is an audio tape on the middle shelf with side A "[italic type]The Wall[roman type] by Pink Floyd" and side B "the second side of that same album" and audio-playback "[italic type]The Wall[roman type] plays, reminding you that only bombastic, orchestrated rock'n'roll can explain the soul-killing isolation of stardom."
 
 After examining the stereo when something (called the current tape) is in the stereo:
 	say "[the audio-playback of the current tape][paragraph break]";
@@ -280,7 +280,7 @@ The curtains are scenery in Peter's Bedroom. "The curtains are heavy, with a whi
 
 The bookshelf is a supporter in Peter's Bedroom.  The description of the bookshelf is "The long wooden bookshelf runs from the foot of your bed to the opposite wall.  On top of the bookshelf, you see trophies, a set of plastic letters, and a paperweight.  Below it are two rows of books."
 
-The rows of books are scenery in Peter's Bedroom. "The top row of books has a lot of math books -- most notably a giant, beaten up calculus textbook and a couple of 'recreational math' books by Martin Gardener -- between a couple of cat bookends.  The bottom row of books has a section of comic trade paperbacks (including a set of worn-out Bloom County trade paperbacks), and a whole bevvy of language-instruction books, including a 'teach yourself Pitman shorthand' manual and a set of tapes for learning Norwegian.  You are fluent in precisely zero foreign languages, but you find them fun to learn about.  Also on the bottom shelf is the single yearbook you've gotten from South Oldham."
+The rows of books are scenery in Peter's Bedroom. "The top row of books has a lot of math books -- most notably a giant, beaten up calculus textbook and a couple of 'recreational math' books by Martin Gardener -- between a couple of cat bookends.  The bottom row of books has a section of comic trade paperbacks (including a set of worn-out [italic type]Bloom County[roman type] trade paperbacks), and a whole bevvy of language-instruction books, including a 'teach yourself Pitman shorthand' manual and a set of tapes for learning Norwegian.  You are fluent in precisely zero foreign languages, but you find them fun to learn about.  Also on the bottom shelf is the single yearbook you've gotten from South Oldham."
 
 The cat-style bookends are scenery in Peter's Bedroom. "You have no idea where the cat bookends came from, especially since they look like the sort of precious porcelain curios that should belong to a 60-year-old female librarian.  Each one depicts an idealized white cat batting at a wall, its 'wall' and 'floor' forming a right angle that presumably holds the row of books at bay."  Understand "cat bookends" as the cat-style bookends.
 
@@ -462,11 +462,13 @@ Understand "bric-a-brac" and "mounds of bric-a-brac" as the storage bins.
 
 The display case is a fixed in place supporter in the Spare Bedroom.  The description of the display case is "A tall display case that contains a few bits objet's d'art and a Pascal book."
 
-The Pascal book is scenery in the spare bedroom.  "It's Oh, Pascal!, the first programming book that you've ever bought.  You've been using it to learn Pascal, a new programming language that seems really different from BASIC."
+The Pascal book is scenery in the spare bedroom.  "It's [italic type]Oh, Pascal![roman type], the first programming book that you've ever bought.  You've been using it to learn Pascal, a new programming language that seems really different from BASIC." Understand "Oh Pascal" as the Pascal book.
 
 Understand "random smattering of books" and "smattering of books" as some books.
 
-The text-adventure game is on the display case.  "This is a copy of Enchanter, one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "  
+The text-adventure game is on the display case.  The description of the text-adventure game is "This is a copy of [italic type]Enchanter[roman type], one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
+
+Understand "Enchanter" as the text-adventure game.
 
 Chapter 6 - The Bathroom
 
@@ -510,7 +512,7 @@ Instead of opening the overstuffed closets, say "You pry open a closet door and 
 
 Chapter 9 - The Overlook
 
-The built-in bookshelves are scenery in the Overlook.  They are fixed in place.  The description of the built-in bookshelves is "There are shelves and shelves and shelves of your mother's books.  There are fair number of mystery novels (Lilian Jackson Braun's 'The Cat Who...' books put in several appearances, a few airport-trashy thrillers (you see Flowers in the Attic by V. C. Andrews), and some Italian travel books.  Miniature placards of impressionist works of art sit in front of the books on some shelves."
+The built-in bookshelves are scenery in the Overlook.  They are fixed in place.  The description of the built-in bookshelves is "There are shelves and shelves and shelves of your mother's books.  There are fair number of mystery novels (Lilian Jackson Braun's [italic type]The Cat Who...[roman type] books put in several appearances, a few airport-trashy thrillers (you see [italic type]Flowers in the Attic[roman type] by V. C. Andrews), and some Italian travel books.  Miniature placards of impressionist works of art sit in front of the books on some shelves."
 
 The Christmas tree is scenery in the Overlook.  The description of the Christmas tree is "You switched to an artificial tree a few years ago, so this is the same sizeable tree you've had for several years.  It has lots of lights and ornaments on it."
 
@@ -577,11 +579,11 @@ The Tick Volume One is a VHS tape in the entertainment center.  The label of it 
 The playback of it is "[one of]You've caught a commercial on the tape -- this one is a band dressed as space aliens singing a song called 'And Then There Was Me'.  It's some sort of PSA about cultural acceptance.[or]The Tick fights a giant killer clown.[or]The Tick is on the moon, trying to get rid of moon graffiti.[or]Arthur is taking care of the Tick's taxes, which are something of a nightmare.[at random]"
 
 Mom's Tape One is a VHS tape in the entertainment center.  The label of it is "Mom's Tape One".
-The playback of it is "[one of]Somehow, there's still a snippet of an old Murder, She Wrote on this tape.[or]It's a syndicated rerun of The Cosby Show on WDRB.[or]Several pictures of tasteful furniture appear.  A manly, fast-talking announcer describes each of them.  Little stars with the words 'affordable!' and 'sale now!' cheaply animate on and off the screen.  Then, the owl logo for the store appears, with the painfully-earwormy jingle: 'We're the affordable furniture store!  Schmidt Furnitu-ure.'[or]A local newscast plays -- some human interest story about a new zebra at the Louisville Zoo.[or]A local newscast plays -- something about a college student getting shot non-fatally in downtown Louisville.[at random]"
+The playback of it is "[one of]Somehow, there's still a snippet of an old Murder, She Wrote on this tape.[or]It's a syndicated rerun of [italic type]The Cosby Show[roman type] on WDRB.[or]Several pictures of tasteful furniture appear.  A manly, fast-talking announcer describes each of them.  Little stars with the words 'affordable!' and 'sale now!' cheaply animate on and off the screen.  Then, the owl logo for the store appears, with the painfully-earwormy jingle: 'We're the affordable furniture store!  Schmidt Furnitu-ure.'[or]A local newscast plays -- some human interest story about a new zebra at the Louisville Zoo.[or]A local newscast plays -- something about a college student getting shot non-fatally in downtown Louisville.[at random]"
 
 test vhs with "get bin / nw / n / n / e / put bin in VCR / get The Tick Volume One / put it in the VCR / Get Mom's Tape One / put it in the VCR / x big TV"
 
-TV Week is a thing on the comfy chair.  The description of it is "This is the section of the Sunday paper that includes the week's TV schedule.  It used to be displayed in a neat three-column grid, but with the current preponderance of new 'cable' channels, it has a whole 20 rows, making it a bit of a visual mess.  Mom has marked each of 'her' shows -- mostly light dramas, and also the nightly Jeopardy! and Wheel of Fortune -- with a yellow highlighter.  The section is padded out with a few articles on the TV business, a review of a television show (of all things), and 'the incredible Inman' column, where Dave Inman answers questions like 'Who played the villain in that episode of The Fall Guy that guest-starred Pat Morita?'"
+TV Week is a thing on the comfy chair.  The description of it is "This is the section of the Sunday paper that includes the week's TV schedule.  It used to be displayed in a neat three-column grid, but with the current preponderance of new 'cable' channels, it has a whole 20 rows, making it a bit of a visual mess.  Mom has marked each of 'her' shows -- mostly light dramas, and also the nightly [italic type]Jeopardy![roman type] and [italic type]Wheel of Fortune[roman type] -- with a yellow highlighter.  The section is padded out with a few articles on the TV business, a review of a television show (of all things), and 'the incredible Inman' column, where Dave Inman answers questions like 'Who played the villain in that episode of [italic type]The Fall Guy[roman type] that guest-starred Pat Morita?'"
 
 The set of seat cabinets is a closed, openable, fixed in place container in the Living Room.  The description of it is "The 'bench' alongside the bay windows are actually a set of cabinets with a hinged top."
 
