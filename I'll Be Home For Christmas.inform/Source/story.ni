@@ -543,7 +543,7 @@ The entertainment center is a container in the Living Room.  It is fixed in plac
 The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."
 
 After examining the TV when something (called the current tape) is in the VCR:
-	say "[pick one of the playback of the current tape]";
+	say "[the playback of the current tape][paragraph break]";
 
 The VCR is a container in the entertainment center.  It is fixed in place.  The description of it is "A plain gray VHS VCR."
 
@@ -554,7 +554,7 @@ Check inserting something into the VCR when the VCR is not empty:
 	say "The VCR already has a tape in it." instead;
 	
 Report inserting something (called the tape) into the VCR:
-	say "You load [the tape] into the VCR and press play.[paragraph break][pick one of the playback of the tape]" instead;
+	say "You load [the tape] into the VCR and press play.[paragraph break][the playback of the tape][paragraph break]" instead;
 
 Instead of playing an VHS tape (called tapey) in the presence of the VCR:
 	Try inserting tapey into the VCR instead.
@@ -568,28 +568,16 @@ The captioning machine is a captioner in the entertainment center.
 
 The VHS tapes are in the entertainment center.  They are fixed in place.  The description of them is "A stack of VHS tapes.  Some of them are yours -- one is labeled 'Peter's MTV Compilation' and another is 'The Tick Volume One', but most of them are Mom's -- one is labeled 'Mom's Tape One'."
 
-A VHS tape is a kind of thing.  It has some text called a label.  The label of a VHS tape is usually "tape".  It has a list of texts called playback.  The playback of a VHS tape is usually {"[Printed Name] plays."}.  The description of a VHS tape is "This VHS tape is labeled '[label]'."
+A VHS tape is a kind of thing.  It has some text called a label.  The label of a VHS tape is usually "tape".  It has a text called playback.  The playback of a VHS tape is usually "[Printed Name] plays." The description of a VHS tape is "This VHS tape is labeled '[label]'."
 
 Peter's MTV Compilation is a VHS tape in the entertainment center.  The label of it is "Peter's MTV Compilation".
-The playback of it is
-{"Boyz II Men sing 'It's So Hard to Say Goodbye to Yesterday' at the camera, like they really totally mean it.",
-"After a split-second of the logo for '120 Minutes', it switches to They Might Be Giants singing 'Ana Ng'.",
-"You've landed in the middle of the so-serious-it's-black-and-white video for Extreme's 'More Than Words'."}.
+The playback of it is "[one of] Boyz II Men sing 'It's So Hard to Say Goodbye to Yesterday' at the camera, like they really totally mean it.[or]After a split-second of the logo for '120 Minutes', it switches to They Might Be Giants singing 'Ana Ng'.[or]You've landed in the middle of the so-serious-it's-black-and-white video for Extreme's 'More Than Words'.[at random]"
 
 The Tick Volume One is a VHS tape in the entertainment center.  The label of it is "The Tick Volume One".
-The playback of it is
-{"You've caught a commercial on the tape -- this one is a band dressed as space aliens singing a song called 'And Then There Was Me'.  It's some sort of PSA about cultural acceptance.",
-"The Tick fights a giant killer clown.",
-"The Tick is on the moon, trying to get rid of moon graffiti.",
-"Arthur is taking care of the Tick's taxes, which are something of a nightmare."}.
+The playback of it is "[one of]You've caught a commercial on the tape -- this one is a band dressed as space aliens singing a song called 'And Then There Was Me'.  It's some sort of PSA about cultural acceptance.[or]The Tick fights a giant killer clown.[or]The Tick is on the moon, trying to get rid of moon graffiti.[or]Arthur is taking care of the Tick's taxes, which are something of a nightmare.[at random]"
 
 Mom's Tape One is a VHS tape in the entertainment center.  The label of it is "Mom's Tape One".
-The playback of it is
-{"Somehow, there's still a snippet of an old Murder, She Wrote on this tape.",
-"It's a syndicated rerun of The Cosby Show on WDRB.",
-"Several pictures of tasteful furniture appear.  A manly, fast-talking announcer describes each of them.  Little stars with the words 'affordable!' and 'sale now!' cheaply animate on and off the screen.  Then, the owl logo for the store appears, with the painfully-earwormy jingle: 'We're the affordable furniture store!  Schmidt Furnitu-ure.'",
-"A local newscast plays -- some human interest story about a new zebra at the Louisville Zoo.",
-"A local newscast plays -- something about a college student getting shot non-fatally in downtown Louisville."}
+The playback of it is "[one of]Somehow, there's still a snippet of an old Murder, She Wrote on this tape.[or]It's a syndicated rerun of The Cosby Show on WDRB.[or]Several pictures of tasteful furniture appear.  A manly, fast-talking announcer describes each of them.  Little stars with the words 'affordable!' and 'sale now!' cheaply animate on and off the screen.  Then, the owl logo for the store appears, with the painfully-earwormy jingle: 'We're the affordable furniture store!  Schmidt Furnitu-ure.'[or]A local newscast plays -- some human interest story about a new zebra at the Louisville Zoo.[or]A local newscast plays -- something about a college student getting shot non-fatally in downtown Louisville.[at random]"
 
 test vhs with "get bin / nw / n / n / e / put bin in VCR / get The Tick Volume One / put it in the VCR / Get Mom's Tape One / put it in the VCR / x big TV"
 
@@ -678,16 +666,11 @@ Instead of opening the cabinet, say "To your surprise, the cabinet is empty.  Yo
 
 The dining-room end table is a fixed in place supporter in the Dining Room.  The description of it is "A simple end table supports the TV set."
 
-The dining-room television is a fixed in place, switched on device on the dining-room end table.  The description of the dining-room television is "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."  The dining-room television has a list of texts called playback.
+The dining-room television is a fixed in place, switched on device on the dining-room end table.  The description of the dining-room television is "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."  The dining-room television has a text called playback.
 
-The playback of the dining-room television is
-{"A contestant on Wheel of Fortune guesses that '_OOL _ARTY' is 'COOL PARTY'.  You think you can see Pat Sajak die inside just a little.",
-"A local used car lot is advertising 'TIS THE SEASON FOR NO MONEY DOWN 'SANTA DEALS'",
-"A Jeopardy! contestant bets $1,000 in the 'Potent Potables' Double Jeopardy question.",
-"A Jeopardy! contestant is patiently running the 'U. S. Presidents' category.",
-"A celebrity from the 70s is advertising life-insurance policies to the older viewers."}.
+The playback of the dining-room television is "[one of]A contestant on Wheel of Fortune guesses that '_OOL _ARTY' is 'COOL PARTY'.  You think you can see Pat Sajak die inside just a little.[or]A local used car lot is advertising 'TIS THE SEASON FOR NO MONEY DOWN 'SANTA DEALS'[or]A Jeopardy! contestant bets $1,000 in the 'Potent Potables' Double Jeopardy question.[or]A Jeopardy! contestant is patiently running the 'U. S. Presidents' category.[or]A celebrity from the 70s is advertising life-insurance policies to the older viewers.[at random]"
 
-After examining the dining-room television, say "[pick one of the playback of the dining-room television]";
+After examining the dining-room television, say "[the playback of the dining-room television][paragraph break]";
 
 Instead of switching off the dining-room television, say "That would be rude.  Your mother is watching it right now."
 
@@ -938,10 +921,7 @@ title	subtable	description	toggle
 
 Chapter 2 - New Verbs
 
-To say pick one of (Textlist - a list of texts):
-	let n be a random number between 1 and the number of entries in Textlist;
-	say entry n in Textlist;
-	say "[paragraph break]";
+[Intentionally left blank.]
 	
 Chapter 3 - New Adjectives
 
