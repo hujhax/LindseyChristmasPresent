@@ -542,7 +542,7 @@ The wooden statue is on the display cabinet.  The description of it is "The shap
 
 The entertainment center is a container in the Living Room.  It is fixed in place.  The description of it is "A sizeable entertainment center, made of brown wood, sits as the focal point of the room."
 
-The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."
+The big TV is in the entertainment center.  It is fixed in place.  The description of it is "This is a 33' television, so obviously it's a massive, heavy cube, maybe four feet along each dimension.  There's no obvious way to turn it on or off."  Understand "television" as the big TV.
 
 After examining the TV when something (called the current tape) is in the VCR:
 	say "[the playback of the current tape][paragraph break]";
@@ -668,7 +668,7 @@ Instead of opening the cabinet, say "To your surprise, the cabinet is empty.  Yo
 
 The dining-room end table is a fixed in place supporter in the Dining Room.  The description of it is "A simple end table supports the TV set."
 
-The dining-room television is a fixed in place, switched on device on the dining-room end table.  The description of the dining-room television is "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment.  You see no obvious buttons for operating the television."  The dining-room television has a text called playback.
+The dining-room television is a fixed in place, switched on device on the dining-room end table.  The description of the dining-room television is "This television is not as big as the TV in the living room, but it's still some 21', so that's obviously a pretty hefty piece of AV equipment."  The dining-room television has a text called playback.  Understand "TV" as the television.
 
 The playback of the dining-room television is "[one of]A contestant on Wheel of Fortune guesses that '_OOL _ARTY' is 'COOL PARTY'.  You think you can see Pat Sajak die inside just a little.[or]A local used car lot is advertising 'TIS THE SEASON FOR NO MONEY DOWN 'SANTA DEALS'[or]A Jeopardy! contestant bets $1,000 in the 'Potent Potables' Double Jeopardy question.[or]A Jeopardy! contestant is patiently running the 'U. S. Presidents' category.[or]A celebrity from the 70s is advertising life-insurance policies to the older viewers.[at random]"
 
