@@ -740,6 +740,7 @@ Topic	Reply
 "[yard sale]"	"[one of]'Guess how much I got this hat for!' she says.  After a suitable pause, she answers her own question: 'Twenty-five cents!'[or]'There are some good sales coming up this weekend,' she says pensively, flipping through some newspaper classifieds.[at random]"
 "Wheel of Fortune"	"'The contestants on this show are so stupid!' she complains."
 "Jeopardy"	"Yesterday the Final Jeopardy category was 'Potent Parasites'.  I would've bet it all!"
+"Katherine"	"'The weather said it was five degrees in Boston today.  I just don't see how she survives up there!'"
 
 Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
 
@@ -839,7 +840,7 @@ Section 2 - Samson
 
 Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "[one of]Samson is here, glowering at you.[or]Samson is here, sleeping uneasily.[at random]".  Samson cat is in Mom's Bedroom.
 
-The description of Samson cat is "Samson looks like the cat equivalent of a middleweight boxer gone to seed: a big cat, still pretty muscular, but also fat and comfortable.  He has short, sleek black fur, and his green eyes always look perturbed."
+The description of Samson cat is "Samson looks like the cat equivalent of a middleweight boxer gone to seed: a big cat, still pretty muscular, but also fat and comfortable.  He has short, sleek, black fur, and his green eyes always look perturbed."
 
 Instead of hugging Samson cat, say "You try hugging him.  He goes rigid, and then he starts faintly growling.  You put him down."
 
@@ -859,7 +860,7 @@ Section 4 - Franco
 
 Franco cat is a cat with the name "Franco", the entering text "Franco cat wanders into the room looking for the life of him like he can't recall ever having seen this room before.", the exiting text "Franco absently wanders off to another room.", and the occupying text "[one of]Franco cat is here.  He stares at you blankly.[or]Franco cat is here, sleeping on the highest surface in the room.[at random]".  Franco cat is in Peter's Closet.
 
-The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the sort of unperturbed nature that means he's either found some source of feline inner peace, or he's profoundly stupid.  In your previous house, Franco sometimes fell asleep on furniture beams and then rolled over in his sleep -- so you're guessing the latter.  In any case, he floats through life like a contented gray cloud."
+The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the sort of unperturbed nature that means he's either found some source of feline inner peace, or he's profoundly stupid.  You're guessing it's the latter, given that in your previous house, Franco sometimes fell asleep on furniture beams and then rolled over in his sleep.  In any case, he floats through life like a contented gray cloud."
 
 Instead of hugging Franco cat, say "Franco receives the hug like a gray, fluffy ragdoll, but doesn't seem to mind."
 
