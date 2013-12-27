@@ -102,25 +102,27 @@ instead of looking outside:
 	say the outdoor view of a random room containing the player;
 	say "[paragraph break]"
 	
-The outdoor view of Peter's Bedroom is "You can see a bit of the driveway through the east windows; through the south windows, if you look to the right, you can see the sun setting through the trees."
+The outdoor view of Peter's Bedroom is "Through the east windows, you see the gravel driveway spill out towards Wooldridge Avenue.   Through the south windows, if you look to the right, you can see the sun setting through the trees, black silhouettes against an orange/blue gradient."
 
-The outdoor view of the Spare Bedroom is "You can shoulder through some of the junk and barely tug the curtains apart, affording you a glimpse of the front driveway."
+The outdoor view of the Spare Bedroom is "You can shoulder through some of the junk and barely tug the curtains apart, affording you a momentary glimpse of the front driveway."
 
-The outdoor view of the Foyer is "A narrow window by the door lets you see a strip of the front driveway."
+The outdoor view of the Foyer is "A narrow window by the door lets you see a strip of the front stoop -- plain and concrete -- and beyond it, a strip of the gravel driveway.  You catch a quick glimpse of a black-and-white feral cat scampering past."
 
-The outdoor view of Mom's Bedroom is "You can see some of the backyard from here, and through the trees, a little bit of Wooldridge Avenue, empty of cars for the moment."
+The outdoor view of Mom's Bedroom is "You can see some of the backyard from here, and through the trees, a little bit of Wooldridge Avenue, empty of cars for the moment.  It also affords a nice view of the sunset."
 
 The outdoor view of Mom's Bathroom is "The window unit is like a tiny peephole through which you can see a tiny piece of the backyard.  You think you can see the fringe tree."
 
-The outdoor view of Overlook is "The backyard is all dead leaves and dead grass now, with a few white spots left over from last night's short snowfall.  Only a couple of the trees have a few dead leaves hanging on; the rest are completely bare, including the miniature fringe tree in the center of the yard.  At the north edge of the backyard, the ragged yard abruptly turns into forest, with massive, tall trees looming overhead.  At the west edge, an old, dilapidated wire fence twists along the property line.
+The outdoor view of Overlook is "The backyard is all dead leaves and dead grass now, with a few white spots left over from last night's short snowfall.  Only a couple of the trees have a few dead leaves hanging on; the rest are completely bare, including the miniature fringe tree in the center of the yard.  At the north edge of the backyard, the ragged yard abruptly hits the edge of the forest, where tall, massive trees loom overhead.  At the west edge, an old, dilapidated wire fence twists along the property line.
 
 The sun is setting behind the trees, the oranges and yellows of the sky around the weak sunlight fading into a deep indigo at the top of the sky.  The trees are silhouetted against the light, looking a bit like skeletal hands reaching into the air."
 
-The outdoor view of Seating Area is "You can see some of the backyard and some of the sideyard from here."
+The outdoor view of Seating Area is "You can see some of the backyard and some of the sideyard from here.  A little path winds along the north edge of the house, leading west to the backyard."
 
 The outdoor view of the Dining Room is "You have a good view of the side yard from here.  There is a dilapidated old fence around what used to be the dog yard, back when Bo-bo was still alive.  Now it's just a sagging fence around a doghouse that exemplifies what a doghouse would look like if a doghouse could be creepy and haunted.
 
-Up the hill, through the bare trees, you can see the old plantation house next door, the house you grew up in.  The new owners have painted it a tasteful light-yellow color, and generally made *that* house look less creepy and haunted."
+Up the hill, through the bare trees, you can see the old plantation house next door."
+
+The plantation house is scenery in the Dining Room.  "This is the massive old plantation house you grew up in.  The new owners have painted it a tasteful light-yellow color, and generally made it look tidier and less haunted."
 
 Part 2 - Objects
 
