@@ -381,7 +381,7 @@ Carry out toggling:
 	otherwise;
 	say "For some reason, you can't dislodge the [ordinal of position] peg.  It stays [peg description of peg state].";
 	end if;
-	say "[paragraph break][the puzzle state of the puzzle toy]";
+	say "[line break][the puzzle state of the puzzle toy]";
 
 After toggling 6 when the puzzle toy is unsolved and entry six of the status of the puzzle toy is one:
 	now the puzzle toy is solved;
