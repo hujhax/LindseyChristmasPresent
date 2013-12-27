@@ -939,3 +939,5 @@ Before listing nondescript items:
 		now the hidden thing is not marked for listing;
 	repeat with hidden thing running through containers which are fixed in place:
 		now the hidden thing is not marked for listing;
+		
+Instead of swearing obscenely or swearing mildly, say "You swear to yourself, [']cos you've got emotions, man.  Also, Mom is deaf, so there are really no repurcussions."
