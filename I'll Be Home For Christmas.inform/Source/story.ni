@@ -217,6 +217,17 @@ A compass is in the center drawer.  The description of a compass is "This is a c
 
 Some magnifying lenses are in the center drawer.  The description of some magnifying lenses is "This is a set of three magnifiying lenses of different magnifications.  Each lens is about half an inch in diameter, and is surrounded by a black plastic ring with a notch in it.  You use the notch to pull its lens out of a snug black plastic case, kind of like a Swiss Army Knife.  It's possible to arrange the lenses so it looks like a little bird, with one lens for the head and the other two for wings."
 
+Instead of searching the magnifying lenses, say "Through the lenses, you see distorted, blurred out versions of the room around you."
+
+Understand "look at [something] through [something]" as peering at it through. peering at it through is an action applying to two visible things.
+
+Check peering at something (called the at-object) through something (called the through-object) that is not the magnifying lenses:
+    say "You can't look at [the at-object] through [the through-object]." instead.
+
+Carry out peering at something (called the at-object) through something:
+	say "You get a nice, close look at [the at-object].  Such detail!"
+
+
 A calculator is in the center drawer.  The description of a calculator is "This is a Radio Shack calculator, one of the new solar-powered ones, which comes in a neat black plastic case that you can clip shut."
 
 A camera is in the bottom left drawer.  The description of a camera is "This is a fairly nice Nikon 35mm camera -- a gift from your dad not long after the divorce.  You and he still go out to take photographs sometimes."
