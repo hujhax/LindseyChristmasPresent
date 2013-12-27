@@ -764,11 +764,16 @@ Instead of interrogating Mom about an item listed in the Table of Mom's Items:
 Table of Mom's Items
 item	reply
 Franco	"'He's not the brightest bulb on the tree,' she says thoughtfully."
-yourself	"'You're a good kid,' she says, affecting the tone of some kind of professional appraiser."
+yourself	"[one of]'You're a good kid,' she says, affecting the tone of some kind of professional appraiser.[or]She smiles broadly.  'You're my favorite,' she says.  Then after a pause: 'Just like Thomas is my favorite, and Betsy, and Katherine, and Hartwell.'  She turns away for a moment, and then adds, '... and Franco.  Franco is also my favorite.'[at random]"
 elf hat 	"[one of]She grins and tells you, proudly, that this is her Christmas hat.[or]'I am an elf,' she replies.[at random]"
 Samson	"'He just doesn't seem to get along with the other cats, does he?'"
 Eastwood	"'She sort of adopted all the other cats when they arrived.  She probably thinks she's taking care of us,' she adds with a smile."
 Mom	"'I'm getting along,' she says."
+timer	"She peers past you towards the kitchen.  'What?' she asks, 'is it going off?'"
+milk	"'That milk is just fine,' she insists."
+computer	"'I'm going to have to type a letter on that today.  I'll need you to help me out.'"
+Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtluhck.'  She affects pronouncing 'Matlock' the way her more hearing-impaired friends in SHHH mangle the name."
+
 
 test mom with "nw / n / n / ne / n / ask mom about me / ask mom about franco"
 
