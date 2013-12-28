@@ -893,8 +893,27 @@ Instead of petting Franco cat:
 	score the achievement with message "petting Franco cat";
 
 
+Book 2 - Scenes
 
-Book 2 - Utilities
+Endgame is a scene.
+
+[accounting for a weird starting-condition bug]
+Endgame begins when the score is the achievement maximum score and the score is not zero.
+
+When endgame begins:
+	if the location is Mom's Bedroom or the location is Mom's Bathroom:
+		say "Mom pokes her head in.  'I think I'm going to go to bed now,' she says, a bit thrown that you're in her part of the house.  You sheepishly head out to the hallway, and close the door behind you.";
+		now the location is the Hallway;
+	otherwise if Mom is visible:
+		say "Mom gets up, puts away her things, and tells you she's going to bed.  She heads off to her bedroom.";
+	otherwise:
+		say "Mom pokes her head in and tells you she's going to bed.  She heads off to her bedroom.";
+			
+After printing the locale description during the endgame:
+	say "[if the location is Peter's Bedroom][otherwise if the location is Overlook] All the lights are out except for the Christmas tree, which is still lit.[otherwise]Mom has turned out the lights.  It's almost too dark to see.  It's probably time to go to bed.";
+
+
+Book 3 - Utilities
 
 Chapter 1 - Help
 
