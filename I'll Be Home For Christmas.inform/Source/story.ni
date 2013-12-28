@@ -1122,3 +1122,10 @@ Understand "cue endgame" as endgaming.
 
 Carry out endgaming:
 	now the score is the achievement maximum score.
+	
+Understand "[any room]" as going by name. Understand "goto [any room]", "go to [any room]" as going by name.
+
+Going by name is an action applying to one thing.
+
+Carry out going by name: 
+	move the player to the noun;
