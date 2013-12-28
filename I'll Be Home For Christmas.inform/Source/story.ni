@@ -859,8 +859,11 @@ Table of Mom's Replies
 Topic	Reply
 "[yard sale]"	"[one of]'Guess how much I got this hat for!' she says.  After a suitable pause, she answers her own question: 'Twenty-five cents!'[or]'There are some good sales coming up this weekend,' she says pensively, flipping through some newspaper classifieds.[at random]"
 "Wheel of Fortune"	"'The contestants on this show are so stupid!' she complains."
-"Jeopardy"	"Yesterday the Final Jeopardy category was 'Potent Parasites'.  I would've bet it all!"
+"Jeopardy"	"'Yesterday the Final Jeopardy category was 'Potent Parasites', she says. 'I would've bet it all!'"
 "Katherine"	"'The weather said it was five degrees in Boston today.  I just don't see how she survives up there!'"
+"Hartwell"	"'He called yesterday.  Still complaining about San Francisco.'"
+"Thomas"	"'I need Thomas to look at the car this Sunday.  One of the lights on the dashboard started flashing.'"
+"Betsy"	"'I don't think Saudi Arabia is really agreeing with her, but, it's the army, so you go where they put ya.'"
 
 Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
 
