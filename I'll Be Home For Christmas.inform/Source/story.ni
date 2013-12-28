@@ -73,7 +73,6 @@ West of Hallway is Bathroom.
 Northwest of Mom's Bedroom is Mom's Bathroom.  Southeast of Mom's Bathroom is nowhere.
 South of Mom's Bathroom is Mom's Bedroom.  North of Mom's Bedroom is nowhere.
 North of Foyer is Overlook.
-East of Foyer is Front Stoop.
 West of Foyer is Front Closets.
 North of Front Closets is Overlook.
 North of Overlook is Seating Area.
@@ -547,6 +546,27 @@ Instead of opening the foyer dresser, say "You take a quick peek inside, and see
 After examining the walls in the Foyer, say "You see the thermostat sticking out of the south wall."
 
 The thermostat is scenery in the Foyer. "A little brown-metal box juts from the wall, with a small dial poking out of the bottom for setting the temperature.  As usual, mom keeps the thermostat set around 71 for the winter."
+
+The front door is a closed door.  The front door is scenery.  The front door is east of the Foyer and west of the Front Stoop.
+
+Instead of opening the front door while the location is the Foyer:
+	if Eastwood is free and Franco is free:
+		say "As you try to open the door, both Eastwood and Franco dart into the room.  You shut the door before they can escape.";
+		move Eastwood to the Foyer;
+		move Franco to the Foyer;
+	otherwise if Eastwood is free:
+		say "As you try to open the door, Eastwood darts into the room.  You shut the door before she can escape.";
+		move Eastwood to the Foyer;
+	otherwise if Franco is free:
+		say "As you try to open the door, Franco darts into the room.  You shut the door before he can escape.";
+		move Eastwood to the Foyer;
+	otherwise:
+		say "You sneak out the door and close it behind you.";
+		move the player to the Front Stoop;
+	
+Instead of opening the front door while the location is the Front Stoop:
+	say "You sneak out the door and close it behind you.";
+	move the player to the Foyer;
 
 Chapter 8 - The Front Closets
 
