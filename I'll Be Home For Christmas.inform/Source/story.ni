@@ -329,6 +329,13 @@ Instead of inserting something into the bed, say "You'd rather not mess up the b
 
 Report entering the bed:
 	say "You're not that tired, but you get into the bed." instead.
+	
+Report entering the bed during the endgame:
+	say "It's been a long day, so you get into bed.  As usual, sleep doesn't come right away, and you stare up at the ceiling for a while.  You suddenly find yourself thinking of the plantation house next door, so spooky and roomy, where you lived years ago.  It seems so far away now.  You idly wonder where you will go once you leave this house.[paragraph break]Somewhere good, you hope.[paragraph break]Your eyes shut as you drift off into dreams.";
+	end the game in victory;
+	
+Check entering the bed when the decorative lights are plugged during the Endgame:
+	say "You'd like to go to bed, but you sense that there's one last thing you've overlooked." instead;
 
 The sheets are scenery in Peter's Bedroom.  "As usual, the sheets are heaped into a ball.  You just sleep more comfortably that way."
 
