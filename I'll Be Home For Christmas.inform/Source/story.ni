@@ -866,11 +866,11 @@ Instead of interrogating Mom about an item listed in the Table of Mom's Items:
 
 Table of Mom's Items
 item	reply
-Franco	"'He's not the brightest bulb on the tree,' she says thoughtfully."
+Franco	"[one of]'He's not the brightest bulb on the tree,' she says thoughtfully.[or]'Franco is really smart about food,' says Mom, 'but that's about it.'[at random]"
 yourself	"[one of]'You're a good kid,' she says, affecting the tone of some kind of professional appraiser.[or]She smiles broadly.  'You're my favorite,' she says.  Then after a pause: 'Just like Thomas is my favorite, and Betsy, and Katherine, and Hartwell.'  She turns away for a moment, and then adds, '... and Franco.  Franco is also my favorite.'[at random]"
 elf hat 	"[one of]She grins and tells you, proudly, that this is her Christmas hat.[or]'I am an elf,' she replies.[at random]"
 Samson	"'He just doesn't seem to get along with the other cats, does he?'"
-Eastwood	"'She sort of adopted all the other cats when they arrived.  She probably thinks she's taking care of us,' she adds with a smile."
+Eastwood	"[one of]'She sort of adopted all the other cats when they arrived.  She probably thinks she's taking care of us,' she adds with a smile.[or]'I swear she responds to her name,' she says, sounding almost puzzled.[or]'Eastwood is a good lap cat,' Mom says confidently.[at random]"
 Mom	"'I'm getting along,' she says."
 timer	"She peers past you towards the kitchen.  'What?' she asks, 'is it going off?'"
 milk	"'That milk is just fine,' she insists."
