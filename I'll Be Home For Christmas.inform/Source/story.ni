@@ -848,7 +848,7 @@ Chapter 2 - Cats
 
 Section 1 - General Cat Information
 
-A cat is a kind of animal with printed name "a cat" and description "This is a cat."  It has some text called entering text.  It has some text called exiting text.  It has some text called occupying text.  It has some text called name.  A cat can be either trapped or free.  It is usually free.
+A cat is a kind of animal with printed name "a cat" and description "This is a cat."  It has some text called entering text.  It has some text called exiting text.  It has some text called occupying text.  It has some text called name.  A cat can be either trapped or free.  It is usually free.  A cat can be either stunned or alert.  It is usually alert.
 
 The name of a cat is usually "Kitty".
 The entering text of a cat is usually "[name] cat enters."
@@ -860,7 +860,7 @@ The printed name of a cat is usually "[name] cat".
 
 Every turn:
 	repeat with kitty running through free cats:
-		if a random chance of 1 in 3 succeeds:
+		if kitty is alert and a random chance of 1 in 3 succeeds:
 			let current space be a random room containing kitty;
 			let next space be a random room which is adjacent to the current space; 
 			if kitty is visible:
@@ -1091,8 +1091,8 @@ Summoning is an action applying to nothing.
 Understand "summon" as summoning.
 
 Carry out summoning:
-	repeat with kitty running through the free cats:
-		now kitty is in the location;
+	now every free cat is in the location;
+	now every free cat is stunned;
 	
 Report summoning:
 	Say "You have summoned all the available cats."
