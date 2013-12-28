@@ -893,7 +893,7 @@ Instead of taking a cat (called kitty), try hugging kitty.
 
 Section 2 - Samson
 
-Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "[one of]Samson is here, glowering at you.[or]Samson is here, sleeping uneasily.[at random]".  Samson cat is in Mom's Bedroom.
+Samson cat is a cat with the name "Samson", the entering text "Samson cat stalks into the room.", the exiting text "Samson cat stalks out of the room.", and the occupying text "[one of]Samson cat is here, glowering at you.[or]Samson cat is here, sleeping uneasily.[at random]".  Samson cat is in Mom's Bedroom.
 
 The description of Samson cat is "Samson looks like the cat equivalent of a middleweight boxer gone to seed: a big cat, still pretty muscular, but also fat and comfortable.  He has short, sleek, black fur, and his green eyes always look perturbed."
 
