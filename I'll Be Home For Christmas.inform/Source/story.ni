@@ -931,7 +931,7 @@ Endgame begins when the score is the achievement maximum score and the score is 
 When endgame begins:
 	if the location is Mom's Bedroom or the location is Mom's Bathroom:
 		say "Mom pokes her head in.  'I think I'm going to go to bed now,' she says, a bit thrown that you're in her part of the house.  You sheepishly head out to the hallway, and close the door behind you.";
-		now the location is the Hallway;
+		move the player to the Hallway;
 	otherwise if Mom is visible:
 		say "Mom gets up, puts away her things, and tells you she's going to bed.  She heads off to her bedroom.";
 	otherwise:
