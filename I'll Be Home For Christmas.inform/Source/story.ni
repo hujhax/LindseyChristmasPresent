@@ -812,7 +812,7 @@ Chapter 2 - Cats
 
 Section 1 - General Cat Information
 
-A cat is a kind of animal with printed name "a cat" and description "This is a cat."  It has some text called entering text.  It has some text called exiting text.  It has some text called occupying text.  It has some text called name.
+A cat is a kind of animal with printed name "a cat" and description "This is a cat."  It has some text called entering text.  It has some text called exiting text.  It has some text called occupying text.  It has some text called name.  A cat can be either trapped or free.  It is usually free.
 
 The name of a cat is usually "Kitty".
 The entering text of a cat is usually "[name] cat enters."
