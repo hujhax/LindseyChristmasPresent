@@ -326,6 +326,8 @@ Instead of playing the guitar:
 	say "You do the best you can, haltingly strumming the three chords (G major, C major, D major) that you've learned so far.  Pretty soon it makes your fingertips hurt, so you tuck the pick in between the strings and end your little practice session.";
 	score the achievement with message "playing guitar";
 
+test instruments with "goto peter's bedroom / play guitar / play keyboard".
+
 The bed is a fixed in place container in Peter's Bedroom.  The bed is enterable.  The description of it is "This is a full-sized bed, with a mattress that's as old as... hmm.  You can't remember the mattress ever being bought.  The bedframe is pretty, with a decorative wooden pole sticking up at each corner of the bed, and a simple headboard at the head of it.  The sheets are plain, inoffensive monocolors."
 
 Instead of inserting something into the bed, say "You'd rather not mess up the bed."
@@ -1026,8 +1028,8 @@ At the time when Franco escapes:
 	remove the handful of food from play;
 	now Franco is free;
 
-test franco with "goto kitchen / summon / open oven / get cat food / give handful of food to franco"
-
+test franco with "goto kitchen / summon / open oven / get cat food / give handful of food to franco".
+test cat-petting with "summon / pet franco / pet eastwood / pet samson".
 
 Book 2 - Scenes
 
@@ -1046,9 +1048,10 @@ When endgame begins:
 		say "Mom pokes her head in and tells you she's going to bed.  She heads off to her bedroom.";
 			
 After printing the locale description during the endgame:
-	say "[if the location is Peter's Bedroom][otherwise if the location is Overlook] All the lights are out except for the Christmas tree, which is still lit.[otherwise]Mom has turned out the lights.  It's almost too dark to see.  It's probably time to go to bed.";
+	say "[if the location is Peter's Bedroom][otherwise if the location is Overlook] All the lights are out except for the Christmas tree, which is still lit.[otherwise if the location is the Front Stoop]The house looks very dark from here, like it's quiet and asleep.[otherwise]Mom has turned out the lights.  It's almost too dark to see.  It's probably time to go to bed.[end if]";
 	
-test endgame with "get in bed / get up / cue endgame / get in bed / nw / n / n / unplug tree / s / s / s  / get into bed"
+test endgame with "get in bed / get up / cue endgame / get in bed / nw / n / n / unplug tree / s / s / s  / get into bed".
+test endgame2 with "goto Overlook / unplug tree / goto Peter's Bedroom  / get into bed".
 
 
 Book 3 - Utilities
@@ -1129,6 +1132,7 @@ used  	points  	message
 0	5	"picking up the gift"
 
 
+test game with "test instruments / test puzzle / test cat-petting / test stoop / test endgame2"
 	
 Chapter 3 - New Adjectives
 
