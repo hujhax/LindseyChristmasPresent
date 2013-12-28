@@ -955,11 +955,14 @@ Check the player giving Eastwood to Mom:
 	say "Eastwood happily climbs into Mom's lap.  Mom pets her, and she purrs contentedly.";
 	now Eastwood is trapped;
 	Eastwood escapes in 30 turns from now;
+	score the achievement with message "finding a lap for Eastwood cat".
 	
 At the time when Eastwood escapes:
 	say "[if Eastwood is visible]Eastwood clambers out of Mom's lap.[end if]";
 	move Eastwood to the Dining Room;
 	now Eastwood is free;
+	
+test eastwood with "goto dining room / summon / get eastwood / give eastwood to mom"
 	
 Section 4 - Franco
 
@@ -1089,6 +1092,7 @@ used  	points  	message
 0  	10  	"petting Samson cat" 
 0	10	"playing guitar"
 0	10	"playing the keyboard"
+0	5	"finding a lap for Eastwood cat"
 
 	
 Chapter 3 - New Adjectives
