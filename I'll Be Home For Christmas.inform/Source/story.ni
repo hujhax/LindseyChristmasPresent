@@ -413,7 +413,7 @@ test puzzle with "toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 
 			
 Chapter 3 - Peter's Closet
 
-The tote bag is an open container in Peter's Closet.  The description of the tote bag is "This is a cream-colored canvas L. L. Bean tote bag with forest-green handles.  It's large enough to carry two to three severed heads.  When you have to put up with school, this is the bag you use to carry your school books around."
+The tote bag is an open container in Peter's Closet.  The description of the tote bag is "This is a cream-colored canvas L. L. Bean tote bag with forest-green handles.  Theoretically, it's large enough to carry two to three severed heads.  When you have to put up with school, this is the bag you use to carry your school books around."
 
 The physics textbook is in the tote bag.  The description of the physics textbook is "Your physics textbook is a shiny and new edition of your school's advanced physics text.  It's probably nowhere near as good or as interesting as the books they have at the magnet school in Louisville proper, but it'll do.  As always, you have wrapped the textbook in a jury-rigged cover, made from a sheet of glossy white paper the school provided for that purpose.  So it's a minimalist-looking book, with a plain white cover and just the words 'PHYSICS II * PETER ROGERS' at the top in small, precise lettering."
 
@@ -440,7 +440,7 @@ The home computer is a device on the spare-bedroom desk.  The description of the
 A software is a kind of thing.  A software has some text called an output.
 
 SimCity is a software with output "Your city percolates along."
-A word processor is a software with output "A very angsty diary entry is in progress." and printed name "a word processor".
+A word processor is a software with output "You have a very angsty diary entry in progress." and printed name "a word processor".
 Enchanter is a software with output "Your adventurer has frotzed himself, which seemed like a good idea at the time, but is causing no end of trouble."
 
 test computer with "nw / e / turn on computer" 
