@@ -336,7 +336,7 @@ Report entering the bed:
 	say "You're not that tired, but you get into the bed." instead.
 	
 Report entering the bed during the endgame:
-	say "It's been a long day, so you get into bed.  As usual, sleep doesn't come right away, and you stare up at the ceiling for a while.  You suddenly find yourself thinking of the plantation house next door, so spooky and roomy, where you lived years ago.  It seems so far away now.  You idly wonder where you will go once you leave this house.[paragraph break]Somewhere good, you hope.[paragraph break]Your eyes shut as you drift off into dreams.";
+	say "It's been a long day, so you get into bed.  As usual, sleep doesn't come right away, and you stare up at the ceiling for a while.  You suddenly find yourself thinking of the plantation house next door, so spooky and roomy, where you lived years ago.[paragraph break]It seems so far away now.[paragraph break]You idly wonder where you will go once you leave this house.[paragraph break]Somewhere good, you hope.[paragraph break]Your eyes slowly shut, as you drift off into dreams.";
 	end the game in victory;
 	
 Check entering the bed when the decorative lights are plugged during the Endgame:
@@ -875,7 +875,7 @@ Mom	"'I'm getting along,' she says."
 timer	"She peers past you towards the kitchen.  'What?' she asks, 'is it going off?'"
 milk	"'That milk is just fine,' she insists."
 computer	"'I'm going to have to type a letter on that today.  I'll need you to help me out.'"
-Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtluhck.'  She affects pronouncing 'Matlock' the way her more hearing-impaired friends in SHHH mangle the name."
+Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtluhck.'  She affects pronouncing 'Matlock' the way her more-hearing-impaired friends in SHHH mangle the name."
 
 
 test mom with "nw / n / n / ne / n / ask mom about me / ask mom about franco"
