@@ -712,7 +712,7 @@ The microwave is scenery in the Kitchen. "A bulky, black, mid-80s vintage microw
 
 The oven is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal electric range/oven, faintly redolent of cat food."
 
-The pet food is in the oven.  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."  Understand "cat food" as the pet food.
+The bag of pet food are in the oven.  The printed name of it is "bag of cat food".  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."  Understand "cat food" as the bag of pet food.
 
 The refrigerator is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal fridge, with a collection of greeting cards and photographs magnetted to it."  Understand "fridge" as the refrigerator.
 
@@ -1038,9 +1038,12 @@ Instead of petting Franco cat:
 	say "Franco stares absently into space as you pet him, but after a while purrs a bit.";
 	score the achievement with message "petting Franco cat";
 
-Instead of taking the pet food:
-	say "You take a handful of pet food.";
+Instead of taking the bag of pet food:
+	say "You take a handful of the cat food.";
 	move the handful of food to the player;
+	
+Instead of taking the bag of pet food while the handful of food is carried:
+	say "You're already holding some cat food.";
 	
 Instead of taking the pet food while Franco cat is trapped:
 	say "There is already a handful of cat food in [the location of Franco].  You don't need another just now.";
