@@ -559,11 +559,11 @@ Instead of opening the front door while the location is the Foyer:
 		score the achievement with message "going to the front stoop".
 	
 Instead of opening the front door while the location is the Front Stoop:
-	say "You sneak out the door and close it behind you.";
+	say "You sneak in the door and close it behind you.";
 	move the player to the Foyer;
 	
-test stoop with "goto Foyer / e / test eastwood / goto Foyer / e / test franco / goto Foyer / e".
-test stoop2 with "goto Foyer / e / test franco / goto Foyer / e / test eastwood / goto Foyer / e".
+test stoop with "goto Foyer / e / test eastwood / goto Foyer / e / test franco / goto Foyer / e / get gift ".
+test stoop2 with "goto Foyer / e / test franco / goto Foyer / e / test eastwood / goto Foyer / e / get gift".
 
 Chapter 8 - The Front Closets
 
@@ -1125,6 +1125,7 @@ used  	points  	message
 0	5	"finding a lap for Eastwood cat"
 0	5	"feeding Franco cat"
 0	20	"going to the front stoop"
+0	5	"picking up the gift"
 
 
 	
