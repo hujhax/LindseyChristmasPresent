@@ -677,8 +677,6 @@ The oven is a closed, openable, fixed in place container in the Kitchen.  The de
 
 The pet food is in the oven.  The description of it is "Several bags of dry cat food sit in the oven.  Apparently this is the easiest place to store them that the cats can't get to."  Understand "cat food" as the pet food.
 
-Instead of taking the pet food, say "There is no possible use for taking the cat food, so you just leave it be."
-
 The refrigerator is a closed, openable, fixed in place container in the Kitchen.  The description of it is "A normal fridge, with a collection of greeting cards and photographs magnetted to it."  Understand "fridge" as the refrigerator.
 
 The magnets are scenery in the Kitchen. "Most of the magnets are little bits of swag from pharmaceutical companies.  A little blue magnet/letter-opening proudly advertises 'Hyproxin: second to none', whatever that may be."
@@ -945,13 +943,34 @@ Section 4 - Franco
 
 Franco cat is a cat with the name "Franco", the entering text "Franco cat wanders into the room looking for the life of him like he can't recall ever having seen this room before.", the exiting text "Franco absently wanders off to another room.", and the occupying text "[one of]Franco cat is here.  He stares at you blankly.[or]Franco cat is here, sleeping on the highest surface in the room.[at random]".  Franco cat is in Peter's Closet.
 
-The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the sort of unperturbed nature that means he's either found some source of feline inner peace, or he's profoundly stupid.  You're guessing it's the latter, given that in your previous house, Franco sometimes fell asleep on furniture beams and then rolled over in his sleep.  In any case, he floats through life like a contented gray cloud."
+The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the sort of unperturbed nature that means he's either found some source of feline inner peace, or he's profoundly stupid.  You're guessing it's the latter, given that in your previous house, Franco sometimes fell asleep on furniture beams and then rolled over in his sleep.  In any case, he floats through life like a contented gray cloud.[if Franco is trapped]  Franco is very busy eating a pile of cat food.[end if]"
 
 Instead of hugging Franco cat, say "Franco receives the hug like a gray, fluffy ragdoll, but doesn't seem to mind."
 
 Instead of petting Franco cat:
 	say "Franco stares absently into space as you pet him, but after a while purrs a bit.";
 	score the achievement with message "petting Franco cat";
+
+Instead of taking the pet food:
+	say "You take a handful of pet food.";
+	move the handful of food to the player;
+	
+Instead of taking the pet food while Franco cat is trapped:
+	say "There is already a handful of cat food in [the location of Franco].  You don't need another just now.";
+
+A handful of food is a thing.  The description of it is "One handful of cat food."
+Instead of dropping the handful of food, say "You don't really want to drop cat food on the floor."
+Instead of taking the handful of food, say "You don't think you should interfere with Franco."
+Instead of giving the handful of food to Franco:
+	say "Franco is keenly interested in the cat food.  He hunkers down and starts eating.";
+	now Franco is trapped;
+	move the handful of food to franco;
+	Franco escapes in 30 turns from now;
+	
+At the time when Franco escapes:
+	say "[if Franco is visible]Franco finishes up his cat food and looks around for more.[end if]";
+	remove the handful of food from play;
+	now Franco is free;
 
 
 Book 2 - Scenes
