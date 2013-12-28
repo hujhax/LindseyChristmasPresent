@@ -906,7 +906,7 @@ Instead of petting Samson cat:
 
 Section 3 - Eastwood
 
-Eastwood cat is a cat with the name "Eastwood", the entering text "Eastwood cat pads into the room, sees you, and meows affably.", the exiting text "Eastwood cat suddenly catches sight of something in another room and, with surprising agility for her age, zips off to investigate.", and the occupying text "[one of]Eastwood cat suddenly notices you and twines around your legs.[or]Eastwood cat is here, keeping an eye on things.[at random]".  Eastwood cat is in the Dining Room.
+Eastwood cat is a female cat with the name "Eastwood", the entering text "Eastwood cat pads into the room, sees you, and meows affably.", the exiting text "Eastwood cat suddenly catches sight of something in another room and, with surprising agility for her age, zips off to investigate.", and the occupying text "[one of]Eastwood cat suddenly notices you and twines around your legs.[or]Eastwood cat is here, keeping an eye on things.[at random]".  Eastwood cat is in the Dining Room.
 
 The description of Eastwood cat is "Eastwood is a tortoiseshell shorthair, a black cat with orange striations through her fur, like veins of ore in a rock.  She's getting on in years, with wisps of white in a her coat and a slight raggedness to her face, but she still regards you with the same friendly, beige eyes."
 
