@@ -1020,7 +1020,7 @@ At the time when Eastwood escapes:
 Instead of answering Eastwood cat that something:
 	if the topic understood matches "Eastwood":
 		say "[one of]She meows back at you in response.[or]'Meow?' she asks in response.[at random]";
-		score the achievement with message "talking to Eastwood";
+		score the achievement with message "chatting with Eastwood";
 	otherwise:
 		say "She blinks back at you incomprehendingly.";
 	
@@ -1237,7 +1237,7 @@ used  	points  	message
 0  	40  	"solving the puzzle toy" 
 0  	10  	"petting Franco cat"  
 0  	10  	"petting Eastwood cat"  
-0	5	"talking to Eastwood"
+0	5	"chatting with Eastwood"
 0  	10  	"petting Samson cat" 
 0	10	"playing guitar"
 0	10	"playing the keyboard"
