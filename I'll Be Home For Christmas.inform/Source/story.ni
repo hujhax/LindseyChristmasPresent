@@ -791,6 +791,36 @@ Instead of taking Mom's shower, say "You would just feel weird about using Mom's
 
 Mom's bathroom mirror is a mirror in Mom's Bathroom.  The description of it is "A small mirror sits above the sink."
 
+Chapter 16 - The Front Stoop
+
+Instead of examining the carpet in the Front Stoop, try examining the floor instead.
+Instead of examining the linoleum in the Front Stoop, try examining the floor instead.
+Instead of examining the floor in the Front Stoop, say "The floor is concrete here."
+
+Instead of going down in the Front Stoop, try going east.
+Instead of going east in the Front Stoop, say "You don't really have anywhere to go.  Besides, it's dark, it's cold, and you're in your bare feet, so walking on the gravel driveway would be very uncomfortable."
+
+Instead of examining the ceiling in the Front Stoop, say "There is no ceiling here."
+Instead of examining the walls in the Front Stoop, say "There are no walls here."
+
+The welcome mat is scenery in the Front Stoop.  "It's a little brown welcome mat."
+The fake bats are scenery in the Front Stoop.  "Mom hangs up little fake bats above the front stoop every Halloween, and nobody ever bothers taking them down in a timely fashion, because (in her opinion, which you agree with) they look cute."
+
+The gift is an openable, closed container with description "A lovely little gift-wrapped box.  The card says it's from the Graves, who have lived across the street from you for years and years."
+
+Instead of inserting anything into the gift, say "You can't do that."
+Instead of opening the gift, say "You should let your mother open it."
+
+When play begins:
+	the gift arrives in five turns from now.
+	
+At the time when the gift arrives:
+	say "The doorbell rings with its usual alarming volume.  [if the location is the Kitchen]It sets the lamp blinking on and off for a bit.[end if]";
+	move the gift to the Front Stoop;
+	
+After taking the gift, score the achievement with message "picking up the gift".
+		
+
 Part 3 - NPCs
 
 Chapter 1 - Mom
