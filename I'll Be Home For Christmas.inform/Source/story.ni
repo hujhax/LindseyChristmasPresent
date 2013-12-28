@@ -981,3 +981,15 @@ Before listing nondescript items:
 		now the hidden thing is not marked for listing;
 		
 Instead of swearing obscenely or swearing mildly, say "You swear to yourself, [']cos you've got emotions, man.  Also, Mom is deaf, so there are really no repurcussions."
+
+Chapter 5 - Debug Commands - Not for release
+
+Summoning is an action applying to nothing.
+Understand "summon" as summoning.
+
+Carry out summoning:
+	repeat with kitty running through the free cats:
+	now kitty is in the location.
+	
+Report summoning:
+	Say "You have summoned all the available cats."
