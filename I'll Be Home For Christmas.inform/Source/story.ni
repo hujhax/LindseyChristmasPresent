@@ -96,6 +96,8 @@ Instead of opening Mom's bedroom door:
 		move the player to Mom's Bedroom;
 	otherwise:
 		if the player is in Mom's Bedroom, move the player to the Hallway;
+		
+Instead of opening Mom's bedroom door during the Endgame, say "Mom's sleeping now.  Best to leave her alone."
 
 Section 3 - Outdoor Views
 
