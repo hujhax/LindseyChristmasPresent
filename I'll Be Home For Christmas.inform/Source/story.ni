@@ -565,8 +565,7 @@ Instead of opening the front door while the location is the Front Stoop:
 	say "You sneak in the door and close it behind you.";
 	move the player to the Foyer;
 	
-test stoop with "goto Foyer / e / test eastwood / goto Foyer / e / test franco / goto Foyer / e / get gift ".
-test stoop2 with "goto Foyer / e / test franco / goto Foyer / e / test eastwood / goto Foyer / e / get gift".
+test stoop with "goto Foyer / e / test eastwood / goto Foyer / e / test franco / goto Foyer / e / get gift / goto Dining Room / give gift to Mom ".
 
 Chapter 8 - The Front Closets
 
@@ -986,6 +985,12 @@ Check the player giving Eastwood to Mom:
 	now Eastwood is trapped;
 	Eastwood escapes in 30 turns from now;
 	score the achievement with message "finding a lap for Eastwood cat".
+
+Check the player giving the gift to Mom:
+	say "'Oh, a present!' Mom says cheerily.  She happily removes the wrapping from the present.  It's just a box of candies, but Mom seems moved nonetheless.  You both know the neighbors can't really afford much this year, and you guys had given them a nice gift expecting nothing in return.";
+	remove the gift from play;
+	score the achievement with message "giving Mom a present";
+	stop the action.
 	
 At the time when Eastwood escapes:
 	say "[if Eastwood is visible]Eastwood clambers out of Mom's lap.[end if]";
@@ -1130,7 +1135,7 @@ used  	points  	message
 0	5	"feeding Franco cat"
 0	20	"going to the front stoop"
 0	5	"picking up the gift"
-
+0	20	"giving Mom a present"
 
 test game with "test instruments / test puzzle / test cat-petting / test stoop / test endgame2"
 	
