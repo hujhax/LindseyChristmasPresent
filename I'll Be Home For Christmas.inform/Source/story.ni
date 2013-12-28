@@ -430,7 +430,7 @@ After toggling 6 when the puzzle toy is unsolved and entry six of the status of 
 	say "Wow!  You solved it!  You're really quite surprised that you had enough patience to toggle all those pegs back and forth -- it was [moves of the puzzle toy in words] moves (and attempted moves), by your reckoning.  You suspect that, after some practice, you'll start idly solving and un-solving this puzzle the way some people idly flip quarters over their knuckles.";
 	score the achievement with message "solving the puzzle toy";
 	
-test puzzle with "toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1/ toggle 5 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 6";
+test puzzle with "goto Peter's Bedroom / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1/ toggle 5 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 6";
 			
 Chapter 3 - Peter's Closet
 
