@@ -1012,3 +1012,9 @@ Carry out summoning:
 	
 Report summoning:
 	Say "You have summoned all the available cats."
+	
+Endgaming is an action applying to nothing.
+Understand "cue endgame" as endgaming.
+
+Carry out endgaming:
+	now the score is the achievement maximum score.
