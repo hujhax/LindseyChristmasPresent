@@ -989,7 +989,7 @@ Understand "summon" as summoning.
 
 Carry out summoning:
 	repeat with kitty running through the free cats:
-	now kitty is in the location.
+		now kitty is in the location;
 	
 Report summoning:
 	Say "You have summoned all the available cats."
