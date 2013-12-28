@@ -313,11 +313,15 @@ Understand "play [something]" as playing.
 
 A cheap keyboard is in Peter's Bedroom.  The description of the cheap keyboard is "This is a bottom-of-the-line Casio keyboard.  It features a few dozen non-weighted keys, a speaker the size of several quarters laid end-to-end, and a selection of rhythm buttons, including 'Rock 2' and 'Bossa Nova'.  Your mother bought this for you after relentless begging for *some* kind of piano for every birthday and Christmas.  Now, years later, it sits in the corner unused."
 
-Instead of playing the keyboard, say "You do what you always do: start up a simple, cheesy rhythm, and then play a slow, repetitive cycle of bass notes in your left hand while improvising a melody with your right.  You never got that good at this, but you could always peacefully lose yourself in this for a while.  You smile nostalgically and turn the keyboard back off."
+Instead of playing the keyboard:
+	say "You do what you always do: start up a simple, cheesy rhythm, and then play a slow, repetitive cycle of bass notes in your left hand while improvising a melody with your right.  You never got that good at this, but you could always peacefully lose yourself in this for a while.  You smile nostalgically and turn the keyboard back off.";
+	score the achievement with message "playing the keyboard";
 
 An electric guitar is in Peter's Bedroom.  The description of the guitar is "This is the guitar that's on indefinite loan from your brother.  It's a Stratocaster, one of the new cheapies from Mexico.  The faceplate and the body are white, though the paint is worn through in a big splotch on the back, where you can see through to the deep-brown wood.  It has a switch that lets you select different pickups, which would probably make a difference if you had an amp for it.  It's also got a little 'whammy bar' by the bridge that tightens and slackens all the strings at once.  As far as you can tell, its main purpose is to put the guitar out of tune."
 
-Instead of playing the guitar, say "You do the best you can, haltingly strumming the three chords (G major, C major, D major) that you've learned so far.  Pretty soon it makes your fingertips hurt, so you tuck the pick in between the strings and end your little practice session."
+Instead of playing the guitar:
+	say "You do the best you can, haltingly strumming the three chords (G major, C major, D major) that you've learned so far.  Pretty soon it makes your fingertips hurt, so you tuck the pick in between the strings and end your little practice session.";
+	score the achievement with message "playing guitar";
 
 The bed is scenery in Peter's Bedroom.  "This is a full-sized bed, with a mattress that's as old as... hmm.  You can't remember the mattress ever being bought.  The bedframe is pretty, with a decorative wooden pole sticking up at each corner of the bed, and a simple headboard at the head of it.  The sheets are plain, inoffensive monocolors."
 
@@ -403,6 +407,7 @@ Carry out toggling:
 After toggling 6 when the puzzle toy is unsolved and entry six of the status of the puzzle toy is one:
 	now the puzzle toy is solved;
 	say "Wow!  You solved it!  You're really quite surprised that you had enough patience to toggle all those pegs back and forth -- it was [moves of the puzzle toy in words] moves (and attempted moves), by your reckoning.  You suspect that, after some practice, you'll start idly solving and un-solving this puzzle the way some people idly flip quarters over their knuckles.";
+	score the achievement with message "solving the puzzle toy";
 	
 test puzzle with "toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1/ toggle 5 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 4 / toggle 1 / toggle 2 / toggle 1 / toggle 3 / toggle 1 / toggle 2 / toggle 1 / toggle 6";
 			
@@ -858,7 +863,10 @@ The description of Samson cat is "Samson looks like the cat equivalent of a midd
 
 Instead of hugging Samson cat, say "You try hugging him.  He goes rigid, and then he starts faintly growling.  You put him down."
 
-Instead of petting Samson cat, say "You start petting him, but he goes rigid, and then he starts faintly growling."
+Instead of petting Samson cat:
+	say "You start petting him, but he goes rigid, and then he starts faintly growling.";	
+	score the achievement with message "petting Samson cat";
+
 
 Section 3 - Eastwood
 
@@ -868,7 +876,9 @@ The description of Eastwood cat is "Eastwood is a tortoiseshell shorthair, a bla
 
 Instead of hugging Eastwood cat, say "You give her a hug.  She nips at your hair, attempting to clean it."
 
-Instead of petting Eastwood cat, say "She purrs agreeably."
+Instead of petting Eastwood cat:
+	say "She purrs agreeably.";
+	score the achievement with message "petting Eastwood cat";
 
 Section 4 - Franco
 
@@ -878,7 +888,9 @@ The description of Franco cat is "Franco is a pretty, fluffy, gray cat, with the
 
 Instead of hugging Franco cat, say "Franco receives the hug like a gray, fluffy ragdoll, but doesn't seem to mind."
 
-Instead of petting Franco cat, say "Franco stares absently into space as you pet him, but after a while purrs a bit."
+Instead of petting Franco cat:
+	say "Franco stares absently into space as you pet him, but after a while purrs a bit.";
+	score the achievement with message "petting Franco cat";
 
 
 
