@@ -991,11 +991,14 @@ Instead of giving the handful of food to Franco:
 	now Franco is trapped;
 	move the handful of food to franco;
 	Franco escapes in 30 turns from now;
-	
+	score the achievement with message "feeding Franco cat".
+
 At the time when Franco escapes:
 	say "[if Franco is visible]Franco finishes up his cat food and looks around for more.[end if]";
 	remove the handful of food from play;
 	now Franco is free;
+
+test franco with "goto kitchen / summon / open oven / get cat food / give handful of food to franco"
 
 
 Book 2 - Scenes
@@ -1093,6 +1096,7 @@ used  	points  	message
 0	10	"playing guitar"
 0	10	"playing the keyboard"
 0	5	"finding a lap for Eastwood cat"
+0	5	"feeding Franco cat"
 
 	
 Chapter 3 - New Adjectives
