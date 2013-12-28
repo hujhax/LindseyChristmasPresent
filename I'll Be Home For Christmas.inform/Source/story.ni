@@ -826,6 +826,10 @@ The fake bats are scenery in the Front Stoop.  "Mom hangs up little fake bats ab
 
 The gift is an openable, closed container with description "A lovely little gift-wrapped box.  The card says it's from the Graves, who have lived across the street from you for years and years."
 
+Rule for printing the name of the gift:
+	say "wrapped gift";
+	Omit contents in listing.
+
 Instead of inserting anything into the gift, say "You can't do that."
 Instead of opening the gift, say "You should let your mother open it."
 
