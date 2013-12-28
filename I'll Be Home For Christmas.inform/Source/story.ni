@@ -1,6 +1,7 @@
 "I'll Be Home For Christmas" by Peter Rogers
 
 Include Assorted Text Generation by Emily Short.
+Include Achievements by Mikael Segercrantz.
 
 Book 1 - First Floor
 
@@ -899,7 +900,9 @@ Carry out asking for help (this is the help request rule):
 
 Table of Basic Help Options
 title	subtable	description	toggle
-"Introduction to [story title]"	a table-name	"[bold type][story title][roman type][paragraph break]For this game in particular, there isn't really a 'goal' to pursue, just a chance to explore the past."	a rule
+"Introduction to [story title]"	a table-name	"[bold type][story title][roman type][paragraph break]For this game in particular, there isn't really a 'goal' to pursue, just a chance to explore the past.
+
+That said, you can get points for poking around and performing various actions.  Your current score is displayed in the top right corner.  To see everything you've received points for, type FULL SCORE at the prompt."	a rule
 "Instructions for Playing IF in General"	Table of Instruction Options	--	--
 
 
@@ -938,9 +941,20 @@ title	subtable	description	toggle
 "Credits"	--	"This was written using Inform 7, which is the work of Graham Nelson.  This particular game was designed and coded by Peter Rogers.  This help system was cribbed from Emily Short."	--
 "Contacting the Author"	--	"If you have any difficulties with [story title], feel free to contact me at peter@austinimprov.com."	--
 
-Chapter 2 - New Verbs
+Chapter 2 - Scoring
 
-[Intentionally left blank.]
+When play begins:
+	change the right hand status line to "[score] out of [achievement maximum score]".
+
+Table of Achievements (continued)
+used  	points  	message  
+0  	40  	"solving the puzzle toy" 
+0  	10  	"petting Franco cat"  
+0  	10  	"petting Eastwood cat"  
+0  	10  	"petting Samson cat" 
+0	10	"playing guitar"
+0	10	"playing the keyboard"
+
 	
 Chapter 3 - New Adjectives
 
