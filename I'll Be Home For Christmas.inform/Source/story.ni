@@ -939,6 +939,8 @@ When endgame begins:
 			
 After printing the locale description during the endgame:
 	say "[if the location is Peter's Bedroom][otherwise if the location is Overlook] All the lights are out except for the Christmas tree, which is still lit.[otherwise]Mom has turned out the lights.  It's almost too dark to see.  It's probably time to go to bed.";
+	
+test endgame with "get in bed / get up / cue endgame / get in bed / nw / n / n / unplug tree / s / s / s  / get into bed"
 
 
 Book 3 - Utilities
