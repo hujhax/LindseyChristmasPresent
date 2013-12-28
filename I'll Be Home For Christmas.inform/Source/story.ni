@@ -538,7 +538,9 @@ The built-in bookshelves are scenery in the Overlook.  They are fixed in place. 
 
 The Christmas tree is scenery in the Overlook.  The description of the Christmas tree is "You switched to an artificial tree a few years ago, so this is the same sizeable tree you've had for several years.  It has lots of lights and ornaments on it."
 
-understand "lights" and "christmas lights" as the Christmas tree.
+The decorative lights are scenery in the Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
+
+understand "christmas lights" as the decorative lights.
 
 Understand the command "unplug" as something new.
 Unplugging is an action applying to one thing.
@@ -546,11 +548,11 @@ Understand "unplug [something]" as unplugging.
 
 Instead of unplugging something, say "[if the noun is a device]You don't see any good reason to unplug [the noun].[otherwise]You are not entirely sure how to unplug [the noun].[end if]"
 
-Instead of unplugging the Christmas tree, say "Why would you do that?  It's full of Christmas cheer!"
+Instead of unplugging the Christmas tree, try unplugging the decorative lights.
 
-Instead of unplugging the Christmas tree during the endgame, say "You unplug the Christmas lights.[paragraph break]The house is very dark and quiet.[paragraph break]It's time to go to bed."
+Instead of unplugging the decorative lights, say "Why would you do that?  The tree is full of Christmas cheer!"
 
-The decorative lights are scenery in the Overlook.  The description of them is "There are a variety of lights on the tree.  The main ones are the oldest strings of colorful, spherical bulbs frosted in a sort of plastic that looks granular, like tiny cubes of salt.  There are also the standard mini-lights closer to the top of the tree, both white and red/green, and thumb-like C7½s."
+Instead of unplugging the decorative lights during the endgame, say "You unplug the Christmas lights.[paragraph break]The house is very dark and quiet.[paragraph break]It's time to go to bed."
 
 The ornaments are scenery in the Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
 
