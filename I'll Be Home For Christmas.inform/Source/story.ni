@@ -52,15 +52,11 @@ There is a room called Kitchen.
 There is a room called Laundry Room.
 "This cramped, hot room contains the washer and dryer.  There is a locked door to the south.  To the southwest is the kitchen."
 
-There is a room called Basement.
-
 There is a room called Seating Area.
 "A love seat sits along the west wall of the house.  To the northeast is the dining room.  To the east is the kitchen."
 
 There is a room called Dining Room.
 "A large table dominates the room, with a half-dozen rolling chairs tucked into it.  Along the south and west walls, windows look out onto the backyard.  One small endtable supports a TV set.  A small rolling shelf supports a phone."
-
-There is a room called Back Stoop.
 
 Section 2 - The Map
 
@@ -82,10 +78,7 @@ Southwest of Overlook is Front Closets.  Northeast of Front Closets is nowhere.
 North of Kitchen is Dining Room.
 West of Kitchen is Seating Area.
 Northeast of Kitchen is Laundry Room.
-South of Laundry Room is Basement.
 Northeast of Seating Area is Dining Room.
-North of Dining Room is Back Stoop.
-Outside of Dining Room is Back Stoop.
 
 Mom's bedroom door is a door.  Mom's door is scenery.  Mom's bedroom door is northeast of Mom's Bedroom and southwest of the Hallway.
 
