@@ -2,6 +2,7 @@
 
 Include Assorted Text Generation by Emily Short.
 Include Achievements by Mikael Segercrantz.
+Include Adaptive Hints by Eric Eve.
 
 Book 1 - First Floor
 
@@ -369,6 +370,11 @@ Section 2 - The Puzzle Toy
 The puzzle toy is on the desk.  The description of the puzzle toy is "This is a little plastic puzzle that you picked up at a yard sale recently.  It's shaped like a short, squat cylinder -- kind of like a CD spindle -- with six pegs jutting out of the top, arranged in a circle.  It's made of translucent plastic, and you can see that there is a stack of plastic disks inside of it.  Each of the six pegs can be toggled in and out -- you could 'TOGGLE 3', say, to toggle the third peg.  You vaguely recall that the objective is to move out the sixth peg.
 
 [the puzzle state of the puzzle toy]"
+
+The puzzle toy can be either examined or unexamined.  The puzzle toy is unexamined.
+
+After examining the puzzle toy:
+	now the puzzle toy is examined.
 
 The puzzle toy has a list of numbers called the status.
 
@@ -1073,6 +1079,8 @@ Book 3 - Utilities
 
 Chapter 1 - Help
 
+Section 1 - How Games Work
+
 Include Basic Screen Effects by Emily Short. Include Menus by Emily Short. 
 
 Understand "menu" or "credits" as asking for help. Understand "help" or "hint" or "hints" or "about" or "info" as asking for help.
@@ -1127,6 +1135,83 @@ Table of Basic Help Options (continued)
 title	subtable	description	toggle
 "Credits"	--	"This was written using Inform 7, which is the work of Graham Nelson.  This particular game was designed and coded by Peter Rogers.  This help system was cribbed from Emily Short."	--
 "Contacting the Author"	--	"If you have any difficulties with [story title], feel free to contact me at peter@austinimprov.com."	--
+
+Section 2 - Hints
+
+Table of Puzzle Toy Hints
+hint	used
+"To solve the puzzle toy, you have to toggle various pegs back and forth using commands like TOGGLE 3."	0
+"You've noticed that sometimes a peg gets stuck, right?"
+"Have you noticed that the first peg is always free to move back and forth?"
+"Have you noticed how often the second is free to move back and forth?"
+"How about the third peg?  Is there any pattern to when it can move back and forth?"
+"Can you sort out any kind of pattern to when the pegs are free to move?"
+"You're less likely to be able to move the pegs that are higher up."
+"It has something to do with binary numbers."
+"You can move peg X if peg X-1 is [bold type]in[roman type] and all lower pegs are [bold type]out[roman type]."
+"The winning sequence is 1,2,1,3,1,2,1,4,1,2,1,3,1,2,1,5,1,2,1,3,1,2,1,4,1,2,1,3,1,2,1,6."
+
+Table of Front Door Hints
+hint	used
+"I suppose Samson doesn't try to escape because he's locked behind a door."	0
+"Apparently, the key is to keep the cats occupied somehow."
+"Mom knows a fair amount about the cats."
+"Have you tried asking Mom about Franco and Eastwood?"
+"You may need to ask her multiple times, as she often gives different replies."
+"Franco really likes food."
+"Have you tried looking in the oven?"
+"Have you tried giving food to Franco?"
+"That should keep him occupied for about thirty turns."
+"Eastwood seems affectionate, doesn't she?"
+"Being around someone should keep her busy."
+"Have you tried picking her up?"
+"That almost solves the problem -- she's with you, but still might run out the door."
+"Maybe you could give her to someone else."
+"If you give Eastwood to Mom, that should keep her (Eastwood) occupied for about thirty turns."
+"Once both cats are occupied, you can go out the door."
+
+Table of Random Scoring Hints
+hint	used
+"Have you tried petting the cats?"	0
+"ALL the cats?"
+"Have you tried playing the musical instruments?"
+"There is a present in this game."
+"Have you tried opening the present?"
+"Maybe you should give it to someone else to open."
+"Try giving it to Eastwood."
+"That won't work, you idiot.  Eastwood has no opposable thumbs!"
+"Try giving it to the only other person in the house."
+"That would be Mom."
+
+Table of Endgame Hints
+hint	used
+"It seems like it's time to go to bed."	0
+"But what's this last thing you need to do?"	
+"Try wandering around a bit and the task should present itself."
+"The game told you you'd 'overlooked' something, right?"
+"Go to the Overlook."
+"Oh, look, the Christmas tree is still lit."
+"Try unplugging the lights.  You should be able to go to bed then."
+"Thanks for playing!"
+
+Table of Potential Hints (continued)
+title  	subtable  
+"How do I solve the puzzle toy?"  	Table of Puzzle Toy Hints  
+"How do I get out the front door?"  	Table of Front Door Hints  
+"Mom has gone to bed.  What do I do now?"  	Table of Endgame Hints 
+"What other random things will score me points?"	Table of Random Scoring Hints
+
+A hint activation rule:
+	If the puzzle toy is examined, activate the Table of Puzzle Toy Hints.
+
+A hint activation rule:
+	If the front door is touched, activate the Table of Front Door Hints.
+
+A hint activation rule:
+	If Endgame has happened, activate the Table of Endgame Hints.
+
+A hint activation rule:
+	If the score is greater than 20, activate the table of Random Scoring Hints.
 
 Chapter 2 - Scoring
 
