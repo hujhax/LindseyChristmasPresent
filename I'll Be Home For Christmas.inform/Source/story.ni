@@ -323,7 +323,12 @@ Instead of playing the guitar:
 	say "You do the best you can, haltingly strumming the three chords (G major, C major, D major) that you've learned so far.  Pretty soon it makes your fingertips hurt, so you tuck the pick in between the strings and end your little practice session.";
 	score the achievement with message "playing guitar";
 
-The bed is scenery in Peter's Bedroom.  "This is a full-sized bed, with a mattress that's as old as... hmm.  You can't remember the mattress ever being bought.  The bedframe is pretty, with a decorative wooden pole sticking up at each corner of the bed, and a simple headboard at the head of it.  The sheets are plain, inoffensive monocolors."
+The bed is a fixed in place container in Peter's Bedroom.  The bed is enterable.  The description of it is "This is a full-sized bed, with a mattress that's as old as... hmm.  You can't remember the mattress ever being bought.  The bedframe is pretty, with a decorative wooden pole sticking up at each corner of the bed, and a simple headboard at the head of it.  The sheets are plain, inoffensive monocolors."
+
+Instead of inserting something into the bed, say "You'd rather not mess up the bed."
+
+Report entering the bed:
+	say "You're not that tired, but you get into the bed." instead.
 
 The sheets are scenery in Peter's Bedroom.  "As usual, the sheets are heaped into a ball.  You just sleep more comfortably that way."
 
