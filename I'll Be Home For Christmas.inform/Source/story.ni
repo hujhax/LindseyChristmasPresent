@@ -843,7 +843,7 @@ Part 3 - NPCs
 
 Chapter 1 - Mom
 
-Mom is a woman in the Dining Room.  The description of Mom is "Your mother is getting a little on in years.  Her large, brown-framed eyeglasses are a higher prescription these days, and her tightly-permed brown hair is flecked with gray.  She wears a red, reindeer-adorned sweater, jeans, and (because why not) a green elf hat.  She wears a large, clunky hearing aid tucked behind each ear."
+Mom is a woman in the Dining Room.  The description of Mom is "Your mother is getting on a little in years.  Her large, brown-framed eyeglasses are a higher prescription these days, and her tightly-permed brown hair is flecked with gray.  She wears a red, reindeer-adorned sweater, jeans, and (because why not) a green elf hat.  She wears a large, clunky hearing aid tucked behind each ear.  She's watching television.[if Eastwood is trapped]  Eastwood sits contentedly in her lap.[end if]"
 
 Understand "herself" as Mom.
 
@@ -882,9 +882,10 @@ timer	"She peers past you towards the kitchen.  'What?' she asks, 'is it going o
 milk	"'That milk is just fine,' she insists."
 computer	"'I'm going to have to type a letter on that today.  I'll need you to help me out.'"
 Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtluhck.'  She affects pronouncing 'Matlock' the way her more-hearing-impaired friends in SHHH mangle the name."
+puzzle toy	"'I think it's some kind of puzzle, isn't it?' she asks.  'Aren't yard sales wonderful?' she adds."
+bats	"'I think those bats are just great,' she says proudly.  'Maybe we should keep them up year round,' she adds with a conspiratorial smile."
 
-
-test mom with "nw / n / n / ne / n / ask mom about me / ask mom about franco"
+test mom with "goto dining room / ask mom about me / ask mom about franco"
 
 Understand the command "hug" as something new.
 Hugging is an action applying to one thing.
