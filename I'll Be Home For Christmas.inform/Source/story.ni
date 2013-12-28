@@ -22,42 +22,42 @@ There is a room called Mom's Bathroom.
 There is a room called Peter's Closet. 
 "It's kind of amazing that you can fit in your closet, cramped and small as it is.  Sweaters and long-sleeved shirts hang from the bar that runs the length of it, and giant storage boxes line the floor.  A shelf above the bar provides additional storage."
 
-There is a room called Hallway.
+There is a room called the Hallway.
 "This narrow hallway leads from the open areas (dining room, living room, kitchen) to the bedrooms.  There are four doors: to the west is the bathroom; to the southwest is your mother's bedroom, to the south is your bedroom, and to the east is the spare bedroom.  To the north, the hallway opens out to the rest of the house.  A single light fixture hangs from the ceiling."
 
-There is a room called Spare Bedroom.
+There is a room called the Spare Bedroom.
 "Storage dominates this room.  You see a couch along the east wall, next to the windows, but it's inaccessible under boxes and laundry hampers filled with bric-a-brac.  A wooden display case takes up even more space along the east wall.  All you can access is the computer desk and the chair."
 
-There is a room called Bathroom.
+There is a room called the Bathroom.
 "Nothing too fancy here: a shower/tub combo, a toilet, a medicine cabinet above the toilet, and a sink with a mirror."
 
-There is a room called Foyer.
+There is a room called the Foyer.
 "The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser and a thermostat, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
 
-There is a room called Front Stoop.
+There is a room called the Front Stoop.
 "This is a little concrete front stoop for the house, with some stairs leading east to the driveway.  There's a little welcome mat here, and a couple of fake bats hanging off of the roofline.  The front door leads west into the foyer."
 
-There is a room called Front Closets.
+There is a room called the Front Closets.
 "An open corner near the front door has a couple of large closets built into adjacent walls."
 
-There is a room called Overlook.
+There is a room called the Overlook.
 "To the south, a massive bookshelf is built into the wall.  Along the west wall, there are several windows overlooking the backyard.  You can go south to the foyer or southwest to a set of closets.  To the east is the living room.  To the north is a set of couches, and to the northeast is the kitchen.
 
 The household Christmas tree is here!"
 
-There is a room called Living Room.
+There is a room called the Living Room.
 "Two couches and an easy chair all aim at an entertainment center along the south wall.  The east wall has a set of bay windows looking out on the driveway above a set of seat cabinets.  You can go west to some windows overlooking the backyard."
 
-There is a room called Kitchen.
+There is a room called the Kitchen.
 "The kitchen is dominated by counter space -- a large 'island' in the center of the room, and a smaller 'peninsula' to the west.  Along the walls are the usual kitchen appliances: the fridge, the microwave, the dishwasher, and the oven.  Cabinets and shelves occupy every other square foot of wall space.  To the west is a seating area, or you can go north to the dining room or northeast to the laundry room."
 
-There is a room called Laundry Room.
+There is a room called the Laundry Room.
 "This cramped, hot room contains the washer and dryer.  There is a locked door to the south.  To the southwest is the kitchen."
 
-There is a room called Seating Area.
+There is a room called the Seating Area.
 "A love seat sits along the west wall of the house.  To the northeast is the dining room.  To the east is the kitchen."
 
-There is a room called Dining Room.
+There is a room called the Dining Room.
 "A large table dominates the room, with a half-dozen rolling chairs tucked into it.  Along the south and west walls, windows look out onto the backyard.  One small endtable supports a TV set.  A small rolling shelf supports a phone."
 
 Section 2 - The Map
