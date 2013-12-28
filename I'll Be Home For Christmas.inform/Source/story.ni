@@ -557,7 +557,8 @@ Instead of unplugging the Christmas tree, try unplugging the decorative lights.
 
 Instead of unplugging the decorative lights, say "Why would you do that?  The tree is full of Christmas cheer!"
 
-Instead of unplugging the decorative lights during the endgame, say "You unplug the Christmas lights.[paragraph break]The house is very dark and quiet.[paragraph break]It's time to go to bed."
+Instead of unplugging the decorative lights during the endgame:
+	say "You unplug the Christmas lights.[paragraph break]The house is very dark and quiet.[paragraph break]It's time to go to bed.";
 
 The ornaments are scenery in the Overlook.  The description of them is "The ornaments feel a bit like family history.  There are the oldest ones, the clip-on glass mushroom ornaments, that came from Italy (where they were stationed in the late 60s), and some more recent ones -- standard metal spheres -- and the most recent ones are one or two crudely-made clay ornamnents you made in elementary school."
 
