@@ -543,13 +543,23 @@ After examining the walls in the Foyer, say "You see the thermostat sticking out
 
 The thermostat is scenery in the Foyer. "A little brown-metal box juts from the wall, with a small dial poking out of the bottom for setting the temperature.  As usual, mom keeps the thermostat set around 71 for the winter."
 
-The front door is a closed door.  The front door is scenery.  The front door is east of the Foyer and west of the Front Stoop.
+The front door is a closed door.  The front door is scenery.  The front door is east of the Foyer and west of the Front Stoop.  The front door is either touched or untouched.  The front door is untouched.
 
 Instead of opening the front door while the location is the Foyer:
-	if Eastwood is free and Franco is free:
+	Now the front door is touched;
+	if Eastwood is worn and Franco is free:
+		say "As you try to open the door, Eastwood clambers off of you and Franco darts into the room.  You shut the door just in time, and prevent their escape.";
+		move Eastwood to the Foyer;
+		move Franco to the Foyer;
+		now Eastwood is free;		
+	otherwise if Eastwood is free and Franco is free:
 		say "As you try to open the door, both Eastwood and Franco dart into the room.  You shut the door before they can escape.";
 		move Eastwood to the Foyer;
 		move Franco to the Foyer;
+	otherwise if Eastwood is worn:
+		say "As you try to open the door, Eastwood clambers down and tries to dart out the door.  You shut the door before she can escape.";
+		move Eastwood to the Foyer;
+		now Eastwood is free;		
 	otherwise if Eastwood is free:
 		say "As you try to open the door, Eastwood darts into the room.  You shut the door before she can escape.";
 		move Eastwood to the Foyer;
