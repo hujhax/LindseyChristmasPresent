@@ -908,14 +908,39 @@ Section 3 - Eastwood
 
 Eastwood cat is a female cat with the name "Eastwood", the entering text "Eastwood cat pads into the room, sees you, and meows affably.", the exiting text "Eastwood cat suddenly catches sight of something in another room and, with surprising agility for her age, zips off to investigate.", and the occupying text "[one of]Eastwood cat suddenly notices you and twines around your legs.[or]Eastwood cat is here, keeping an eye on things.[at random]".  Eastwood cat is in the Dining Room.
 
-The description of Eastwood cat is "Eastwood is a tortoiseshell shorthair, a black cat with orange striations through her fur, like veins of ore in a rock.  She's getting on in years, with wisps of white in a her coat and a slight raggedness to her face, but she still regards you with the same friendly, beige eyes."
+The description of Eastwood cat is "Eastwood is a tortoiseshell shorthair, a black cat with orange striations through her fur, like veins of ore in a rock.  She's getting on in years, with wisps of white in a her coat and a slight raggedness to her face, but she still regards you with the same friendly, beige eyes.[if Eastwood is trapped]  She sits contentedly in Mom's lap.[end if]"
 
 Instead of hugging Eastwood cat, say "You give her a hug.  She nips at your hair, attempting to clean it."
 
 Instead of petting Eastwood cat:
 	say "She purrs agreeably.";
 	score the achievement with message "petting Eastwood cat";
+	
+Instead of taking Eastwood:
+	say "Eastwood happily climbs up your arm and rests on your shoulders.";
+	now the player wears Eastwood;
+	now Eastwood is trapped;
+	
+Carry out dropping Eastwood:
+	now Eastwood is free;
+	continue the action;
 
+The block giving rule is not listed in the check giving it to rules.
+
+Check someone trying giving something to someone: 
+	say "[the person asked] doesn't seem interested.";
+	stop the action;
+
+Check the player giving Eastwood to Mom:
+	say "Eastwood happily climbs into Mom's lap.  Mom pets her, and she purrs contentedly.";
+	now Eastwood is trapped;
+	Eastwood escapes in 30 turns from now;
+	
+At the time when Eastwood escapes:
+	say "[if Eastwood is visible]Eastwood clambers out of Mom's lap.[end if]";
+	move Eastwood to the Dining Room;
+	now Eastwood is free;
+	
 Section 4 - Franco
 
 Franco cat is a cat with the name "Franco", the entering text "Franco cat wanders into the room looking for the life of him like he can't recall ever having seen this room before.", the exiting text "Franco absently wanders off to another room.", and the occupying text "[one of]Franco cat is here.  He stares at you blankly.[or]Franco cat is here, sleeping on the highest surface in the room.[at random]".  Franco cat is in Peter's Closet.
