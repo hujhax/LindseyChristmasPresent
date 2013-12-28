@@ -852,9 +852,10 @@ Understand "herself" as Mom.
 
 Mom wears an elf hat.  The description of the elf hat is "This is a little green elf hat."
 
+Mom wears hearing aids.  The description of the hearing aids is "Mom wears a hearing aid tucked behind each ear.  The amplification they provide helps somewhat, but it's still tough for her to understand what people say."
+
 Instead of asking Mom about a topic listed in the Table of Mom's Replies, say "[Reply entry][paragraph break]".
-Carry out asking Mom about a topic:
-	say "She doesn't understand your question."
+
 
 Understand "yard sale", "yard sales" as "[yard sale]".
 
@@ -870,8 +871,8 @@ Topic	Reply
 
 Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
 
-Carry out interrogating Mom about something: 
-    say "She peers closely at you.  'Huh?' she asks."
+Carry out interrogating Mom about something (called the thingie): 
+    say "She peers closely at you.  'Huh?' she asks. ['][the mangle of the printed name of thingie][']?"
 
 Instead of interrogating Mom about an item listed in the Table of Mom's Items: 
     say "[reply entry][paragraph break]".
@@ -915,6 +916,29 @@ Carry out fucking:
     say "My, your proclivities run a bit strange today, don't they?"
 
 Instead of fucking Mom, say "Whoa there, Oedipus."
+
+To say the mangle of (T - some indexed text):
+	let consonants be {"b","c","d","f","g","h","j","k","l","m","v","n","p","q","r","s","t","v","w","x","z"};
+	let randommed be consonants;
+	sort randommed in random order;
+	repeat with i running from 1 to the number of characters in T:
+		let char be character number i in T;
+		if char matches the regular expression "\s":
+			say char;
+			next;
+		if char matches the regular expression "(^a-zA-z)":
+			say char;
+			next;
+		if char matches the regular expression "(a|e|i|o|u|y)":
+			say char;
+			next;
+		repeat with j running from 1 to the number of entries in consonants:
+			if char is entry j of consonants, say entry j of randommed;
+				
+Carry out asking Mom about a topic:
+	say "She doesn't understand your question.  She peers closely at your mouth, hoping to lip-read.  'What are you asking me about?' she asks.  '['][the mangle of the topic understood][']?'";
+	stop the action;
+	
 
 Chapter 2 - Cats
 
