@@ -70,7 +70,6 @@ North of Hallway is Foyer.
 South of Hallway is Peter's Bedroom.
 East of Hallway is Spare Bedroom.
 West of Hallway is Bathroom.
-Southwest of Hallway is Mom's Bedroom.
 Northwest of Mom's Bedroom is Mom's Bathroom.  Southeast of Mom's Bathroom is nowhere.
 South of Mom's Bathroom is Mom's Bedroom.  North of Mom's Bedroom is nowhere.
 North of Foyer is Overlook.
@@ -88,6 +87,15 @@ South of Laundry Room is Basement.
 Northeast of Seating Area is Dining Room.
 North of Dining Room is Back Stoop.
 Outside of Dining Room is Back Stoop.
+
+Mom's bedroom door is a door.  Mom's door is scenery.  Mom's bedroom door is northeast of Mom's Bedroom and southwest of the Hallway.
+
+Instead of opening Mom's bedroom door:
+	say "You open the door to Mom's bedroom just enough to slip through, because you know you can't let Samson cat out.";
+	if the player is in the Hallway:
+		move the player to Mom's Bedroom;
+	otherwise:
+		if the player is in Mom's Bedroom, move the player to the Hallway;
 
 Section 3 - Outdoor Views
 
