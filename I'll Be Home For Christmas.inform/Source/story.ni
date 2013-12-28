@@ -14,16 +14,16 @@ There is a room called Peter's Bedroom.
 "Everything in your bedroom feels cozy and old.  The color scheme is mostly yellows and browns, and the furniture is a mishmash of cheap yard-sale acquisitions.  To the northwest, the sole exit leads to a hallway, and to the north a set of white folding doors open into a small, narrow closet.  Lining the walls, you see your familiar furniture: the big old desk and the decorative shelf, the rolling table, the bookshelf, your bed, and your dresser.  Two windows look out to the east and south."
 
 There is a room called Mom's Bedroom. 
-"You never really spend much time in here.  A queen-sized bed dominates the room, with a small nightstand beside it.  Along the east wall, there's a dresser with a mirror above it.  To the northeast, you can go into the master bathroom."
+"You never really spend much time in here.  A queen-sized bed dominates the room, with a small nightstand beside it.  Along the east wall, there's a dresser with a mirror above it.  To the northwest, you can go into the master bathroom."
 
 There is a room called Mom's Bathroom. 
-"The bathroom has the usual accouterments: shower, toilet, sink, mirror.  It's all fairly compact, with more space taken up by the kitty litter for Samson Cat.  A small window box, like a tiny greenhouse, pokes out of the south wall."
+"The bathroom has the usual accouterments: shower, toilet, sink, mirror.  It's all fairly compact, with more space taken up by the kitty litter for Samson Cat.  A small window box, like a tiny greenhouse, pokes out of the west wall.  To the southeast, you can get back to the bedroom."
 
 There is a room called Peter's Closet. 
 "It's kind of amazing that you can fit in your closet, cramped and small as it is.  Sweaters and long-sleeved shirts hang from the bar that runs the length of it, and giant storage boxes line the floor.  A shelf above the bar provides additional storage."
 
 There is a room called the Hallway.
-"This narrow hallway leads from the open areas (dining room, living room, kitchen) to the bedrooms.  There are four doors: to the west is the bathroom; to the southwest is your mother's bedroom, to the south is your bedroom, and to the east is the spare bedroom.  To the north, the hallway opens out to the rest of the house.  A single light fixture hangs from the ceiling."
+"This narrow hallway leads from the open areas (dining room, living room, kitchen) to the bedrooms.  There are four doors: to the west is the bathroom; to the southwest is your mother's bedroom, to the southeast is your bedroom, and to the east is the spare bedroom.  To the north, the hallway opens out to the rest of the house.  A single light fixture hangs from the ceiling."
 
 There is a room called the Spare Bedroom.
 "Storage dominates this room.  You see a couch along the east wall, next to the windows, but it's inaccessible under boxes and laundry hampers filled with bric-a-brac.  A wooden display case takes up even more space along the east wall.  All you can access is the computer desk and the chair."
@@ -63,13 +63,12 @@ There is a room called the Dining Room.
 Section 2 - The Map
 
 North of Peter's Bedroom is Peter's Closet.
-Northwest of Peter's Bedroom is Hallway.  Southeast of Hallway is nowhere.
+Northwest of Peter's Bedroom is Hallway.
 North of Hallway is Foyer.
-South of Hallway is Peter's Bedroom.
+Southeast of Hallway is Peter's Bedroom.
 East of Hallway is Spare Bedroom.
 West of Hallway is Bathroom.
-Northwest of Mom's Bedroom is Mom's Bathroom.  Southeast of Mom's Bathroom is nowhere.
-South of Mom's Bathroom is Mom's Bedroom.  North of Mom's Bedroom is nowhere.
+Northwest of Mom's Bedroom is Mom's Bathroom.
 North of Foyer is Overlook.
 West of Foyer is Front Closets.
 North of Front Closets is Overlook.
