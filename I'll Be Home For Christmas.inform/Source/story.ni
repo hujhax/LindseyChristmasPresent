@@ -34,6 +34,7 @@ There is a room called Foyer.
 "The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser and a thermostat, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
 
 There is a room called Front Stoop.
+"This is a little concrete front stoop for the house, with some stairs leading east to the driveway.  There's a little welcome mat here, and a couple of fake bats hanging off of the roofline.  The front door leads west into the foyer."
 
 There is a room called Front Closets.
 "An open corner near the front door has a couple of large closets built into adjacent walls."
@@ -109,7 +110,7 @@ The outdoor view of Peter's Bedroom is "Through the east windows, you see the gr
 
 The outdoor view of the Spare Bedroom is "You can shoulder through some of the junk and barely tug the curtains apart, affording you a momentary glimpse of the front driveway."
 
-The outdoor view of the Foyer is "A narrow window by the door lets you see a strip of the front stoop -- plain and concrete -- and beyond it, a strip of the gravel driveway.  You catch a quick glimpse of a black-and-white feral cat scampering past."
+The outdoor view of the Foyer is "A narrow window by the door lets you see a strip of the front stoop -- plain and concrete -- and beyond it, a strip of the gravel driveway.  You catch a quick glimpse of a black-and-white feral cat scampering past.[if the location of the gift is the Front Stoop][paragraph break]Someone has left a present on the front stoop![end if]"
 
 The outdoor view of Mom's Bedroom is "You can see some of the backyard from here, and through the trees, a little bit of Wooldridge Avenue, empty of cars for the moment.  It also affords a nice view of the sunset."
 
