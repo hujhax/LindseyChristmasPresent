@@ -1012,8 +1012,15 @@ At the time when Eastwood escapes:
 	say "[if Eastwood is visible]Eastwood clambers out of Mom's lap.[end if]";
 	move Eastwood to the Dining Room;
 	now Eastwood is free;
+
+Instead of answering Eastwood cat that something:
+	if the topic understood matches "Eastwood":
+		say "[one of]She meows back at you in response.[or]'Meow?' she asks in response.[at random]";
+		score the achievement with message "talking to Eastwood";
+	otherwise:
+		say "She blinks back at you incomprehendingly.";
 	
-test eastwood with "goto dining room / summon / get eastwood / give eastwood to mom"
+test eastwood with "goto dining room / summon / get eastwood / say eastwood to eastwood / give eastwood to mom"
 	
 Section 4 - Franco
 
@@ -1174,6 +1181,9 @@ Table of Random Scoring Hints
 hint	used
 "Have you tried petting the cats?"	0
 "ALL the cats?"
+"Have you asked Mom about Eastwood?"
+"She says Eastwood recognizes her own name."
+"Try SAY EASTWOOD TO EASTWOOD."
 "Have you tried playing the musical instruments?"
 "There is a present in this game."
 "Have you tried opening the present?"
@@ -1223,6 +1233,7 @@ used  	points  	message
 0  	40  	"solving the puzzle toy" 
 0  	10  	"petting Franco cat"  
 0  	10  	"petting Eastwood cat"  
+0	5	"talking to Eastwood"
 0  	10  	"petting Samson cat" 
 0	10	"playing guitar"
 0	10	"playing the keyboard"
