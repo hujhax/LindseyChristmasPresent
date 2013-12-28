@@ -851,7 +851,7 @@ The printed name of a cat is usually "[name] cat".
 [cat-wandering behavior]
 
 Every turn:
-	repeat with kitty running through cats:
+	repeat with kitty running through free cats:
 		if a random chance of 1 in 3 succeeds:
 			let current space be a random room containing kitty;
 			let next space be a random room which is adjacent to the current space; 
