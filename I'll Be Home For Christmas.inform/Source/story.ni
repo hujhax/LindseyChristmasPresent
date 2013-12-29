@@ -1322,3 +1322,7 @@ Going by name is an action applying to one thing.
 
 Carry out going by name: 
 	move the player to the noun;
+
+Chapter 6 - Release Info
+
+Release along with cover art.
