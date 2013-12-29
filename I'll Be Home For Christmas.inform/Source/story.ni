@@ -1326,3 +1326,16 @@ Carry out going by name:
 Chapter 6 - Release Info
 
 Release along with cover art.
+
+Chapter 7 - Game-Ending Amusement
+
+Table of Amusing Matter 
+title	subtable	description	toggle    
+"Asking Mom"	a table name	"Did you try asking Mom about... [paragraph break] yard sales? [line break] her tape? [line break] the future? [line break] bats?" 
+"Various Things"	a table name	"Did you try... [paragraph break] looking out windows everywhere? [line break] playing with the computer? [line break] rummaging through the fridge? [line break] using profanity? [line break] playing audio tapes? [line break] playing video tapes? [line break] watching Mom's television?"
+
+Rule for amusing a victorious player: 
+	now the current menu is the Table of Amusing Matter; 
+	now the current menu title is "Things to Try"; 
+	carry out the displaying activity; 
+	clear the screen. 
