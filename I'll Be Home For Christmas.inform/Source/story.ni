@@ -3,6 +3,7 @@
 Include Assorted Text Generation by Emily Short.
 Include Achievements by Mikael Segercrantz.
 Include Adaptive Hints by Eric Eve.
+Include Punctuation Removal by Emily Short.
 
 Book 1 - First Floor
 
@@ -1292,6 +1293,9 @@ Before listing nondescript items:
 		
 Instead of swearing obscenely or swearing mildly, say "You swear to yourself, [']cos you've got emotions, man.  Also, Mom is deaf, so there are really no repurcussions."
 
+After reading a command:
+	remove stray punctuation; 
+	
 Chapter 5 - Debug Commands - Not for release
 
 Summoning is an action applying to nothing.
