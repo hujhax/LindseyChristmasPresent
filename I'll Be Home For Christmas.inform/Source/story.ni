@@ -859,6 +859,7 @@ Instead of asking Mom about a topic listed in the Table of Mom's Replies, say "[
 
 
 Understand "yard sale", "yard sales" as "[yard sale]".
+Understand "future", "the future" as "[future]".
 
 Table of Mom's Replies
 Topic	Reply
@@ -869,14 +870,16 @@ Topic	Reply
 "Hartwell"	"'He called yesterday.  Still complaining about San Francisco.'"
 "Thomas"	"'I need Thomas to look at the car this Sunday.  One of the lights on the dashboard started flashing.'"
 "Betsy"	"'I don't think Saudi Arabia is really agreeing with her, but, it's the army, so you go where they put ya.'"
+"Love"	"She sings a quick verse of 'L-O-V-E'.  It's wildly off-key, but you can tell that, before the hearing loss, she must have had a good voice."
+"[future]"	"'Things keep changing all the time,' she says.  'I don't really know what the future will be like.'  She thinks a moment.  'We'll all have jetcars!' she says brightly."
 
 Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
 
 Carry out interrogating Mom about something (called the thingie): 
-    say "She peers closely at you.  'Huh?' she asks. ['][the mangle of the printed name of thingie][']?"
+    say "She peers closely at you.  'Huh?' she asks.  She tries sounding out what she heard. ['][the mangle of the printed name of thingie][']?"
 
 Instead of interrogating Mom about an item listed in the Table of Mom's Items: 
-    say "[reply entry][paragraph break]".
+	say "[reply entry][paragraph break]";
 
 Table of Mom's Items
 item	reply
@@ -892,6 +895,7 @@ computer	"'I'm going to have to type a letter on that today.  I'll need you to h
 Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtluhck.'  She affects pronouncing 'Matlock' the way her more-hearing-impaired friends in SHHH mangle the name."
 puzzle toy	"'I think it's some kind of puzzle, isn't it?' she asks.  'Aren't yard sales wonderful?' she adds."
 bats	"'I think those bats are just great,' she says proudly.  'Maybe we should keep them up year round,' she adds with a conspiratorial smile."
+gift	"[if the location of the gift is the front stoop]'That's probably a gift from the neighbors.'[otherwise if the front door is untouched]'What gift?' she asks.[otherwise]'That's a lovely gift.  Thank you for bringing it in.'[end if]"
 
 test mom with "goto dining room / ask mom about me / ask mom about franco"
 
@@ -936,10 +940,8 @@ To say the mangle of (T - some indexed text):
 		repeat with j running from 1 to the number of entries in consonants:
 			if char is entry j of consonants, say entry j of randommed;
 				
-Carry out asking Mom about a topic:
-	say "She doesn't understand your question.  She peers closely at your mouth, hoping to lip-read.  'What are you asking me about?' she asks.  '['][the mangle of the topic understood][']?'";
-	stop the action;
-	
+Instead of asking Mom about a topic:
+	say "She doesn't understand your question.  She peers closely at your mouth, hoping to lip-read.  'What are you asking me about?' she asks.  She tries sounding out what she heard.  '['][the mangle of the topic understood][']?'";	
 
 Chapter 2 - Cats
 
