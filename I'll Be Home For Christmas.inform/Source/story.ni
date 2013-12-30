@@ -33,7 +33,7 @@ There is a room called the Bathroom.
 "Nothing too fancy here: a shower/tub combo, a toilet, a medicine cabinet above the toilet, and a sink with a mirror."
 
 There is a room called the Foyer.
-"The front door, to the east, opens up into a small entryway.  Along the south wall is a dresser and a thermostat, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
+"The front door, to the east, opens up into a small entryway.  Next to the entryway is a narrow window.  Along the south wall is a dresser and a thermostat, next to a hallway leading south.  To the north, the house opens up to a row of windows overlooking the backyard.  To the west, there are a set of closets."
 
 There is a room called the Front Stoop.
 "This is a little concrete front stoop for the house, with some stairs leading east to the driveway.  There's a little welcome mat here, and a couple of fake bats hanging off of the roofline.  The front door leads west into the foyer."
@@ -101,7 +101,13 @@ The outdoor view of a room is usually "There are no windows to look out of here.
 
 Understand the command "look outside" as something new.
 Looking outside is an action applying to nothing.
-Understand "look outside", "look out the window", "look out window", "look through the window", "look through window" as looking outside.
+Understand "look outside" as looking outside.
+
+The window is a backdrop.  It is everywhere.  Understand "windows", "narrow window" as the window.
+
+Understand "look out [a window]" as searching.
+Instead of searching the window, try looking outside.
+Instead of examining the window, try looking outside.
 
 instead of looking outside:
 	say the outdoor view of a random room containing the player;
