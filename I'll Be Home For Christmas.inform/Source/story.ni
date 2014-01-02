@@ -1088,7 +1088,8 @@ Instead of petting Franco cat:
 	score the achievement with message "petting Franco cat";
 
 Instead of taking the bag of pet food:
-	say "You take a handful of the cat food.";
+	say "You take a handful of the cat food and close the oven door.";
+	now the oven is closed;
 	move the handful of food to the player;
 	
 Instead of taking the bag of pet food while the handful of food is carried:
@@ -1097,7 +1098,7 @@ Instead of taking the bag of pet food while the handful of food is carried:
 Instead of taking the pet food while Franco cat is trapped:
 	say "There is already a handful of cat food in [the location of Franco].  You don't need another just now.";
 
-A handful of food is a thing.  The description of it is "One handful of cat food."
+A handful of food is a thing.  The description of it is "One handful of cat food."  Understand "cat food" as the handful of food.
 Instead of dropping the handful of food, say "You don't really want to drop cat food on the floor."
 Instead of taking the handful of food, say "You don't think you should interfere with Franco."
 Instead of giving the handful of food to Franco:
