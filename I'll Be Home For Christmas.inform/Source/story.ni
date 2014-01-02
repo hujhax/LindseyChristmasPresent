@@ -230,14 +230,18 @@ Some magnifying lenses are in the center drawer.  The description of some magnif
 
 Instead of searching the magnifying lenses, say "Through the lenses, you see distorted, blurred out versions of the room around you."
 
-Understand "look at [something] through [something]" as peering at it through. peering at it through is an action applying to two visible things.
+Understand "look at [something] through [something]" as peering at it through. peering at it through is an action applying to one visible thing and one carried thing.
+
+Instead of peering through something (called the through-object) at something (called the at-object):
+	try peering at the at-object through the through-object;
+
+Understand "look through [something] at [something]" as peering through it at. peering through it at is an action applying to one carried thing and one visible thing.
 
 Check peering at something (called the at-object) through something (called the through-object) that is not the magnifying lenses:
-    say "You can't look at [the at-object] through [the through-object]." instead.
+	say "You can't look at [the at-object] through [the through-object]." instead.
 
 Carry out peering at something (called the at-object) through something:
 	say "You get a nice, close look at [the at-object].  Such detail!"
-
 
 A calculator is in the center drawer.  The description of a calculator is "This is a Radio Shack calculator, one of the new solar-powered ones, which comes in a neat black plastic case that you can clip shut."
 
