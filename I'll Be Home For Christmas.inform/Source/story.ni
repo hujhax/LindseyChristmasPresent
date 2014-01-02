@@ -362,6 +362,8 @@ Report entering the bed during the endgame:
 Check entering the bed when the decorative lights are plugged during the Endgame:
 	say "You'd like to go to bed, but you sense that there's one last thing you've overlooked." instead;
 
+Instead of sleeping while the location of the player is Peter's Bedroom, try entering the bed.  Understand "go to sleep", "go to bed", "lie down", "lie down on bed", "lay down", "lay down on bed" as sleeping.
+
 The sheets are scenery in Peter's Bedroom.  "As usual, the sheets are heaped into a ball.  You just sleep more comfortably that way."
 
 Instead of examining the walls in Peter's Bedroom, say "The walls in this room are an innocuous beige color.  You have an Escher print on the wall above your bed."
