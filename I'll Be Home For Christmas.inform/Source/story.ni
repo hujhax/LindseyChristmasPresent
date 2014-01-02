@@ -139,7 +139,7 @@ Part 2 - Objects
 
 Chapter 1 - General Objects 
 
-The floor is a backdrop.  It is everywhere.  "The floor in this area is [if a random room containing the player is carpeted]carpeted[otherwise]covered in linoleum[end if]."
+The floor is a backdrop.  It is everywhere.  "The floor in this area is [if the location is carpeted]carpeted[otherwise]covered in linoleum[end if]."
 
 A room is either carpeted or linoleummed.  A room is usually carpeted.
 A room has some text called carpet color.  The carpet color of a room is usually "teal".
