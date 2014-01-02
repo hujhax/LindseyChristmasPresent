@@ -1070,6 +1070,8 @@ Instead of answering Eastwood cat that something:
 		score the achievement with message "chatting with Eastwood";
 	otherwise:
 		say "She blinks back at you incomprehendingly.";
+
+Instead of going southwest from the Hallway when Eastwood is worn, say "You should put down Eastwood first, since you don't want a huge catfight on your hands."
 	
 test eastwood with "goto dining room / summon / get eastwood / say eastwood to eastwood / give eastwood to mom"
 	
