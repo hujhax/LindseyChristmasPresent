@@ -4,6 +4,8 @@ Include Assorted Text Generation by Emily Short.
 Include Achievements by Mikael Segercrantz.
 Include Adaptive Hints by Eric Eve.
 Include Punctuation Removal by Emily Short.
+Include Basic Screen Effects by Emily Short.
+Include Menus by Emily Short. 
 
 Book 1 - First Floor
 
@@ -1140,8 +1142,6 @@ Chapter 1 - Help
 
 Section 1 - How Games Work
 
-Include Basic Screen Effects by Emily Short. Include Menus by Emily Short. 
-
 Understand "menu" or "credits" as asking for help. Understand "help" or "hint" or "hints" or "about" or "info" as asking for help.
 
 Asking for help is an action out of world.
@@ -1310,8 +1310,15 @@ Before listing nondescript items:
 		
 Instead of swearing obscenely or swearing mildly, say "You swear to yourself, [']cos you've got emotions, man.  Also, Mom is deaf, so there are really no repurcussions."
 
+[makes "say 'eastwood'" work as expected.]
 After reading a command:
 	remove stray punctuation; 
+
+[give the screen old-timey colors]
+When play begins:
+	turn the background black;
+	clear the screen;
+	say "[green letters]".
 	
 Chapter 5 - Debug Commands - Not for release
 
