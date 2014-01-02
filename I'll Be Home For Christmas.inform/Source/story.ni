@@ -356,6 +356,7 @@ Report entering the bed:
 	
 Report entering the bed during the endgame:
 	say "It's been a long day, so you get into bed.  As usual, sleep doesn't come right away, and you stare up at the ceiling for a while.  You suddenly find yourself thinking of the plantation house next door, so spooky and roomy, where you lived years ago.[paragraph break]It seems so far away now.[paragraph break]You idly wonder where you will go once you leave this house.[paragraph break]Somewhere good, you hope.[paragraph break]Your eyes slowly shut, as you drift off into dreams.";
+	score the achievement with message "going to bed";
 	end the game in victory;
 	
 Check entering the bed when the decorative lights are plugged during the Endgame:
@@ -1128,7 +1129,7 @@ Book 2 - Scenes
 Endgame is a scene.
 
 [accounting for a weird starting-condition bug]
-Endgame begins when the score is the achievement maximum score and the score is not zero.
+Endgame begins when the score is the achievement maximum score minus one and the score is not zero.
 
 When endgame begins:
 	if the location is Mom's Bedroom or the location is Mom's Bathroom:
@@ -1303,6 +1304,7 @@ used  	points  	message
 0	20	"going to the front stoop"
 0	5	"picking up the gift"
 0	20	"giving Mom a present"
+0	1	"going to bed"
 
 test game with "test instruments / test puzzle / test cat-petting / test stoop / test endgame2"
 	
