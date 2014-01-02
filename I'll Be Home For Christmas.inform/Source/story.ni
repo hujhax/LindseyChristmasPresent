@@ -1015,6 +1015,8 @@ The description of Samson cat is "Samson looks like the cat equivalent of a midd
 
 Instead of hugging Samson cat, say "You try hugging him.  He goes rigid, and then he starts faintly growling.  You put him down."
 
+Instead of giving the handful of food to Samson, say "He just eyes you suspiciously."
+
 Instead of petting Samson cat:
 	say "You start petting him, but he goes rigid, and then he starts faintly growling.";	
 	score the achievement with message "petting Samson cat";
@@ -1071,6 +1073,8 @@ Instead of answering Eastwood cat that something:
 	otherwise:
 		say "She blinks back at you incomprehendingly.";
 
+Instead of giving the handful of food to Eastwood, say "Eastwood sniffs at the food, but doesn't eat any.  She's been getting more finicky about food lately."
+	
 Instead of going southwest from the Hallway when Eastwood is worn, say "You should put down Eastwood first, since you don't want a huge catfight on your hands."
 	
 test eastwood with "goto dining room / summon / get eastwood / say eastwood to eastwood / give eastwood to mom"
