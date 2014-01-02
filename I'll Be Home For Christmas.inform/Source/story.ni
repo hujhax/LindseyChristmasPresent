@@ -103,7 +103,7 @@ Understand the command "look outside" as something new.
 Looking outside is an action applying to nothing.
 Understand "look outside" as looking outside.
 
-The window is a backdrop.  It is everywhere.  Understand "windows", "narrow window" as the window.
+The window is a backdrop.  It is everywhere.  Understand "windows", "narrow window", "east windows", "south windows" as the window.
 
 Understand "look out [a window]" as searching.
 Instead of searching the window, try looking outside.
