@@ -303,7 +303,7 @@ After printing the locale description of Peter's Bedroom when something (called 
 	
 The rolling table is a supporter in Peter's Bedroom. The description of the rolling table is "A small gray table with metal legs and wheels at the bottom.  Between the gummed-up bearings in the wheels and the caster-unfriendly carpeting, the table is pretty well rooted in place."
 
-The stereo is a container on the rolling table.  The description of the stereo is "This is a bookshelf-audio system that your dad bought you shortly after the divorce.  It's made of cheap black plastic, and it's some generic off brand ('Yorx'), and it's old enough to have a turntable at the top of it -- who uses those any more?  Fortunately, it has FM/AM radio and not one but two cassette bays, so it works fine for your purposes."
+The stereo is a container on the rolling table.  The description of the stereo is "This is a bookshelf-audio system that your dad bought you shortly after the divorce.  It's made of cheap black plastic, and it's some generic off brand ('Yorx'), and it's old enough to have a turntable at the top of it -- who uses those any more?  Fortunately, it has FM/AM radio and a cassette bay, so it works fine for your purposes."
 
 The windows are scenery in Peter's Bedroom.  "The windows in the room are tall and narrow, and sit behind tall curtains.  A little gray metal crank beneath each window opens and shuts it -- the windows are hinged to tilt out sideways -- and little metal levers alongside the windowsill lock them in place.  But it's winter, and it's cold, so the windows are staying closed, and the screens are in storage in the basement."
 
