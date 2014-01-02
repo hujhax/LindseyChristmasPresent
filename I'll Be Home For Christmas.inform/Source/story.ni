@@ -325,6 +325,9 @@ Understand the command "play" as something new.
 Playing is an action applying to one carried thing.
 Understand "play [something]" as playing.
 
+Carry out playing something:
+	say "You don't see a clear way to play [the noun]."
+
 A cheap keyboard is in Peter's Bedroom.  The description of the cheap keyboard is "This is a bottom-of-the-line Casio keyboard.  It features a few dozen non-weighted keys, a speaker the size of several quarters laid end-to-end, and a selection of rhythm buttons, including 'Rock 2' and 'Bossa Nova'.  Your mother bought this for you after relentless begging for *some* kind of piano for every birthday and Christmas.  Now, years later, it sits in the corner unused."
 
 Instead of playing the keyboard:
