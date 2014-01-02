@@ -526,6 +526,8 @@ Understand "random smattering of books" and "smattering of books" as some books.
 
 The text-adventure game is on the display case.  The description of the text-adventure game is "This is a copy of [italic type]Enchanter[roman type], one of the few computer games you've ever bought.  The cover has a stylized 'e' on the cover, with the title written in old typography, complete with little sketched-in guide-lines and circles for all its serifs and curves.  (The Infocom logo, sitting discreetly in the corner, is its usual font.)  It contains an instruction manual but no disk. "
 
+Instead of playing the game, say "You already have that installed on the computer."
+
 Understand "Enchanter" as the text-adventure game.
 
 Chapter 6 - The Bathroom
