@@ -84,6 +84,9 @@ West of Kitchen is Seating Area.
 Northeast of Kitchen is Laundry Room.
 Northeast of Seating Area is Dining Room.
 
+Instead of going inside when the location is the Front Stoop, try going west.
+Instead of exiting when the location is the Foyer, try going east.
+
 Mom's bedroom door is a door.  Mom's door is scenery.  Mom's bedroom door is northeast of Mom's Bedroom and southwest of the Hallway.
 
 Instead of opening Mom's bedroom door:
