@@ -1200,7 +1200,7 @@ Instead of taking Eastwood:
 	now the player wears Eastwood;
 	now Eastwood is trapped;
 	
-Instead of taking Eastwood when the phone is ringing or the phone is connected, say "Mom holds on to Eastwood protectively."
+Instead of taking Eastwood when the telephone is ringing or the telephone is connected, say "Mom holds on to Eastwood protectively."
 	
 Carry out dropping Eastwood:
 	now Eastwood is free;
