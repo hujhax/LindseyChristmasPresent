@@ -765,6 +765,8 @@ The kitchen lamp is scenery in the Kitchen. "This is a small gooseneck lamp that
 
 Chapter 13 - Dining Room
 
+Section 1 - Miscellaneous Objects
+
 The dining-room table is scenery in the Dining Room.  "A normal table, with a tablecloth, on rolling casters. 
 The table is surrounded by a set of rolling chairs."
 
@@ -772,13 +774,7 @@ The tablecloth is scenery in the Dining Room.  "The thick vinyl tablecloth has a
 
 The dining-room chairs are scenery in the Dining Room. "This is a set of wooden chairs.  Each chair sits on four metal casters, and the back and seat of each is a rectangle of taupe upholstery."
 
-The rolling shelf is a fixed in place supporter in the Dining Room.  The description of it is "A simple rolling shelf -- a small, light-brown counter sits on top of a white cabinet, which rolls on four black casters at the corners."
-
-A telephone is on the rolling shelf.  It is fixed in place.  The description of it is "This is a black phone with a grid of number buttons instead of a dial and a mismatched yellow receiver."
-
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right."
-
-The rolling-shelf cabinet is scenery in the Dining Room.  "A plain white cabinet."
+The rolling-shelf cabinet is scenery in the Dining Room.  "A plain white cabinet." 
 
 Instead of opening the cabinet, say "To your surprise, the cabinet is empty.  You close it back up."
 
@@ -797,6 +793,18 @@ The dining-room captioning machine is a captioner on the dining-room end table.
 After examining the walls in the Dining Room, say "There are a couple of framed posters on the walls."
 
 The dining-room posters are scenery in the Dining Room. "A couple of framed posters -- Toulouse Lautrec poster art for the Moulin Rouge -- adorn the walls."
+
+Section 2 - The Phone
+
+The rolling shelf is a fixed in place supporter in the Dining Room.  The description of it is "A simple rolling shelf -- a small, light-brown counter sits on top of a white cabinet, which rolls on four black casters at the corners."
+
+Instead of opening the rolling shelf, try opening the rolling-shelf cabinet.
+
+A telephone is on the rolling shelf.  It is fixed in place.  The description of it is "This is a black phone with a grid of number buttons instead of a dial and a mismatched yellow receiver."
+
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right."
+
+
 
 Chapter 14 - Mom's Bedroom
 
