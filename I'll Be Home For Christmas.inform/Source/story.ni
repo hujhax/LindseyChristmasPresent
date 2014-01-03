@@ -804,7 +804,9 @@ A telephone is on the rolling shelf.  The description of it is "This is a black 
 
 The handset is a thing.
 
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right."
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".
+
+The holster is a container.  The holster is part of the TDD.
 
 After giving Eastwood to Mom, the telephone rings in two turns from now.
 
@@ -853,7 +855,15 @@ Every turn:
 
 test phone with "goto dining room / summon / take eastwood / give eastwood to mom / z / z"
 
+Instead of inserting the handset into anything, say "You don't really see the point of that."
+Instead of putting the handset on anything, say "You don't really see the point of that."
 
+Instead of putting the handset on the TDD:
+	say "You carefully put the phone's receiver onto the circular holsters of the TDD.";
+	now the handset is in the holster;
+	
+Instead of inserting the telephone into something (called the host), try inserting the handset into the host.
+Instead of putting the telephone on something (called the host), try putting the handset on the host.
 
 Chapter 14 - Mom's Bedroom
 
