@@ -900,8 +900,14 @@ Check typing it on when the second noun is the TDD and the TDD is switched off:
 Carry out typing it on:
 	say "You type '[the topic understood]' on the TDD.";
 	now the last user text of the TDD is the topic understood;
+	now the TDD is showing user text;
 	
 test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD"
+After typing a topic on the TDD when the telephone is connected and the tdd is switched on and the handset is in the holster:
+	say "A reply scrolls onto the LCD display like electronic tickertape.";
+	now the TDD is showing reply text;
+	increment the reply number of the TDD;
+	if the reply number of the TDD is three, now the telephone is disconnected;
 
 
 Chapter 14 - Mom's Bedroom
