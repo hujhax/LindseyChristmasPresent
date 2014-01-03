@@ -863,7 +863,7 @@ Instead of dropping the handset:
 	
 Instead of listening to the telephone:
 	if the handset is not carried, try taking the telephone;
-	say "You hold the receiver to your ear, and hear [if connected]a strange series of warbling chirps[otherwise]your standard dial tone.[end if]";
+	say "You hold the receiver to your ear, and hear [if connected]a strange series of warbling chirps[otherwise]your standard dial tone[end if].";
 
 Instead of listening to the handset, try listening to the telephone.
 
@@ -1199,6 +1199,8 @@ Instead of taking Eastwood:
 	say "Eastwood happily climbs up your arm and rests on your shoulders.";
 	now the player wears Eastwood;
 	now Eastwood is trapped;
+	
+Instead of taking Eastwood when the phone is ringing or the phone is connected, say "Mom holds on to Eastwood protectively."
 	
 Carry out dropping Eastwood:
 	now Eastwood is free;
