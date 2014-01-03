@@ -1032,6 +1032,8 @@ Instead of asking Mom about a topic listed in the Table of Mom's Replies, say "[
 
 Understand "yard sale", "yard sales" as "[yard sale]".
 Understand "future", "the future" as "[future]".
+Understand "ga", "go ahead" as "[ga]".
+Understand "sk", "signal kill" as "[sk]".
 
 Table of Mom's Replies
 Topic	Reply
@@ -1044,6 +1046,8 @@ Topic	Reply
 "Betsy"	"'I don't think Saudi Arabia is really agreeing with her, but, it's the army, so you go where they put ya.'"
 "Love"	"She sings a quick verse of 'L-O-V-E'.  It's wildly off-key, but you can tell that, before the hearing loss, she must have had a good voice."
 "[future]"	"'Things keep changing all the time,' she says.  'I don't really know what the future will be like.'  She thinks a moment.  'We'll all have jetcars!' she says brightly."
+"[ga]"	"'I *think* [']GA['] means [']go ahead.[']  I just know it's what you type at the end of a TDD message to let the other person know it's their turn.'"
+"[sk]"	"'I'm pretty sure [']SK['] means [']signal kill,['] because [']SK['] is what you type at the end of a TDD conversation.  I guess it's optional, though.'"
 
 Understand "ask [someone] about [any thing]" as interrogating it about. interrogating it about is an action applying to two visible things.
 
@@ -1068,6 +1072,8 @@ Mom's Tape One	"'Don't tape over that,' she says.  'I still have to watch Muhtlu
 puzzle toy	"'I think it's some kind of puzzle, isn't it?' she asks.  'Aren't yard sales wonderful?' she adds."
 bats	"'I think those bats are just great,' she says proudly.  'Maybe we should keep them up year round,' she adds with a conspiratorial smile."
 gift	"[if the location of the gift is the front stoop]'That's probably a gift from the neighbors.'[otherwise if the front door is untouched]'What gift?' she asks.[otherwise]'That's a lovely gift.  Thank you for bringing it in.'[end if]"
+TDD	"'The [']G['] button was acting up yesterday.  I thought I wouldn't be able to type [']GA[']!  Nobody would've known how to talk to me!'"
+telephone	"[if Eastwood is trapped and (the telephone is ringing or the telephone is connected)]She says, 'Oh, I can't get up to answer the phone right now.  I'm busy petting Eastwood.'[otherwise]'Thank goodness for the TDD.  I thought I'd never be able to talk on the phone again!  Or, well, [']type['], really.'[end if]"
 
 test mom with "goto dining room / ask mom about me / ask mom about franco"
 
