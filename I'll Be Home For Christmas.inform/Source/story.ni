@@ -1398,6 +1398,29 @@ hint	used
 "If you give Eastwood to Mom, that should keep her (Eastwood) occupied for about thirty turns."
 "Once both cats are occupied, you can go out the door."
 
+Table of Phone Hints
+hint	used
+"First, you need to answer the phone by picking it up."	0
+"Did you try listening to the phone?"	
+"Did you notice that Mom wears hearing aids?"
+"How does she use the phone, then?"
+"Try asking her about that."
+"Note that the TDD is right next to the phone."
+"It has a couple of circular holsters, right?"
+"It seems like they could fit a phone receiver, right?"
+"Try putting the receiver on the TDD."
+"Notice that you have to turn the TDD on as well."
+"If enough time goes by without any conversation, the person on the other line will get bored and hang up.  You don't want that."
+"If you accidentally hang up, you can try re-giving Eastwood to Mom -- via Murphy's Law, that should set the phone ringing again in a few turns."
+"Have you tried typing anything to the person on the other line?"
+"Are they replying?"
+"Mom is obviously the expert on the TDD; try asking her about it."
+"She mentioned 'GA' -- ask her about that, too."
+"You need to end what you type on the TDD with 'GA', so the other person knows that it's their turn to respond.  That's how TDDs worked!"
+"Do this several times, and you'll get a bit of information."
+"You should probably pass that on to Mom."
+"Try TELL MOM ABOUT APPOINTMENT."
+
 Table of Random Scoring Hints
 hint	used
 "Have you tried petting the cats?"	0
@@ -1431,6 +1454,7 @@ Table of Potential Hints (continued)
 title  	subtable  
 "How do I solve the puzzle toy?"  	Table of Puzzle Toy Hints  
 "How do I get out the front door?"  	Table of Front Door Hints  
+"What do I do with the phone?"	Table of Phone Hints
 "Mom has gone to bed.  What do I do now?"  	Table of Endgame Hints 
 "What other random things will score me points?"	Table of Random Scoring Hints
 
@@ -1445,6 +1469,9 @@ A hint activation rule:
 
 A hint activation rule:
 	If the score is greater than 20, activate the table of Random Scoring Hints.
+	
+A hint activation rule:
+	If the telephone is ringing, activate the Table of Phone Hints.
 
 Chapter 2 - Scoring
 
