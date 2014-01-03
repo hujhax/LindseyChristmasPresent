@@ -808,7 +808,7 @@ A telephone is on the rolling shelf.  The description of it is "This is a black 
 
 The handset is a thing.
 
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing user text.  The TDD is showing reply text.  The TDD has some text called the last user text.  The last user text of the TDD is "last user text".  The TDD has a number called the reply number.  The reply number of the TDD is one.
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing reply text.  The TDD is showing user text.  The TDD has some text called the last user text.  The last user text of the TDD is "last user text".  The TDD has a number called the reply number.  The reply number of the TDD is one.
 
 Table of TDD-Replies
 index	tdd-reply
