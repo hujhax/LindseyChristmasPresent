@@ -825,8 +825,6 @@ After examining the TDD when the TDD is switched on:
 	if the display text is not "":
 		say "The LCD display shows the text '[display text]'.";		
 
-test TDD with "goto dining room / turn on TDD / x TDD"
-
 The holster is a container.  The holster is part of the TDD.
 
 After giving Eastwood to Mom, the telephone rings in two turns from now.
@@ -885,6 +883,24 @@ Instead of putting the handset on the TDD:
 	
 Instead of inserting the telephone into something (called the host), try inserting the handset into the host.
 Instead of putting the telephone on something (called the host), try putting the handset on the host.
+
+typing it on is an action applying to one topic and one thing.
+Understand "type [text] on [thing]" as typing it on.
+Understand "type in [text] on [thing]" as typing it on.
+Understand "type out [text] on [thing]" as typing it on.
+Understand "enter [text] on [thing]" as typing it on.
+
+Check typing it on when the second noun is not the TDD:
+	say "You don't see an obvious way to type on [the second noun]." instead.
+	
+Check typing it on when the second noun is the TDD and the TDD is switched off:
+	say "That won't do much good, as the TDD is switched off." instead.
+
+[this should only work on a switched-on TDD]
+Carry out typing it on:
+	say "You type '[the topic understood]' on the TDD."
+	
+test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD"
 
 Chapter 14 - Mom's Bedroom
 
