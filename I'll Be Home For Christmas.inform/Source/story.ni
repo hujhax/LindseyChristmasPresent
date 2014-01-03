@@ -564,6 +564,8 @@ Instead of taking the shower, say "You took a shower this morning, so you should
 
 Chapter 7 - The Foyer
 
+Section 1 - Miscellaneous Objects
+
 The foyer dresser is a closed, openable container in the Foyer.  It is scenery.  The description of the foyer dresser is "A massively heavy brown dresser sits to the side of the front door."
 
 Instead of opening the foyer dresser, say "You take a quick peek inside, and see that the dresser drawers are full-to-bursting with heavy coats, scarves, hats, and gloves."
@@ -571,6 +573,8 @@ Instead of opening the foyer dresser, say "You take a quick peek inside, and see
 After examining the walls in the Foyer, say "You see the thermostat sticking out of the south wall."
 
 The thermostat is scenery in the Foyer. "A little brown-metal box juts from the wall, with a small dial poking out of the bottom for setting the temperature.  As usual, mom keeps the thermostat set around 71 for the winter."
+
+Section 2 - The Front Door
 
 The front door is a closed door.  The front door is scenery.  The front door is east of the Foyer and west of the Front Stoop.  The front door is either touched or untouched.  The front door is untouched.
 
