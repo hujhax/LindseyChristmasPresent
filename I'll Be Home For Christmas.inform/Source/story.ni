@@ -1281,7 +1281,7 @@ At the time when Franco escapes:
 	now Franco is free;
 
 test franco with "goto kitchen / summon / open oven / get cat food / give handful of food to franco".
-test cat-petting with "summon / pet franco / pet eastwood / pet samson".
+test cat-petting with "summon / pet franco / pet eastwood / pet samson / say eastwood to eastwood".
 
 Book 2 - Scenes
 
