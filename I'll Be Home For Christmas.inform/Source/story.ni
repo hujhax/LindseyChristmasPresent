@@ -823,7 +823,7 @@ After examining the TDD when the TDD is switched on:
 	otherwise:
 		now the currently-displayed text of the TDD is the tdd-reply corresponding to an index of the reply number of the TDD in the Table of TDD-Replies;
 	if the currently-displayed text of the TDD is not "":
-		say "The LCD display shows the text '[the currently-displayed text of the TDD]'.";
+		say "The LCD display shows the text '[the currently-displayed text of the TDD in upper case]'.";
 		
 The holster is a container.  The holster is part of the TDD.
 
@@ -898,7 +898,7 @@ Check typing it on when the second noun is the TDD and the TDD is switched off:
 
 [this should only work on a switched-on TDD]
 Carry out typing it on:
-	say "You type '[the topic understood]' on the TDD.";
+	say "You type '[the topic understood in upper case]' on the TDD.";
 	now the last user text of the TDD is the topic understood;
 	now the TDD is showing user text;
 	
