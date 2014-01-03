@@ -903,12 +903,6 @@ Carry out typing it on:
 	
 test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD"
 
-Fooing is an action applying to nothing.
-Understand "foo" as fooing.
-
-Carry out fooing:
-	say the last user text of the TDD;
-
 
 Chapter 14 - Mom's Bedroom
 
