@@ -1477,7 +1477,7 @@ Endgaming is an action applying to nothing.
 Understand "cue endgame" as endgaming.
 
 Carry out endgaming:
-	now the score is the achievement maximum score.
+	now the score is the achievement maximum score minus one.
 	
 Understand "[any room]" as going by name. Understand "goto [any room]", "go to [any room]" as going by name.
 
