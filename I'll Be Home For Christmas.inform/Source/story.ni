@@ -832,7 +832,7 @@ The holster is a container.  The holster is part of the TDD.
 After giving Eastwood to Mom, the telephone rings in two turns from now.
 
 At the time when the telephone rings:
-	if the handset is not carried:
+	if the handset is off-stage and the telephone is silent:
 		now the telephone is ringing;
 		the telephone goes silent in five turns from now.
 	
