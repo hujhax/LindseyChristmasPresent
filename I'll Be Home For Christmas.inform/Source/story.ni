@@ -921,17 +921,16 @@ After typing a topic on the TDD when the telephone is connected and the tdd is s
 
 Understand "appointment", "her appointment", "Mom's appointment", "audiologist appointment", "her audiologist appointment", "Mom's audiologist appointment", "audiologist's appointment", "her audiologist's appointment", "Mom's audiologist's appointment" as "[appointment]"
 
-Carry out telling Mom about "[appointment]":
+Instead of telling Mom about "[appointment]":
 	if the achievement "getting information for Mom via the TDD" is scored:
 		if the achievement "reminding mom of her audiologist's appointment" is scored:
-			say "She says, 'Yes, you told me about that.  Thank you.'" instead;
+			say "She says, 'Yes, you told me about that.  Thank you.'";
 		otherwise:
 			say "She raises both eyebrows.  'Oh, yes!  I have my appointment tomorrow.  I'll have to thank Francis for the reminder.'";
 			score the achievement with message "reminding mom of her audiologist's appointment";
 	otherwise:
-		say "She says, 'I'm not sure what you're talking about.'" instead;
-		stop the action;
-		
+		say "She says, 'I'm not sure what you're talking about.'";
+				
 Instead of asking Mom about "[appointment]", try telling Mom about the topic understood.
 
 	
