@@ -808,7 +808,24 @@ A telephone is on the rolling shelf.  The description of it is "This is a black 
 
 The handset is a thing.
 
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing user text.  The TDD is showing reply text.  The TDD has some text called the last user text.  The last user text of the TDD is "last user text".  The TDD has a number called the reply number.  The reply number of the TDD is one.
+
+Table of TDD-Replies
+index	tdd-reply
+1	"THIS MUST BE PETER :) THIS IS FRANCIS DO U KNOW IF JUDYS THERE GA"
+2	"OK PLZ TELL JUDY ABOUT HER APPOINTMENT GA"
+3	"THANX PETER SK"
+
+After examining the TDD when the TDD is switched on:
+	let display text be "";	
+	if the TDD is showing user text:
+		now display text is the last user text of the TDD;
+	otherwise:
+		now display text is the tdd-reply corresponding to an index of the reply number of the TDD in the Table of TDD-Replies;
+	if the display text is not "":
+		say "The LCD display shows the text '[display text]'.";		
+
+test TDD with "goto dining room / turn on TDD / x TDD"
 
 The holster is a container.  The holster is part of the TDD.
 
