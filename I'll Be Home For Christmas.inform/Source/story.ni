@@ -808,7 +808,7 @@ A telephone is on the rolling shelf.  The description of it is "This is a black 
 
 The handset is a thing.
 
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing reply text.  The TDD is showing user text. The TDD has some indexed text called the last user text.  The TDD has some indexed text called the currently-displayed text.  The TDD has a number called the reply number.  The reply number of the TDD is one.
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing reply text.  The TDD is showing user text. The TDD has some indexed text called the last user text.  The TDD has some indexed text called the currently-displayed text.  The TDD has a number called the reply number.  The reply number of the TDD is zero.  The TDD has a number called the previous reply number.  The previous reply number of the TDD is zero.
 
 Table of TDD-Replies
 index	tdd-reply
@@ -902,13 +902,24 @@ Carry out typing it on:
 	now the last user text of the TDD is the topic understood;
 	now the TDD is showing user text;
 	
-test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD"
 After typing a topic on the TDD when the telephone is connected and the tdd is switched on and the handset is in the holster:
 	say "A reply scrolls onto the LCD display like electronic tickertape.";
 	now the TDD is showing reply text;
 	increment the reply number of the TDD;
 	if the reply number of the TDD is three, now the telephone is disconnected;
 
+[if the TDD is unresponded to for a long time, Frances will get bored and hang up.]
+Definition: the TDD is idle if the telephone is connected and the reply number of the TDD is the previous reply number of the TDD.
+
+Every turn:
+	 If the TDD has been idle for 15 turns:
+		if the location is the Dining Room, say "You think you hear a faint 'click' from the telephone.";
+		now the telephone is disconnected;
+	now the previous reply number of the TDD is the reply number of the TDD;
+
+test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / put it on the TDD / type hello on the TDD / x TDD / type how are you on the TDD / x TDD / type i'm a monkey on the TDD / x TDD / type this might crash on the TDD / x TDD"
+
+test idle-TDD with "goto dining / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z "
 
 Chapter 14 - Mom's Bedroom
 
