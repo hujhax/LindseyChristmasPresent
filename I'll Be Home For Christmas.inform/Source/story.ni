@@ -1460,7 +1460,7 @@ used  	points  	message
 0	5	"reminding mom of her audiologist's appointment"
 0	1	"going to bed"
 
-test game with "test instruments / test puzzle / test cat-petting / test stoop / test endgame2"
+test game with "test instruments / test puzzle / test cat-petting / test tdd / test stoop / test endgame2"
 	
 Chapter 3 - New Adjectives
 
