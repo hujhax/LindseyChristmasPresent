@@ -808,7 +808,7 @@ A telephone is on the rolling shelf.  The description of it is "This is a black 
 
 The handset is a thing.
 
-A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing reply text.  The TDD is showing user text. The TDD has some indexed text called the last user text.  The TDD has a number called the reply number.  The reply number of the TDD is one.
+A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right.[if the handset is in the holster]  The handset of the phone sits in the holsters.[end if]".  The TDD can be showing user text or showing reply text.  The TDD is showing user text. The TDD has some indexed text called the last user text.  The TDD has some indexed text called the currently-displayed text.  The TDD has a number called the reply number.  The reply number of the TDD is one.
 
 Table of TDD-Replies
 index	tdd-reply
@@ -816,15 +816,14 @@ index	tdd-reply
 2	"OK PLZ TELL JUDY ABOUT HER APPOINTMENT GA"
 3	"THANX PETER SK"
 	
-now-showing is some indexed text which varies;
-
 After examining the TDD when the TDD is switched on:
+	now the currently-displayed text of the TDD is "";
 	if the TDD is showing user text:
-		now now-showing is the last user text of the TDD;
+		now the currently-displayed text of the TDD is the last user text of the TDD;
 	otherwise:
-		now now-showing is the tdd-reply corresponding to an index of the reply number of the TDD in the Table of TDD-Replies;
-	if now-showing is not "":
-		say "The LCD display shows the text '[now-showing]'.";
+		now the currently-displayed text of the TDD is the tdd-reply corresponding to an index of the reply number of the TDD in the Table of TDD-Replies;
+	if the currently-displayed text of the TDD is not "":
+		say "The LCD display shows the text '[the currently-displayed text of the TDD]'.";
 		
 The holster is a container.  The holster is part of the TDD.
 
