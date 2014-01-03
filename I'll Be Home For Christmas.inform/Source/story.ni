@@ -813,7 +813,7 @@ A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The
 Table of TDD-Replies
 index	tdd-reply
 1	"THIS MUST BE PETER :) THIS IS FRANCIS DO U KNOW IF JUDYS THERE GA"
-2	"OK PLZ TELL JUDY ABOUT HER APPOINTMENT GA"
+2	"OK PLZ TELL JUDY ABOUT HER AUDIOLOGIST APPOINTMENT GA"
 3	"THANX PETER SK"
 	
 After examining the TDD when the TDD is switched on:
@@ -917,8 +917,25 @@ After typing a topic on the TDD when the telephone is connected and the tdd is s
 			now the telephone is disconnected;
 	otherwise:
 		say "Oddly, there is no reply.";
+
+
+Understand "appointment", "her appointment", "Mom's appointment", "audiologist appointment", "her audiologist appointment", "Mom's audiologist appointment", "audiologist's appointment", "her audiologist's appointment", "Mom's audiologist's appointment" as "[appointment]"
+
+Carry out telling Mom about "[appointment]":
+	if the achievement "getting information for Mom via the TDD" is scored:
+		if the achievement "reminding mom of her audiologist's appointment" is scored:
+			say "She says, 'Yes, you told me about that.  Thank you.'" instead;
+		otherwise:
+			say "She raises both eyebrows.  'Oh, yes!  I have my appointment tomorrow.  I'll have to thank Francis for the reminder.'";
+			score the achievement with message "reminding mom of her audiologist's appointment";
+	otherwise:
+		say "She says, 'I'm not sure what you're talking about.'" instead;
+		stop the action;
 		
-test TDD with "goto peter's bedroom / type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / put it on the TDD / type hello on the TDD / x TDD / type hello ga on the TDD / x TDD / type how are you ga on the TDD / x TDD / type i'm a monkey ga on the TDD / x TDD / type this might crash on the TDD / x TDD"
+Instead of asking Mom about "[appointment]", try telling Mom about the topic understood.
+
+	
+test TDD with "goto peter's bedroom / type skf on guitar / goto dining room / tell mom about appointment / type skf on TDD / turn on TDD / type skf on TDD / x TDD / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / put it on the TDD / type hello on the TDD / x TDD / type hello ga on the TDD / x TDD / type how are you ga on the TDD / x TDD / type i'm a monkey ga on the TDD / x TDD / type this might crash on the TDD / x TDD / tell mom about appointment"
 
 [if the TDD is unresponded to for a long time, Frances will get bored and hang up.]
 Definition: the TDD is idle if the telephone is connected and the reply number of the TDD is the previous reply number of the TDD.
