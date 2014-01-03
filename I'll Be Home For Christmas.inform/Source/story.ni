@@ -800,9 +800,58 @@ The rolling shelf is a fixed in place supporter in the Dining Room.  The descrip
 
 Instead of opening the rolling shelf, try opening the rolling-shelf cabinet.
 
-A telephone is on the rolling shelf.  It is fixed in place.  The description of it is "This is a black phone with a grid of number buttons instead of a dial and a mismatched yellow receiver."
+A telephone is on the rolling shelf.  The description of it is "This is a black phone with a grid of number buttons instead of a dial and a mismatched yellow receiver."  Understand "phone" and "receiver" as the telephone.  The telephone is either connected or disconnected.  It is disconnected.  The telephone is either ringing or silent.  It is silent.
+
+The handset is a thing.
 
 A TDD is a switched off device on the rolling shelf.  It is fixed in place.  The description of it is "This is a little white box, maybe half the size of an electrical typewriter, with a black keyboard, an LCD display, an on/off switch, and two circular holsters, one on its left, one on its right."
+
+After giving Eastwood to Mom, the telephone rings in two turns from now.
+
+At the time when the telephone rings:
+	if the handset is not carried:
+		now the telephone is ringing;
+		the telephone goes silent in five turns from now.
+	
+At the time when the telephone goes silent:
+	now the telephone is silent.
+	
+Instead of taking the telephone:
+	if the telephone is ringing:
+		now the telephone is connected;
+	say "You pick up the receiver of the phone.";
+	now the telephone is silent;
+	now the player has the handset;
+	
+Instead of taking the telephone when the handset is carried, say "You are already holding the receiver."
+
+Instead of dropping the telephone when the handset is a not carried, say "You're not holding it."
+
+Instead of dropping the telephone, try dropping the handset.
+
+Instead of dropping the handset:
+	say "You put the telephone receiver back down on the phone.";
+	now the telephone is disconnected;
+	remove the handset from play.
+	
+Instead of listening to the telephone:
+	if the handset is not carried, try taking the telephone;
+	say "You hold the receiver to your ear, and hear [if connected]a strange series of warbling chirps[otherwise]your standard dial tone.[end if]";
+
+Instead of listening to the handset, try listening to the telephone.
+
+Check going when the handset is carried:
+	try dropping the handset.
+	
+Every turn:
+	if the telephone is ringing:
+		if the location is:
+			-- the dining room: say "The phone rings with a combined ringing-and-beeping loud enough to raise the dead.";
+			-- the kitchen: say "The phone rings in the next room, and the lamp blinks on and off.";
+			-- Mom's bedroom: say "The phone rings in the dining room; a little recessed light blinks on and off.";
+			-- otherwise: say "The phone rings in the dining room, but you can hear it just fine from here.";
+
+test phone with "goto dining room / summon / take eastwood / give eastwood to mom / z / z"
 
 
 
