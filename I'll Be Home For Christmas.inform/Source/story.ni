@@ -829,7 +829,11 @@ After examining the TDD when the TDD is switched on:
 		
 The holster is a container.  The holster is part of the TDD.
 
-After giving Eastwood to Mom, the telephone rings in two turns from now.
+After giving Eastwood to Mom:
+	if the achievement "getting information for Mom via the TDD" is scored:
+		do nothing;
+	otherwise:
+		the telephone rings in two turns from now.
 
 At the time when the telephone rings:
 	if the handset is off-stage and the telephone is silent:
