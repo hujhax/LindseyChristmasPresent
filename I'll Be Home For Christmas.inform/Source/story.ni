@@ -1410,8 +1410,10 @@ hint	used
 "Have you tried opening the present?"
 "Maybe you should give it to someone else to open."
 "Try giving it to Eastwood."
-"That won't work, you idiot.  Eastwood has no opposable thumbs!"
-"Try giving it to the only other person in the house."
+"That won't work.  Eastwood has no opposable thumbs!"
+"Why would you give Eastwood a wrapped gift?"
+"Cats don't celebrate Christmas!"
+"Try giving the gift to the only other person in the house."
 "That would be Mom."
 
 Table of Endgame Hints
