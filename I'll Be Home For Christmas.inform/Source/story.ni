@@ -903,10 +903,16 @@ Carry out typing it on:
 	now the TDD is showing user text;
 	
 After typing a topic on the TDD when the telephone is connected and the tdd is switched on and the handset is in the holster:
-	say "A reply scrolls onto the LCD display like electronic tickertape.";
-	now the TDD is showing reply text;
-	increment the reply number of the TDD;
-	if the reply number of the TDD is three, now the telephone is disconnected;
+	if the topic understood matches the regular expression "ga$":
+		say "A reply scrolls onto the LCD display like electronic tickertape.";
+		now the TDD is showing reply text;
+		increment the reply number of the TDD;
+		if the reply number of the TDD is three:
+			now the telephone is disconnected;
+	otherwise:
+		say "Oddly, there is no reply.";
+		
+test TDD with "goto peter's bedroom / type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / put it on the TDD / type hello on the TDD / x TDD / type hello ga on the TDD / x TDD / type how are you ga on the TDD / x TDD / type i'm a monkey ga on the TDD / x TDD / type this might crash on the TDD / x TDD"
 
 [if the TDD is unresponded to for a long time, Frances will get bored and hang up.]
 Definition: the TDD is idle if the telephone is connected and the reply number of the TDD is the previous reply number of the TDD.
@@ -916,8 +922,6 @@ Every turn:
 		if the location is the Dining Room, say "You think you hear a faint 'click' from the telephone.";
 		now the telephone is disconnected;
 	now the previous reply number of the TDD is the reply number of the TDD;
-
-test TDD with "type skf on guitar / goto dining room / type skf on TDD / turn on TDD / type skf on TDD / x TDD / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / put it on the TDD / type hello on the TDD / x TDD / type how are you on the TDD / x TDD / type i'm a monkey on the TDD / x TDD / type this might crash on the TDD / x TDD"
 
 test idle-TDD with "goto dining / summon / get eastwood / give eastwood to mom / z / z / z / pick up phone / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z / z "
 
