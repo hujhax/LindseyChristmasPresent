@@ -824,6 +824,8 @@ After examining the TDD when the TDD is switched on:
 		now the currently-displayed text of the TDD is the tdd-reply corresponding to an index of the reply number of the TDD in the Table of TDD-Replies;
 	if the currently-displayed text of the TDD is not "":
 		say "The LCD display shows the text '[the currently-displayed text of the TDD in upper case]'.";
+	if the reply number of the TDD is two:
+		score the achievement with message "getting information for Mom via the TDD";
 		
 The holster is a container.  The holster is part of the TDD.
 
@@ -1421,7 +1423,7 @@ When play begins:
 
 Table of Achievements (continued)
 used  	points  	message  
-0  	40  	"solving the puzzle toy" 
+0  	20  	"solving the puzzle toy" 
 0  	10  	"petting Franco cat"  
 0  	10  	"petting Eastwood cat"  
 0	5	"chatting with Eastwood"
@@ -1433,6 +1435,8 @@ used  	points  	message
 0	20	"going to the front stoop"
 0	5	"picking up the gift"
 0	20	"giving Mom a present"
+0	15	"getting information for Mom via the TDD"
+0	5	"reminding mom of her audiologist's appointment"
 0	1	"going to bed"
 
 test game with "test instruments / test puzzle / test cat-petting / test stoop / test endgame2"
